@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El Pingüino Pablo y el Gigante de Piedra</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+        .story-title { font-family: 'Lora', serif; }
+        .story-content { font-family: 'Lora', serif; }
+
+        /* Custom styles for the range input (seek bar) */
+        .seek-slider {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 100%;
+            height: 5px;
+            background: #d1fae5;
+            outline: none;
+            opacity: 0.8;
+            transition: opacity .2s;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .seek-slider:hover {
+            opacity: 1;
+        }
+
+        .seek-slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 15px;
+            height: 15px;
+            background: #10b981;
+            border-radius: 50%;
+        }
+
+        .seek-slider::-moz-range-thumb {
+            width: 15px;
+            height: 15px;
+            background: #10b981;
+            border: none;
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body class="bg-emerald-50 text-gray-800 pb-24">
+
+    <div class="container mx-auto px-4 py-8 md:py-16">
+        <main class="max-w-3xl mx-auto bg-white rounded-2xl shadow-lg overflow-hidden">
+            <div class="p-8 md:p-12">
+
+                <!-- Header with Title and Icon -->
+                <header class="text-center mb-8">
+                    <img src="../../assets/icon.png" alt="Story Image" class="w-24 h-24 rounded-full object-cover mx-auto mb-4 shadow-md border-4 border-white">
+                    <h1 class="story-title text-3xl md:text-4xl font-bold text-emerald-800">El Pingüino Pablo y el Gigante de Piedra</h1>
+                </header>
+
+                <!-- Story Content -->
+                <div class="story-content text-lg leading-relaxed text-gray-700 space-y-4">
+                    
+                <div class="translatable-block">
+                    <p data-translation="Pablo is a very serious penguin. He always walks with his chest out, like an important official. One day, Pablo explores a rocky coast, far from his home. He is looking for a great adventure to make him famous.">Pablo es un pingüino muy serio. Siempre camina con el pecho afuera, como un <em>oficial</em> importante. Un día, Pablo explora una costa rocosa, lejos de su casa. Busca una gran aventura para ser famoso.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/9/images/1.png" alt="Un pingüino serio caminando por una playa rocosa." class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="Suddenly, Pablo stops. He sees a gigantic cliff. At the top, a large rock juts out, looking just like a giant's chin. Below it, the wide cliff face looks like a huge stone breast. 'Wow!' says Pablo. 'It is a sleeping stone giant! This is my discovery!'">De repente, Pablo se detiene. Ve un acantilado gigante. En la parte de arriba, una gran roca sobresale, parece la <em>barbilla</em> de un gigante. Debajo, la ancha pared del acantilado parece un enorme <em>pecho</em> de piedra. «¡Guau!», dice Pablo. «¡Es un gigante de piedra dormido! ¡Este es mi descubrimiento!»</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/9/images/2.png" alt="El pingüino Pablo mirando asombrado un acantilado que parece un gigante dormido." class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="Pablo has a magnificent idea. 'I must be a photographer! I will take a picture and show it to the world!' But he needs help. He finds his friend, Fifi the seal, playing in the water. 'Fifi, come quickly! I found a stone giant! We need to take a picture!' Fifi is very excited and agrees to help.">Pablo tiene una idea magnífica. «¡Debo ser un <em>fotógrafo</em>! ¡Voy a tomar una foto para mostrarla al mundo!». Pero necesita ayuda. Encuentra a su amiga, la foca Fifi, jugando en el agua. «¡Fifi, ven rápido! ¡Encontré un gigante de piedra! ¡Necesitamos tomar una foto!». Fifi está muy emocionada y acepta ayudar.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="Next, they see Alberto the albatross resting on a rock. 'Alberto!' shouts Pablo with his official voice. 'We are on an important mission to photograph a giant.' Alberto, impressed, joins them immediately. Soon, they also convince Carlos the grumpy crab to join the expedition.">Luego, ven al albatros Alberto descansando en una roca. «¡Alberto!», grita Pablo con su voz de oficial. «Estamos en una misión importante para fotografiar a un gigante». Alberto, impresionado, se une a ellos inmediatamente. Pronto, también convencen al cangrejo Carlos, que es un poco gruñón, para unirse a la expedición.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/9/images/3.png" alt="El pingüino, la foca, el albatros y el cangrejo marchando juntos en una misión." class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="The group arrives at the giant cliff. 'It's huge!' says Fifi. 'How do we take a picture?' asks Alberto. 'I don't have a camera,' says Carlos, the crab. They start to argue. They don't know what to do.">El grupo llega al acantilado gigante. «¡Es enorme!», dice Fifi. «¿Cómo tomamos una foto?», pregunta Alberto. «Yo no tengo una cámara», dice Carlos, el cangrejo. Empiezan a discutir. No saben qué hacer.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/9/images/4.png" alt="Los cuatro amigos animales discutiendo al pie del acantilado gigante." class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="Suddenly, a soft voice says, 'What is all this noise?' It is Lidia the owl, who is sitting on a high branch. Pablo proudly explains, 'We are here to photograph the stone giant!' Lidia looks at the cliff and then at the friends. She smiles wisely.">De repente, una voz suave dice: «¿Qué es todo este ruido?». Es la lechuza Lidia, que está sentada en una rama alta. Pablo explica con orgullo: «¡Estamos aquí para fotografiar al gigante de piedra!» Lidia mira el acantilado y luego a los amigos. Ella sonríe con sabiduría.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="'My dear friends,' says Lidia gently. 'There is no giant here. This is a very old mountain. The great law of nature is that the wind and the rain slowly change the rocks. For thousands of years, they have carved this shape. It looks like a giant, but it is only a beautiful illusion.'">«Mis queridos amigos», dice Lidia con calma. «Aquí no hay ningún gigante. Esta es una montaña muy vieja. La gran <em>ley</em> de la naturaleza es que el viento y la lluvia cambian las rocas lentamente. Durante miles de años, han tallado esta forma. Parece un gigante, pero es solo una bonita ilusión».</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/9/images/5.png" alt="La sabia lechuza Lidia explicando la verdad sobre la roca a los otros animales." class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="Pablo, Fifi, Alberto, and Carlos look at the rock again. Now they see it clearly: it's just a rock, very beautiful and very old. Pablo feels a little embarrassed, but his friends are happy. 'It doesn't matter,' says Fifi. 'We had a great adventure together!' And they all agree.">Pablo, Fifi, Alberto y Carlos miran la roca otra vez. Ahora la ven con claridad: es solo una roca, muy bonita y muy antigua. Pablo se siente un poco avergonzado, pero sus amigos están contentos. «No importa», dice Fifi. «¡Tuvimos una gran aventura juntos!». Y todos están de acuerdo.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                </div>
+
+                <!-- Moral of the Story -->
+                <footer class="mt-10 pt-6 border-t-2 border-emerald-100 text-center">
+                    
+                        <div class="translatable-block">
+                            <p class="story-title text-xl italic text-emerald-700 font-semibold" data-translation="It is better to observe carefully and understand the truth before creating a big story.">Moraleja: Es mejor observar con cuidado y entender la verdad antes de crear una gran historia.</p>
+                            <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                            <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                        </div>
+                </footer>
+            </div>
+        </main>
+    </div>
+
+    <!-- Sticky Audio Player -->
+    <div class="fixed bottom-0 left-0 right-0 z-50 bg-white/90 backdrop-blur-sm border-t border-gray-200">
+        <div class="max-w-3xl mx-auto px-4 py-3">
+             <!-- Audio element (hidden from view, controlled by JS) -->
+            <audio id="audio-player" src="../../assets/stories/9/audio/story.mp3" preload="metadata"></audio>
+
+            <!-- Custom Player Controls -->
+            <div class="flex items-center gap-2 md:gap-4">
+                <!-- Play/Pause Button -->
+                <button id="play-pause-btn" class="flex-shrink-0 text-emerald-600 hover:text-emerald-800 transition-colors p-2 rounded-full hover:bg-emerald-100 focus:outline-none">
+                    <svg id="play-icon" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 20 20">
+                      <path d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8.006v3.988a1 1 0 001.555.836l3.492-1.994a1 1 0 000-1.672l-3.492-1.994z" />
+                    </svg>
+                    <svg id="pause-icon" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 hidden" fill="currentColor" viewBox="0 0 20 20">
+                      <path d="M10 18a8 8 0 100-16 8 8 0 000 16zM8 7a1 1 0 00-1 1v4a1 1 0 001 1h1a1 1 0 001-1V8a1 1 0 00-1-1H8zm4 0a1 1 0 00-1 1v4a1 1 0 001 1h1a1 1 0 001-1V8a1 1 0 00-1-1h-1z" />
+                    </svg>
+                </button>
+
+                <!-- Progress Bar and Time -->
+                <div class="flex items-center gap-2 w-full">
+                    <span id="current-time" class="text-xs text-gray-600 font-mono w-10 text-center">0:00</span>
+                    <input type="range" id="seek-slider" class="seek-slider w-full" value="0" step="1">
+                    <span id="duration" class="text-xs text-gray-600 font-mono w-10 text-center">0:00</span>
+                </div>
+                
+                <!-- Speed Controls -->
+                <div class="flex items-center space-x-1 flex-shrink-0">
+                     <button data-speed="0.75" class="speed-btn w-12 px-2 py-1 text-xs rounded-md bg-gray-100 hover:bg-emerald-100 transition-colors">0.75x</button>
+                     <button data-speed="1" class="speed-btn w-12 px-2 py-1 text-xs rounded-md bg-emerald-200 text-emerald-800 font-semibold transition-colors">1x</button>
+                     <button data-speed="1.5" class="speed-btn w-12 px-2 py-1 text-xs rounded-md bg-gray-100 hover:bg-emerald-100 transition-colors">1.5x</button>
+                     <button data-speed="2" class="speed-btn w-12 px-2 py-1 text-xs rounded-md bg-gray-100 hover:bg-emerald-100 transition-colors">2x</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // --- Translation Logic ---
+            const translateButtons = document.querySelectorAll('.translate-btn');
+            translateButtons.forEach(button => {
+                button.addEventListener('click', () => {
+                    const block = button.closest('.translatable-block');
+                    const originalTextElement = block.querySelector('[data-translation]');
+                    const translationTextElement = block.querySelector('.translation-text');
+                    const translation = originalTextElement.getAttribute('data-translation');
+
+                    if (translationTextElement.classList.contains('hidden')) {
+                        translationTextElement.innerHTML = translation;
+                        translationTextElement.classList.remove('hidden');
+                        button.textContent = 'Ocultar';
+                    } else {
+                        translationTextElement.classList.add('hidden');
+                        button.textContent = 'Traducir';
+                    }
+                });
+            });
+
+            // --- Modern Audio Player Logic ---
+            const audioPlayer = document.getElementById('audio-player');
+            const playPauseBtn = document.getElementById('play-pause-btn');
+            const playIcon = document.getElementById('play-icon');
+            const pauseIcon = document.getElementById('pause-icon');
+            const seekSlider = document.getElementById('seek-slider');
+            const currentTimeEl = document.getElementById('current-time');
+            const durationEl = document.getElementById('duration');
+            const speedButtons = document.querySelectorAll('.speed-btn');
+
+            const formatTime = (seconds) => {
+                if (isNaN(seconds)) return '0:00';
+                const minutes = Math.floor(seconds / 60);
+                const secs = Math.floor(seconds % 60);
+                return `${minutes}:${secs.toString().padStart(2, '0')}`;
+            };
+
+            // Update UI when audio metadata is loaded
+            audioPlayer.addEventListener('loadedmetadata', () => {
+                durationEl.textContent = formatTime(audioPlayer.duration);
+                seekSlider.max = audioPlayer.duration;
+            });
+
+            // Play/Pause functionality
+            playPauseBtn.addEventListener('click', () => {
+                if (audioPlayer.paused) {
+                    audioPlayer.play();
+                } else {
+                    audioPlayer.pause();
+                }
+            });
+
+            audioPlayer.addEventListener('play', () => {
+                playIcon.classList.add('hidden');
+                pauseIcon.classList.remove('hidden');
+            });
+
+            audioPlayer.addEventListener('pause', () => {
+                playIcon.classList.remove('hidden');
+                pauseIcon.classList.add('hidden');
+            });
+
+            // Update slider and time as audio plays
+            audioPlayer.addEventListener('timeupdate', () => {
+                seekSlider.value = audioPlayer.currentTime;
+                currentTimeEl.textContent = formatTime(audioPlayer.currentTime);
+            });
+
+            // Seek functionality
+            seekSlider.addEventListener('input', () => {
+                audioPlayer.currentTime = seekSlider.value;
+            });
+
+            // Speed control functionality
+            speedButtons.forEach(button => {
+                button.addEventListener('click', () => {
+                    const speed = parseFloat(button.dataset.speed);
+                    audioPlayer.playbackRate = speed;
+
+                    // Update button active styles
+                    speedButtons.forEach(btn => {
+                        btn.classList.remove('bg-emerald-200', 'text-emerald-800', 'font-semibold');
+                        btn.classList.add('bg-gray-100');
+                    });
+
+                    button.classList.add('bg-emerald-200', 'text-emerald-800', 'font-semibold');
+                    button.classList.remove('bg-gray-100');
+                });
+            });
+        });
+    </script>
+
+</body>
+</html>
+
+

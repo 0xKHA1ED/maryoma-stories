@@ -1,0 +1,86 @@
+{
+  "title": "La Gallina Gala y la Lealtad del Reflejo",
+  "seed_words": [
+    "gallery",
+    "loyalty",
+    "brat",
+    "fault",
+    "final"
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "translation": "Gala the hen lives on a beautiful farm. She is a very proud hen with white and shiny feathers. One day, the farmer installs a new, very shiny metal water trough. Gala looks at the trough and sees a beautiful gallery of colors in the metal.",
+      "text": "La gallina Gala vive en una granja bonita. Es una gallina muy orgullosa con plumas blancas y brillantes. Un día, el granjero instala un bebedero de metal nuevo y muy brillante. Gala mira el bebedero y ve una hermosa galería de colores en el metal."
+    },
+    {
+      "type": "image",
+      "id": "1",
+      "alt": "Una gallina orgullosa mirando su reflejo en un bebedero de metal brillante por primera vez.",
+      "prompt": "A charming children's storybook illustration of a proud white hen, Gala, admiring her own reflection in a brand new, shiny metal water trough on a sunny farm. The style is gentle and colorful, with soft lighting. The hen has a slightly surprised and pleased expression. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "When Gala gets closer to drink, she sees another hen in the trough! This other hen copies all of Gala's movements. If Gala moves her head, the other hen also moves her head. 'What a loyal copy!' she thinks at first. But then, she remembers her corn is missing.",
+      "text": "Cuando Gala se acerca para beber, ¡ve a otra gallina en el bebedero! Esta otra gallina copia todos los movimientos de Gala. Si Gala mueve la cabeza, la otra gallina también mueve la cabeza. '¡Qué lealtad de copia!', piensa al principio. Pero luego, recuerda que su maíz ha desaparecido."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Gala gets angry. She thinks, 'This hen is a brat! She mocks me and eats my corn. It is her fault that I am hungry!' Gala decides to confront the bratty hen.",
+      "text": "Gala se enfada mucho. Piensa: '¡Esta gallina es una mocosa! Se burla de mí y se come mi maíz. ¡Es su culpa que yo tenga hambre!'. Gala decide que necesita confrontar a la gallina mocosa."
+    },
+    {
+      "type": "image",
+      "id": "2",
+      "alt": "La Gallina Gala, muy enfadada, señalando con su ala a su propio reflejo, que también la señala.",
+      "prompt": "A cute children's book illustration showing the white hen, Gala, looking very angry. She is pointing an accusatory wing at her reflection in the shiny trough. Her reflection perfectly mirrors the angry gesture. The background is a sunny farmyard. The style is expressive and cartoonish. No text."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Gala goes to find her friends. First, she finds Carlos the Pig. 'Carlos, you must help me! There is a brat in the water trough. It is her fault my corn is gone!' Carlos is a good friend and says, 'Of course, I will help you!'",
+      "text": "Gala va a buscar a sus amigos. Primero, encuentra al Cerdo Carlos. '¡Carlos, debes ayudarme! Hay una mocosa en el bebedero. ¡Es su culpa que mi maíz no esté!'. Carlos es un buen amigo y dice: '¡Claro, te ayudaré!'"
+    },
+    {
+      "type": "paragraph",
+      "translation": "Then, they find Olivia the Sheep. 'Olivia, come with us!' says Gala. 'We are going to confront a very rude hen. It is her fault there are problems on the farm!' Olivia, who doesn't like problems, joins them.",
+      "text": "Luego, encuentran a la Oveja Olivia. '¡Olivia, ven con nosotros!', dice Gala. 'Vamos a confrontar a una gallina muy maleducada. ¡Es su culpa que haya problemas en la granja!'. Olivia, a quien no le gustan los problemas, se une a ellos."
+    },
+    {
+      "type": "image",
+      "id": "3",
+      "alt": "Gala la gallina hablando seriamente con el Cerdo Carlos y la Oveja Olivia, reclutándolos para su misión.",
+      "prompt": "A storybook illustration featuring Gala the hen, Carlos the pig, and Olivia the sheep standing together. Gala looks determined, explaining her plan. Carlos the pig looks loyal and ready to help, and Olivia the sheep looks concerned but agreeable. They are in a grassy area of the farm. Whimsical and colorful style. No text."
+    },
+    {
+      "type": "paragraph",
+      "translation": "The three friends march toward the water trough, ready for a confrontation. They feel very brave and very strong together.",
+      "text": "Los tres amigos marchan hacia el bebedero, listos para la confrontación. Se sienten muy valientes y muy fuertes juntos."
+    },
+    {
+      "type": "image",
+      "id": "4",
+      "alt": "Una gallina, un cerdo y una oveja marchando juntos con determinación por la granja.",
+      "prompt": "A dynamic children's book illustration showing a determined white hen, a pig, and a sheep marching together in a line across the farmyard. Their expressions are serious and focused on their mission. The sun is shining, casting long shadows. Fun, friendly art style. No text."
+    },
+    {
+      "type": "paragraph",
+      "translation": "When they arrive, they all look into the trough and see a hen, a pig, and a sheep looking back! They are very confused. At that moment, Tula the Tortoise, the oldest and wisest animal on the farm, arrives slowly. She is the final voice of reason.",
+      "text": "Cuando llegan, todos miran dentro del bebedero y ven a una gallina, un cerdo y una oveja. ¡Están muy confundidos! En ese momento, la Tortuga Tula, el animal más viejo y sabio de la granja, llega lentamente. Ella es la voz final de la razón."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Tula smiles and says, 'Gala, that is not a brat. That is your reflection. It shows you a loyal image of yourself. The fault is not with another hen. Sometimes, we create our own problems.' Gala remembers she was very hungry earlier and probably ate all the corn herself.",
+      "text": "Tula sonríe y dice: 'Gala, esa no es una mocosa. Es tu reflejo. Te muestra una imagen leal de ti misma. La culpa no es de otra gallina. A veces, nosotros creamos nuestros propios problemas'. Gala recuerda que tenía mucha hambre antes y probablemente se comió todo el maíz ella sola."
+    },
+    {
+      "type": "image",
+      "id": "5",
+      "alt": "La sabia tortuga Tula explicando el concepto de reflejo a la gallina, el cerdo y la oveja, quienes miran su imagen en el agua con asombro.",
+      "prompt": "A heartwarming storybook illustration where a wise, old tortoise with kind eyes (Tula) is speaking to a confused hen, pig, and sheep. The three animals are looking down into the shiny water trough, their reflections clearly visible. Their expressions are changing from anger to surprise and understanding. Warm, gentle afternoon light. No text."
+    }
+  ],
+  "moral": {
+    "translation": "Before looking for fault in others, we must first look at ourselves.",
+    "text": "Antes de buscar la culpa en los demás, primero debemos mirarnos a nosotros mismos."
+  }
+}

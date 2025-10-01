@@ -1,0 +1,91 @@
+{
+  "title": "Loro Lito y el Algodón Gigante",
+  "seed_words": [
+    "left",
+    "sit",
+    "cotton",
+    "wake",
+    "closet"
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "translation": "In the forest lives a very curious parrot. His name is Loro Lito. One day, Lito is sitting on his favorite branch. He looks at the mountains in the distance. He sees something very strange.",
+      "text": "En el bosque vive un loro muy curioso. Su nombre es Loro Lito. Un día, Lito está sentado en su rama favorita. Mira las montañas a lo lejos. Ve algo muy extraño."
+    },
+    {
+      "type": "image",
+      "id": "1",
+      "alt": "Loro Lito, un loro verde, mira con sorpresa una nube blanca que descansa sobre una montaña.",
+      "prompt": "A charming children's book illustration in a soft, watercolor style. A cute, vibrant green parrot named Lito is perched on a tree branch, his eyes wide with surprise. In the background, a large, fluffy white cloud is sitting perfectly on the peak of a distant, gentle purple mountain under a bright blue sky. The atmosphere is sunny and innocent. Style of a classic storybook. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "On top of the tallest mountain, there is something big, white, and soft. It seems to be sitting on the mountain. 'What is that!' Lito thinks. 'It looks like a giant piece of cotton! And it's very still... <em>It's sleeping!</em>' he says out loud.",
+      "text": "En la cima de la montaña más alta, hay algo grande, blanco y suave. Parece que está sentado sobre la montaña. '¡Qué es eso!', piensa Lito. '¡Parece un algodón gigante! Y está muy quieto... <em>¡Está durmiendo!</em>', dice en voz alta."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Lito is a very determined parrot. 'I have an important mission,' he thinks. 'I need to wake up the giant cotton!' Lito flies through the forest to look for help. First, he finds his friend, Ardilla Adela the squirrel.",
+      "text": "Lito es un loro muy decidido. 'Tengo una misión importante', piensa. '¡Necesito despertar al algodón gigante!'. Lito vuela por el bosque para buscar ayuda. Primero, encuentra a su amiga, la Ardilla Adela."
+    },
+    {
+      "type": "image",
+      "id": "2",
+      "alt": "Loro Lito hablando con mucho entusiasmo a la Ardilla Adela en la rama de un árbol.",
+      "prompt": "Children's book illustration in a warm, friendly watercolor style. The green parrot, Lito, is flapping his wings excitedly while talking to a cute, bushy-tailed squirrel named Adela. Adela is pausing from eating a nut, looking at Lito with a curious and attentive expression. They are on connecting branches of a large, leafy tree. The background is a soft-focus forest. No text."
+    },
+    {
+      "type": "paragraph",
+      "translation": "'Adela, Adela!' shouts Lito. 'What is it, Lito?' asks Adela. 'Come with me!' Lito says with excitement. 'We're going to wake up the giant cotton that's sleeping on the mountain!' Adela's eyes open wide. 'A giant cotton? How exciting! Yes, I'll go with you!'",
+      "text": "'¡Adela, Adela!', grita Lito. '¿Qué pasa, Lito?', pregunta Adela. '¡Ven conmigo!', dice Lito con emoción. '¡Vamos a despertar al algodón gigante que duerme en la montaña!'. Adela abre mucho los ojos. '¿Un algodón gigante? ¡Qué emocionante! ¡Sí, voy contigo!'"
+    },
+    {
+      "type": "paragraph",
+      "translation": "Lito and Adela run together and find Conejo Carlos the rabbit. Carlos is eating a carrot. 'Carlos, Carlos!' say Lito and Adela. 'What do you want?' asks Carlos. 'Come with us!' says Lito. 'We're going to wake up the giant cotton!' Carlos leaves his carrot. 'Is it soft like real cotton?' he asks. 'Yes, very soft and white!' replies Adela. 'Then I'm going with you!' says Carlos happily.",
+      "text": "Lito y Adela corren juntos y encuentran a Conejo Carlos. Carlos come una zanahoria. '¡Carlos, Carlos!', dicen Lito y Adela. '¿Qué queréis?', pregunta Carlos. '¡Ven con nosotros!', dice Lito. '¡Vamos a despertar al algodón gigante!'. Carlos deja su zanahoria. '¿Es suave como el algodón de verdad?', pregunta. '¡Sí, muy suave y blanco!', responde Adela. '¡Entonces voy con vosotros!', dice Carlos feliz."
+    },
+    {
+      "type": "image",
+      "id": "3",
+      "alt": "El loro, la ardilla y el conejo caminan juntos en fila por un sendero del bosque.",
+      "prompt": "A whimsical children's book illustration showing a team of three friends on an adventure. Lito the green parrot is flying slightly ahead, leading the way. Adela the squirrel is hopping from root to root, and Carlos the fluffy white rabbit is bounding along beside her. They are moving through a sun-dappled forest path. Their expressions are determined and joyful. Watercolor style with soft edges. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "The three friends travel towards the mountain. They walk and walk. The giant cotton always seems to be at the same distance. Sometimes it changes shape a little. 'This is very strange,' says Carlos. 'It's very, very high up,' says Adela. They are a bit confused.",
+      "text": "Los tres amigos viajan hacia la montaña. Caminan y caminan. El algodón gigante parece estar siempre a la misma distancia. A veces cambia de forma un poco. 'Es muy extraño', dice Carlos. 'Está muy, muy alto', dice Adela. Están un poco confundidos."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Near the mountain, they see a small door at the base of a large tree. It's a dark and cozy home, like a little closet in nature. Suddenly, the door opens and an old, wise animal comes out. It is Tejón Teo the badger.",
+      "text": "Cerca de la montaña, ven una pequeña puerta en la base de un árbol grande. Es un hogar oscuro y acogedor, como un pequeño armario en la naturaleza. De repente, la puerta se abre y sale un animal viejo y sabio. Es Tejón Teo."
+    },
+    {
+      "type": "image",
+      "id": "4",
+      "alt": "Los tres amigos miran al sabio Tejón Teo, que sale de su madriguera con gafas.",
+      "prompt": "Children's book illustration, watercolor and ink style. A wise, friendly-looking badger with glasses, Tejón Teo, is halfway out of his cozy burrow entrance at the base of a large tree. The parrot, squirrel, and rabbit are gathered around, looking up at him with questioning and hopeful expressions. The scene is set in a calm part of the forest, with warm afternoon light filtering through the leaves. No text."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Tejón Teo looks at them kindly. 'Where are you going in such a hurry, little ones?' he asks. 'We are going to wake up the giant cotton!' says Lito, pointing to the top of the mountain. Teo looks at the mountain and smiles. 'Ah,' he says. 'My friends, that is not a giant cotton.'",
+      "text": "Tejón Teo los mira con amabilidad. '¿A dónde vais con tanta prisa, pequeños?', pregunta. '¡Vamos a despertar al algodón gigante!', dice Lito, señalando la cima de la montaña. Teo mira hacia la montaña y sonríe. 'Ah', dice. 'Mis amigos, eso no es un algodón gigante'."
+    },
+    {
+      "type": "paragraph",
+      "translation": "The three friends look at each other, surprised. 'It's not?' they ask at the same time. 'No,' says Teo calmly. 'That is a cloud. Clouds are made of tiny drops of water. They don't sleep. They simply travel across the sky with the wind.' Lito, Adela, and Carlos look at the cloud. Now they understand. They sit with Teo and together they watch the cloud slowly float away.",
+      "text": "Los tres amigos se miran sorprendidos. '¿No?', preguntan a la vez. 'No', dice Teo con calma. 'Eso es una nube. Las nubes están hechas de pequeñas gotas de agua. No duermen. Simplemente viajan por el cielo con el viento'. Lito, Adela y Carlos miran la nube. Ahora entienden. Se sientan con Teo y juntos ven cómo la nube flota lentamente y se aleja."
+    },
+    {
+      "type": "image",
+      "id": "5",
+      "alt": "Los cuatro animales sentados juntos en una colina, mirando tranquilamente una nube en el cielo.",
+      "prompt": "A final, peaceful scene in a children's book illustration. Lito the parrot, Adela the squirrel, Carlos the rabbit, and Teo the wise badger are all sitting together on a grassy hill. They are looking up at the sky, watching the single fluffy white cloud drift peacefully away from the mountain. Their expressions are calm, happy, and content. The art style is soft, warm watercolor with a gentle, late-afternoon glow. No text allowed."
+    }
+  ],
+  "moral": {
+    "translation": "Moral: Sometimes, things are not what they seem. It's always better to ask before jumping to conclusions.",
+    "text": "Moraleja: A veces, las cosas no son lo que parecen. Siempre es mejor preguntar antes de sacar conclusiones."
+  }
+}

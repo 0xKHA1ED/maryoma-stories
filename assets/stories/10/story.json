@@ -1,0 +1,91 @@
+{
+  "title": "La Lechuza Lucía y las Joyas de la Medianoche",
+  "seed_words": [
+    "wisdom",
+    "jewelry",
+    "midnight",
+    "journalist",
+    "ship"
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "translation": "Lucía is a small owl. She lives in a tall tree in the forest. Lucía thinks she is very wise because she has big glasses and reads many books. \"I know everything about the world,\" she often says to herself.",
+      "text": "Lucía es una lechuza pequeña. Vive en un árbol alto en el bosque. Lucía cree que es muy sabia porque tiene gafas grandes y lee muchos libros. «Yo sé todo sobre el mundo», dice ella a menudo."
+    },
+    {
+      "type": "image",
+      "id": "1",
+      "alt": "La Lechuza Lucía, con gafas, sentada en una rama de árbol por la noche con un libro.",
+      "prompt": "A cute, stylized little owl named Lucía, wearing oversized round glasses, is perched proudly on a thick tree branch at night. An open book rests beside her. The forest behind her is a deep, tranquil blue, illuminated by a large, friendly full moon. The art style is a warm and inviting children's book illustration, with soft textures and gentle lighting. The book has no text on its pages."
+    },
+    {
+      "type": "paragraph",
+      "translation": "One night, exactly at midnight, Lucía sees something new. Small yellow lights are flying between the trees. They sparkle and dance in the dark. \"Oh!\" exclaims Lucía. \"They are magic jewels! They are the Midnight Jewels! They are a treasure!\"",
+      "text": "Una noche, exactamente a la medianoche, Lucía ve algo nuevo. Pequeñas luces amarillas vuelan entre los árboles. Brillan y danzan en la oscuridad. «¡Oh!», exclama Lucía. «¡Son joyas mágicas! ¡Son las Joyas de la Medianoche! ¡Son un tesoro!»"
+    },
+    {
+      "type": "paragraph",
+      "translation": "Lucía has a very important idea. \"I am a journalist,\" she thinks. \"I must write the story of these jewels. The whole world must know about my discovery!\" For her report, she needs to capture one jewel as proof.",
+      "text": "Lucía tiene una idea muy importante. «Soy una periodista», piensa. «Debo escribir la historia de estas joyas. ¡Todo el mundo debe saber de mi descubrimiento!». Para su reportaje, necesita capturar una joya como prueba."
+    },
+    {
+      "type": "image",
+      "id": "2",
+      "alt": "Lucía la lechuza mira con asombro a un enjambre de luciérnagas brillantes en el bosque oscuro.",
+      "prompt": "The little owl Lucía is on her branch, her big eyes wide with wonder and amazement. In front of her, the dark forest is filled with dozens of glowing, sparkling yellow fireflies creating magical light trails among the trees. The style is a whimsical and colorful children's book illustration, evoking a sense of magic and discovery."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Lucía flies down and finds her friend, Carlos the rabbit. Carlos runs very fast. \"Carlos!\" says Lucía. \"I have discovered the Midnight Jewels. Will you help me capture one for my great news report?\" Carlos looks at the lights and says, \"Of course, Lucía! It will be a great adventure!\"",
+      "text": "Lucía vuela y encuentra a su amigo, Carlos el conejo. Carlos corre muy rápido. «¡Carlos!», dice Lucía. «He descubierto las Joyas de la Medianoche. ¿Me ayudas a capturar una para mi gran reportaje?». Carlos mira las luces y dice: «¡Claro que sí, Lucía! ¡Será una gran aventura!»."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Soon, they see Rita the frog, sitting near a puddle. Rita jumps very high. \"Rita!\" says Lucía. \"We are on an important mission. We are looking for the Midnight Jewels. Will you help us?\" Rita sees the dancing lights and croaks, \"How exciting! Of course, I will jump and catch one!\"",
+      "text": "Pronto, ven a Rita la rana, sentada cerca de un charco. Rita salta muy alto. «¡Rita!», dice Lucía. «Estamos en una misión importante. Buscamos las Joyas de la Medianoche. ¿Nos ayudas?». Rita ve las luces danzantes y croa: «¡Qué emocionante! ¡Por supuesto, yo salto y atrapo una!»."
+    },
+    {
+      "type": "image",
+      "id": "3",
+      "alt": "Lucía, Carlos el conejo y Rita la rana viajan juntos por el bosque de noche, siguiendo las luces.",
+      "prompt": "A determined group of three cartoon animals—Lucía the owl flying slightly ahead, Carlos the rabbit hopping excitedly, and Rita the frog mid-leap—are traveling together through a moonlit forest. They are all looking forward with focused, excited expressions, following the faint glow of fireflies deeper into the woods. Friendly children's book art style, dynamic and full of energy."
+    },
+    {
+      "type": "paragraph",
+      "translation": "The group follows the bright lights. The lights lead them out of the forest, towards the sound of waves. They arrive at a quiet beach. The moon illuminates the sand and the sea, where a ship is visible far away.",
+      "text": "El grupo sigue las luces brillantes. Las luces los llevan fuera del bosque, hacia el sonido de las olas. Llegan a una playa tranquila. La luna ilumina la arena y el mar, donde un barco es visible a lo lejos."
+    },
+    {
+      "type": "image",
+      "id": "4",
+      "alt": "Los animales llegan a la playa y encuentran a una tortuga marina grande y vieja, con un barco en el horizonte.",
+      "prompt": "The four animal friends (owl, rabbit, frog, and fox) stand together at the edge of a sandy beach at night. They are looking at a very large, ancient sea turtle resting near the water. In the background, the sky is full of stars, the ocean is calm, and the silhouette of a large, old-fashioned sailing ship is visible on the distant horizon. The scene is lit by a beautiful, bright moon. Whimsical children's book illustration style."
+    },
+    {
+      "type": "paragraph",
+      "translation": "On the beach, there is a very large and old turtle. It is Tomás the turtle. \"Mr. Turtle,\" Lucía says very seriously. \"We are journalists on a mission. We are here for the Midnight Jewels.\" She points to the lights flying over the sand.",
+      "text": "En la playa, hay una tortuga muy grande y vieja. Es Tomás la tortuga. «Señor Tortuga», dice Lucía muy seria. «Somos periodistas en una misión. Estamos aquí por las Joyas de la Medianoche». Ella señala las luces que vuelan sobre la arena."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Tomás the turtle looks at Lucía, then at the lights, and smiles calmly. His smile is old and wise. \"Little friend,\" he says in a soft voice. \"Those are not jewels. They are insects. They are called fireflies. Their light is their way of talking in the dark. They are beautiful, but their real treasure is their life, not their value.\" Tomás has seen many fireflies on his travels across the world by sea.",
+      "text": "Tomás la tortuga mira a Lucía, luego a las luces, y sonríe con calma. Su sonrisa es vieja y sabia. «Pequeña amiga», dice con una voz suave. «Esas no son joyas. Son insectos. Se llaman luciérnagas. Su luz es su manera de hablar en la oscuridad. Son hermosas, pero su verdadero tesoro es su vida, no su valor». Tomás ha visto muchas luciérnagas en sus viajes por el mundo en el mar."
+    },
+    {
+      "type": "image",
+      "id": "5",
+      "alt": "La tortuga Tomás sonríe amablemente mientras Lucía y sus amigos observan a las luciérnagas con una nueva admiración.",
+      "prompt": "The large, wise old sea turtle, Tomás, is smiling kindly at the group of smaller animals. Lucía the owl, Carlos the rabbit, Rita the frog, and Zacarías the fox are all sitting peacefully on the sand. They are looking up at the swirling fireflies with expressions of pure awe and understanding, no longer trying to catch them. The mood is tranquil and magical. Soft, warm, glowing art style, suitable for a children's storybook."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Lucía and her friends are silent. They watch the fireflies with new eyes. They are not a treasure to be captured, but a wonder to be observed. Lucía understands that being wise is not having all the answers. True wisdom is being willing to learn.",
+      "text": "Lucía y sus amigos se quedan en silencio. Miran a las luciérnagas con nuevos ojos. No son un tesoro para capturar, sino una maravilla para observar. Lucía entiende que ser sabio no es tener todas las respuestas. La verdadera sabiduría es estar dispuesto a aprender."
+    }
+  ],
+  "moral": {
+    "translation": "True wisdom is not thinking you know everything, but always being willing to learn something new.",
+    "text": "La verdadera sabiduría no es creer que lo sabes todo, sino estar siempre dispuesto a aprender algo nuevo."
+  }
+}

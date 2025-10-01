@@ -1,0 +1,101 @@
+{
+  "title": "El Geco Gregorio y la Conciencia Pegajosa",
+  "seed_words": [
+    "heck",
+    "pee",
+    "conscience",
+    "driver",
+    "witness"
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "translation": "In a green and lush forest lives a gecko named Gregorio. Gregorio is a gecko with a big heart, but sometimes his imagination is bigger than his wisdom.",
+      "text": "En un bosque verde y frondoso, vive un geco llamado Gregorio. Gregorio es un geco de gran corazón, pero a veces su imaginación es más grande que su sabiduría."
+    },
+    {
+      "type": "paragraph",
+      "translation": "One sunny day, Gregorio walks near a very tall pine tree. He sees something strange. Small yellow drops are falling slowly from the tree's trunk. Gregorio touches a drop with his finger. It's sticky.",
+      "text": "Un día soleado, Gregorio camina cerca de un pino muy alto. Él ve algo extraño. Pequeñas gotas amarillas caen lentamente del tronco del árbol. Gregorio toca una gota con su dedo. Es pegajosa."
+    },
+    {
+      "type": "image",
+      "id": "1",
+      "alt": "El geco Gregorio mira confundido una gota amarilla que cae de un pino.",
+      "prompt": "A children's book illustration in a charming, simple style. A cute green gecko with big, curious eyes, named Gregorio, stands at the base of a massive pine tree. He is looking up with a puzzled expression. A single, shiny, translucent yellow drop of sap is slowly falling from the bark of the tree. The forest background is soft and colorful, and sunlight filters through the leaves. The mood is one of gentle curiosity. The style is warm and painterly."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Gregorio thinks hard. 'What is this?' he asks himself. Suddenly, he has an idea. 'Poor pine tree!' he exclaims. 'These must be its tears! The tree is sad. It is crying its conscience! Its sadness is yellow and sticky.'",
+      "text": "Gregorio piensa mucho. '¿Qué es esto?', se pregunta. De repente, tiene una idea. '¡Pobre pino!', exclama. '¡Estas deben ser sus lágrimas! El árbol está triste. ¡Está llorando su conciencia! Su tristeza es amarilla y pegajosa.'"
+    },
+    {
+      "type": "paragraph",
+      "translation": "Gregorio decides he must help. 'I have a plan!' he says with determination. 'I will be the driver of a great mission to help our friend, the pine tree! I need to find my friends.'",
+      "text": "Gregorio decide que debe ayudar. '¡Tengo un plan!', dice con determinación. '¡Seré el conductor de una gran misión para ayudar a nuestro amigo, el pino! Necesito buscar a mis amigos.'"
+    },
+    {
+      "type": "paragraph",
+      "translation": "First, Gregorio finds Mariela the ladybug on a green leaf. 'Mariela, Mariela! A terrible tragedy!' shouts Gregorio. He tells her the story of the pine tree and its sad, sticky conscience. Mariela opens her little eyes wide. 'Oh no! We must help!' she says.",
+      "text": "Primero, Gregorio encuentra a la mariquita Mariela sobre una hoja verde. '¡Mariela, Mariela! ¡Una terrible tragedia!', grita Gregorio. Él le cuenta la historia del pino y su conciencia triste y pegajosa. Mariela abre mucho sus pequeños ojos. '¡Oh, no! ¡Debemos ayudar!', dice ella."
+    },
+    {
+      "type": "image",
+      "id": "2",
+      "alt": "Gregorio el geco le cuenta su plan a Mariela la mariquita, que parece muy preocupada.",
+      "prompt": "A delightful children's book illustration. Gregorio the gecko is on a large, vibrant green leaf, talking with great animation to a tiny, cute ladybug named Mariela. Gregorio is gesturing with his hands, his expression full of urgent concern. Mariela the ladybug looks up at him, her expression one of shock and worry. The background is a soft-focus green. The style is warm, colorful, and friendly, reminiscent of watercolor."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Then, Gregorio and Mariela find Adela the squirrel. She is very busy with an acorn. 'Adela, listen!' says Gregorio. Together, they explain about the pine tree's yellow tears. Adela loves trees, so she leaves her acorn and says: 'I'm going with you! No tree should be sad in my forest!'",
+      "text": "Luego, Gregorio y Mariela encuentran a la ardilla Adela. Ella está muy ocupada con una bellota. '¡Adela, escucha!', dice Gregorio. Juntos, le explican sobre las lágrimas amarillas del pino. Adela ama los árboles, así que deja su bellota y dice: '¡Voy con ustedes! ¡Ningún árbol debe estar triste en mi bosque!'"
+    },
+    {
+      "type": "paragraph",
+      "translation": "Near a puddle, the group finds Rita the frog. She is practicing a new song. The three friends tell her the story. 'The pine tree is crying its conscience!' says Mariela. Rita, who has a very beautiful voice, decides to join. 'Maybe my song can make it happy!' she croaks.",
+      "text": "Cerca de un charco, el grupo encuentra a la rana Rita. Ella está practicando una nueva canción. Los tres amigos le cuentan la historia. '¡El pino está llorando su conciencia!', dice Mariela. Rita, que tiene una voz muy bonita, decide unirse. '¡Quizás mi canción puede hacerlo feliz!', croa ella."
+    },
+    {
+      "type": "image",
+      "id": "3",
+      "alt": "El grupo de animales (geco, mariquita, ardilla) convence a la rana Rita para que se una a su misión.",
+      "prompt": "A whimsical storybook illustration showing the team growing. Gregorio the gecko, Mariela the ladybug (perched on Gregorio's head), and Adela the squirrel are standing at the edge of a small, shimmering pond. They are all looking at Rita, a cheerful green frog, who is sitting on a lily pad. Their expressions are serious as they explain their quest. The art style is cute, colorful, with a gentle, friendly atmosphere and soft lighting."
+    },
+    {
+      "type": "paragraph",
+      "translation": "The four brave friends arrive at the big pine tree. The yellow drops are still falling. 'Don't be sad, friend pine tree!' they all shout together. Adela offers it her best acorn. Mariela gives the trunk a hug. And Rita sings the happiest song she knows.",
+      "text": "Los cuatro amigos valientes llegan al gran pino. Las gotas amarillas todavía caen. '¡No estés triste, amigo pino!', gritan todos juntos. Adela le ofrece su mejor bellota. Mariela le da un abrazo al tronco. Y Rita canta la canción más alegre que conoce."
+    },
+    {
+      "type": "image",
+      "id": "4",
+      "alt": "Los cuatro amigos intentan animar al pino cantando y ofreciéndole regalos.",
+      "prompt": "A vibrant and busy children's book illustration at the base of a giant pine tree. The four animal friends are trying to cheer it up. Rita the frog is singing, her throat puffed out. Adela the squirrel is holding an acorn up to the trunk. Gregorio the gecko is patting the bark gently. Mariela the ladybug is crawling up the trunk. Their actions are full of innocent and misplaced kindness. The style is dynamic and heartwarming, with a textured, storybook feel."
+    },
+    {
+      "type": "paragraph",
+      "translation": "But nothing works. The sticky drops keep falling. Gregorio feels very sad. Suddenly, a soft, wise voice comes from a high branch. 'Hoo, hoo... what are you doing, little friends?' It's Bartolomé, the owl. Gregorio looks up and explains: 'Mr. Owl, we are trying to help the pine tree. It is very sad. It's crying its conscience.' Bartolomé slowly blinks his big eyes. 'Its conscience? Oh, no, that is not correct.'",
+      "text": "Pero nada funciona. Las gotas pegajosas siguen cayendo. Gregorio se siente muy triste.<br><br>De repente, una voz suave y sabia viene de una rama alta. '¿Hoo, hoo... qué hacen, pequeños amigos?'. Es Bartolomé, el búho. Gregorio mira hacia arriba y explica: 'Señor Búho, intentamos ayudar al pino. Está muy triste. Llora su conciencia'. Bartolomé parpadea lentamente sus grandes ojos. '¿Su conciencia? Oh, no, eso no es correcto.'"
+    },
+    {
+      "type": "paragraph",
+      "translation": "Bartolomé flies to a lower branch. 'I am a witness to this every day,' he says calmly. 'The tree is not sad. In fact, it is very healthy. When the sun warms the tree, it produces this sticky liquid. It is called <em>resin</em>. The resin protects the tree from insects and helps it heal. It is a sign that it is strong.'",
+      "text": "Bartolomé vuela a una rama más baja. 'Yo soy testigo de esto todos los días', dice con calma. 'El árbol no está triste. De hecho, está muy sano. Cuando el sol calienta el árbol, produce este líquido pegajoso. Se llama <em>resina</em>. La resina protege al árbol de los insectos y lo ayuda a sanar. Es una señal de que está fuerte.'"
+    },
+    {
+      "type": "image",
+      "id": "5",
+      "alt": "El búho sabio Bartolomé les explica la verdad a los cuatro amigos, que lo escuchan con asombro.",
+      "prompt": "A gentle and wise children's book illustration. A large, friendly-looking owl with spectacles perched on his beak (Bartolomé) sits on a low branch of the pine tree. He is looking down kindly at the four smaller animals. The gecko, ladybug, squirrel, and frog are all looking up at the owl, their expressions shifting from confusion to wonder and understanding. The scene is bathed in warm, golden sunlight. The art style is soft and reassuring, with beautiful details in the feathers and fur."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Gregorio, Mariela, Adela, and Rita look at each other. They feel a little silly, but also very relieved. The pine tree wasn't sad, it was healthy! 'Thank you, wise Bartolomé,' they all say. They learned an important lesson that day.",
+      "text": "Gregorio, Mariela, Adela y Rita se miran. Se sienten un poco tontos, pero también muy aliviados. ¡El pino no estaba triste, estaba sano! 'Gracias, sabio Bartolomé', dicen todos. Aprendieron una lección importante ese día."
+    }
+  ],
+  "moral": {
+    "translation": "It is better to seek the truth than to invent a problem that doesn't exist.",
+    "text": "Es mejor buscar la verdad que inventar un problema que no existe."
+  }
+}

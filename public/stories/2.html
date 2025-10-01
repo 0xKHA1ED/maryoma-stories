@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perico y la Conferencia Misteriosa</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+        .story-title { font-family: 'Lora', serif; }
+        .story-content { font-family: 'Lora', serif; }
+
+        /* Custom styles for the range input (seek bar) */
+        .seek-slider {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 100%;
+            height: 5px;
+            background: #d1fae5;
+            outline: none;
+            opacity: 0.8;
+            transition: opacity .2s;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .seek-slider:hover {
+            opacity: 1;
+        }
+
+        .seek-slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 15px;
+            height: 15px;
+            background: #10b981;
+            border-radius: 50%;
+        }
+
+        .seek-slider::-moz-range-thumb {
+            width: 15px;
+            height: 15px;
+            background: #10b981;
+            border: none;
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body class="bg-emerald-50 text-gray-800 pb-24">
+
+    <div class="container mx-auto px-4 py-8 md:py-16">
+        <main class="max-w-3xl mx-auto bg-white rounded-2xl shadow-lg overflow-hidden">
+            <div class="p-8 md:p-12">
+
+                <!-- Header with Title and Icon -->
+                <header class="text-center mb-8">
+                    <img src="../../assets/icon.png" alt="Story Image" class="w-24 h-24 rounded-full object-cover mx-auto mb-4 shadow-md border-4 border-white">
+                    <h1 class="story-title text-3xl md:text-4xl font-bold text-emerald-800">Perico y la Conferencia Misteriosa</h1>
+                </header>
+
+                <!-- Story Content -->
+                <div class="story-content text-lg leading-relaxed text-gray-700 space-y-4">
+                    
+                <div class="translatable-block">
+                    <p data-translation="Perico the prairie dog lives in a big, sunny plain. Perico is a very curious animal with very, very large ears. He loves to listen to the sounds of the wind and the grass.">Perico el perrito de la pradera vive en una gran llanura soleada. Perico es un animal muy curioso con unas orejas muy, muy grandes. Le encanta escuchar los sonidos del viento y de la hierba.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="One morning, with his big ear, Perico hears a new sound. It's a rhythmic sound: <em>tac, tac, tac, tac</em>. He has never heard a sound of this type before. &quot;What is that?&quot; he thinks. &quot;It must be a very important conference!&quot;">Una mañana, con su gran oreja, Perico escucha un sonido nuevo. Es un sonido rítmico: <em>tac, tac, tac, tac</em>. Nunca ha escuchado un sonido de este tipo. «¿Qué es eso?», piensa. «¡Debe ser una conferencia muy importante!»</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/2/images/1.png" alt="Un perrito de la pradera con orejas grandes escuchando con curiosidad en la llanura." class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="Perico believes that very powerful beings are having a meeting. He feels a great desire to go and show his respect, almost like worship. &quot;I must find this great conference!&quot; he decides. So, Perico starts his journey across the plain.">Perico cree que unos seres muy poderosos tienen una reunión. Siente un gran deseo de ir y mostrar su respeto, casi como una adoración. «¡Debo encontrar esa gran conferencia!», decide. Entonces, Perico empieza su viaje por la llanura.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="Soon, he meets Jacinta the jackrabbit. Jacinta is running very fast. &quot;Hello, Jacinta! Where are you going?&quot; asks Perico. &quot;I'm running, as always!&quot; she says. &quot;Well, I am going to a great conference of very important beings,&quot; Perico explains. &quot;We must go and worship them!&quot; Jacinta is a little scared, but very curious. &quot;A conference? That sounds interesting! I'll go with you!&quot;">Pronto, se encuentra con Jacinta la liebre. Jacinta corre muy rápido. «¡Hola, Jacinta! ¿A dónde vas?», pregunta Perico. «¡Corro, como siempre!», dice ella. «Pues yo voy a una gran conferencia de seres muy importantes», explica Perico. «¡Debemos ir a adorarlos!» Jacinta está un poco asustada, pero es muy curiosa. «¿Una conferencia? ¡Suena interesante! ¡Voy contigo!»</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/2/images/2.png" alt="Perico el perrito de la pradera hablando con Jacinta la liebre, que parece curiosa." class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="Perico and Jacinta walk together. After a while, they see Tomás the tortoise. Tomás walks very, very slowly. &quot;Hello, Tomás!&quot; says Perico. &quot;We are going to a great conference of powerful beings to show our respect. Do you want to come?&quot; Tomás thinks for a moment. &quot;Powerful beings? That is very important,&quot; says Tomás slowly. &quot;Yes, I will go with you.&quot;">Perico y Jacinta caminan juntos. Después de un rato, ven a Tomás la tortuga. Tomás camina muy, muy lento. «¡Hola, Tomás!», dice Perico. «Vamos a una gran conferencia de seres poderosos para mostrar nuestro respeto. ¿Quieres venir?» Tomás piensa por un momento. «¿Seres poderosos? Eso es muy importante», dice Tomás despacio. «Sí, voy con ustedes».</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/2/images/3.png" alt="Un perrito de la pradera, una liebre y una tortuga caminan juntos por la llanura." class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="The three friends continue their journey. The sound of <em>tac, tac, tac</em> gets louder. They finally arrive at a large tree. In the tree is Búho Benito, a very wise owl. &quot;Hello, little ones,&quot; says the owl. &quot;Where are you going with such urgency?&quot; Perico explains, &quot;We are going to the great conference! We want to worship the great beings!&quot;">Los tres amigos continúan su viaje. El sonido de <em>tac, tac, tac</em> es cada vez más fuerte. Finalmente, llegan a un árbol grande. En el árbol está Búho Benito, un búho muy sabio. «Hola, pequeños», dice el búho. «¿A dónde van con tanta urgencia?» Perico explica: «¡Vamos a la gran conferencia! ¡Queremos adorar a los grandes seres!»</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/2/images/4.png" alt="El sabio Búho Benito en un árbol, hablando con Perico, Jacinta y Tomás." class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="Búho Benito smiles. &quot;A conference? Worship? I think I know what you hear. Follow me.&quot; The owl flies slowly and the animals follow him to the edge of the plain. There is a small house. Through the window, they see a person. The person's hands are moving over a machine. The machine makes the sound: <em>tac, tac, tac</em>.">Búho Benito sonríe. «¿Una conferencia? ¿Adoración? Creo que sé lo que escuchan. Síganme». El búho vuela despacio y los animales lo siguen hasta el borde de la llanura. Allí hay una casa pequeña. A través de la ventana, ven a una persona. Las manos de la persona se mueven sobre una máquina. La máquina hace el sonido: <em>tac, tac, tac</em>.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/2/images/5.png" alt="Los animales miran por una ventana y ven unas manos escribiendo en una máquina de escribir." class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="&quot;That,&quot; says Búho Benito, &quot;is not a conference. It is a typewriter. It's just a person writing stories.&quot; Perico, Jacinta, and Tomás look at each other. They feel a little silly, but also very relieved. They learned something new, thanks to Perico's big ears and their great adventure.">«Eso», dice Búho Benito, «no es una conferencia. Es una máquina de escribir. Solo es una persona que escribe historias». Perico, Jacinta y Tomás se miran. Se sienten un poco tontos, pero también muy aliviados. Aprendieron algo nuevo, gracias a las grandes orejas de Perico y su gran aventura.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                </div>
+
+                <!-- Moral of the Story -->
+                <footer class="mt-10 pt-6 border-t-2 border-emerald-100 text-center">
+                    
+                        <div class="translatable-block">
+                            <p class="story-title text-xl italic text-emerald-700 font-semibold" data-translation="It is wiser to understand the small things than to worship the great things we imagine.">Es más sabio entender las cosas pequeñas que adorar las grandes cosas que imaginamos.</p>
+                            <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                            <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                        </div>
+                </footer>
+            </div>
+        </main>
+    </div>
+
+    <!-- Sticky Audio Player -->
+    <div class="fixed bottom-0 left-0 right-0 z-50 bg-white/90 backdrop-blur-sm border-t border-gray-200">
+        <div class="max-w-3xl mx-auto px-4 py-3">
+             <!-- Audio element (hidden from view, controlled by JS) -->
+            <audio id="audio-player" src="../../assets/stories/2/audio/story.mp3" preload="metadata"></audio>
+
+            <!-- Custom Player Controls -->
+            <div class="flex items-center gap-2 md:gap-4">
+                <!-- Play/Pause Button -->
+                <button id="play-pause-btn" class="flex-shrink-0 text-emerald-600 hover:text-emerald-800 transition-colors p-2 rounded-full hover:bg-emerald-100 focus:outline-none">
+                    <svg id="play-icon" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 20 20">
+                      <path d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8.006v3.988a1 1 0 001.555.836l3.492-1.994a1 1 0 000-1.672l-3.492-1.994z" />
+                    </svg>
+                    <svg id="pause-icon" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 hidden" fill="currentColor" viewBox="0 0 20 20">
+                      <path d="M10 18a8 8 0 100-16 8 8 0 000 16zM8 7a1 1 0 00-1 1v4a1 1 0 001 1h1a1 1 0 001-1V8a1 1 0 00-1-1H8zm4 0a1 1 0 00-1 1v4a1 1 0 001 1h1a1 1 0 001-1V8a1 1 0 00-1-1h-1z" />
+                    </svg>
+                </button>
+
+                <!-- Progress Bar and Time -->
+                <div class="flex items-center gap-2 w-full">
+                    <span id="current-time" class="text-xs text-gray-600 font-mono w-10 text-center">0:00</span>
+                    <input type="range" id="seek-slider" class="seek-slider w-full" value="0" step="1">
+                    <span id="duration" class="text-xs text-gray-600 font-mono w-10 text-center">0:00</span>
+                </div>
+                
+                <!-- Speed Controls -->
+                <div class="flex items-center space-x-1 flex-shrink-0">
+                     <button data-speed="0.75" class="speed-btn w-12 px-2 py-1 text-xs rounded-md bg-gray-100 hover:bg-emerald-100 transition-colors">0.75x</button>
+                     <button data-speed="1" class="speed-btn w-12 px-2 py-1 text-xs rounded-md bg-emerald-200 text-emerald-800 font-semibold transition-colors">1x</button>
+                     <button data-speed="1.5" class="speed-btn w-12 px-2 py-1 text-xs rounded-md bg-gray-100 hover:bg-emerald-100 transition-colors">1.5x</button>
+                     <button data-speed="2" class="speed-btn w-12 px-2 py-1 text-xs rounded-md bg-gray-100 hover:bg-emerald-100 transition-colors">2x</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // --- Translation Logic ---
+            const translateButtons = document.querySelectorAll('.translate-btn');
+            translateButtons.forEach(button => {
+                button.addEventListener('click', () => {
+                    const block = button.closest('.translatable-block');
+                    const originalTextElement = block.querySelector('[data-translation]');
+                    const translationTextElement = block.querySelector('.translation-text');
+                    const translation = originalTextElement.getAttribute('data-translation');
+
+                    if (translationTextElement.classList.contains('hidden')) {
+                        translationTextElement.innerHTML = translation;
+                        translationTextElement.classList.remove('hidden');
+                        button.textContent = 'Ocultar';
+                    } else {
+                        translationTextElement.classList.add('hidden');
+                        button.textContent = 'Traducir';
+                    }
+                });
+            });
+
+            // --- Modern Audio Player Logic ---
+            const audioPlayer = document.getElementById('audio-player');
+            const playPauseBtn = document.getElementById('play-pause-btn');
+            const playIcon = document.getElementById('play-icon');
+            const pauseIcon = document.getElementById('pause-icon');
+            const seekSlider = document.getElementById('seek-slider');
+            const currentTimeEl = document.getElementById('current-time');
+            const durationEl = document.getElementById('duration');
+            const speedButtons = document.querySelectorAll('.speed-btn');
+
+            const formatTime = (seconds) => {
+                if (isNaN(seconds)) return '0:00';
+                const minutes = Math.floor(seconds / 60);
+                const secs = Math.floor(seconds % 60);
+                return `${minutes}:${secs.toString().padStart(2, '0')}`;
+            };
+
+            // Update UI when audio metadata is loaded
+            audioPlayer.addEventListener('loadedmetadata', () => {
+                durationEl.textContent = formatTime(audioPlayer.duration);
+                seekSlider.max = audioPlayer.duration;
+            });
+
+            // Play/Pause functionality
+            playPauseBtn.addEventListener('click', () => {
+                if (audioPlayer.paused) {
+                    audioPlayer.play();
+                } else {
+                    audioPlayer.pause();
+                }
+            });
+
+            audioPlayer.addEventListener('play', () => {
+                playIcon.classList.add('hidden');
+                pauseIcon.classList.remove('hidden');
+            });
+
+            audioPlayer.addEventListener('pause', () => {
+                playIcon.classList.remove('hidden');
+                pauseIcon.classList.add('hidden');
+            });
+
+            // Update slider and time as audio plays
+            audioPlayer.addEventListener('timeupdate', () => {
+                seekSlider.value = audioPlayer.currentTime;
+                currentTimeEl.textContent = formatTime(audioPlayer.currentTime);
+            });
+
+            // Seek functionality
+            seekSlider.addEventListener('input', () => {
+                audioPlayer.currentTime = seekSlider.value;
+            });
+
+            // Speed control functionality
+            speedButtons.forEach(button => {
+                button.addEventListener('click', () => {
+                    const speed = parseFloat(button.dataset.speed);
+                    audioPlayer.playbackRate = speed;
+
+                    // Update button active styles
+                    speedButtons.forEach(btn => {
+                        btn.classList.remove('bg-emerald-200', 'text-emerald-800', 'font-semibold');
+                        btn.classList.add('bg-gray-100');
+                    });
+
+                    button.classList.add('bg-emerald-200', 'text-emerald-800', 'font-semibold');
+                    button.classList.remove('bg-gray-100');
+                });
+            });
+        });
+    </script>
+
+</body>
+</html>
+
+

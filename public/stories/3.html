@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El Abuelo Tejón y el Monstruo de Humo Negro</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+        .story-title { font-family: 'Lora', serif; }
+        .story-content { font-family: 'Lora', serif; }
+
+        /* Custom styles for the range input (seek bar) */
+        .seek-slider {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 100%;
+            height: 5px;
+            background: #d1fae5;
+            outline: none;
+            opacity: 0.8;
+            transition: opacity .2s;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .seek-slider:hover {
+            opacity: 1;
+        }
+
+        .seek-slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 15px;
+            height: 15px;
+            background: #10b981;
+            border-radius: 50%;
+        }
+
+        .seek-slider::-moz-range-thumb {
+            width: 15px;
+            height: 15px;
+            background: #10b981;
+            border: none;
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body class="bg-emerald-50 text-gray-800 pb-24">
+
+    <div class="container mx-auto px-4 py-8 md:py-16">
+        <main class="max-w-3xl mx-auto bg-white rounded-2xl shadow-lg overflow-hidden">
+            <div class="p-8 md:p-12">
+
+                <!-- Header with Title and Icon -->
+                <header class="text-center mb-8">
+                    <img src="../../assets/icon.png" alt="Story Image" class="w-24 h-24 rounded-full object-cover mx-auto mb-4 shadow-md border-4 border-white">
+                    <h1 class="story-title text-3xl md:text-4xl font-bold text-emerald-800">El Abuelo Tejón y el Monstruo de Humo Negro</h1>
+                </header>
+
+                <!-- Story Content -->
+                <div class="story-content text-lg leading-relaxed text-gray-700 space-y-4">
+                    
+                <div class="translatable-block">
+                    <p data-translation="In a green and quiet forest, there lived an old badger named Abuelo Tejón. He was a very respected grandfather, known for his wisdom and his magnificent garden. All the animals loved him. He lived a calm and happy life, always watching over the harmony of the forest from his cozy burrow.">En un bosque verde y tranquilo, vivía un viejo tejón llamado Abuelo Tejón. Era un abuelo muy respetado, conocido por su sabiduría y su magnífico jardín. Todos los animales lo querían. Él vivía una vida calmada y feliz, siempre cuidando la armonía del bosque desde su madriguera acogedora.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="But one morning, something new appeared. Abuelo Tejón saw a strange, black thing rising from the chimney of the new human cabin. It was thick and dark. &quot;What is that?&quot; he thought, his eyes wide with fear. &quot;It looks like a black monster that is growing towards the sky!&quot;">Pero una mañana, algo nuevo apareció. Abuelo Tejón vio una cosa extraña y negra que subía por la chimenea de la nueva cabaña de los humanos. Era espeso y oscuro. «¿Qué es eso?», pensó con los ojos muy abiertos por el miedo. «¡Parece un monstruo negro que crece hacia el cielo!»</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/3/images/1.png" alt="El Abuelo Tejón, asustado, señalando una columna de humo negro que sale de una cabaña lejana." class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="Terrified, Abuelo Tejón decided he had to act. &quot;We must put a limit on this monster before it covers the sun!&quot; he declared. He ran to find his friend, Adela the Squirrel, who was busy collecting nuts. &quot;Adela, help! A black monster is attacking our forest! It comes from the human house!&quot;">Aterrado, Abuelo Tejón decidió que tenía que actuar. «¡Debemos poner un límite a este monstruo antes de que cubra el sol!», declaró. Corrió a buscar a su amiga, la Ardilla Adela, que estaba ocupada recogiendo nueces. «¡Adela, ayuda! ¡Un monstruo negro ataca nuestro bosque! ¡Sale de la casa de los humanos!»</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="Adela, who worried easily, dropped her nuts. &quot;A monster? Oh no! What are we going to do?&quot; she squeaked. &quot;We are going to stop it,&quot; said Abuelo Tejón with determination. &quot;We need more help. Let's go find Zacarías the Fox.&quot; Adela, though scared, nodded bravely and followed the old badger.">Adela, que se preocupaba con facilidad, dejó caer sus nueces. «¿Un monstruo? ¡Oh, no! ¿Qué vamos a hacer?», chilló. «Vamos a detenerlo», dijo Abuelo Tejón con determinación. «Necesitamos más ayuda. Vamos a buscar a Zacarías el Zorro». Adela, aunque asustada, asintió con valentía y siguió al viejo tejón.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/3/images/2.png" alt="La Ardilla Adela, con expresión de pánico, escucha al Abuelo Tejón." class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="They found Zacarías the Fox sunning himself on a rock. &quot;Zacarías!&quot; called Abuelo Tejón. &quot;We need your courage! A great black beast is rising into the sky. We must impose a limit on its power!&quot; Zacarías, who was very proud, jumped up. &quot;A beast? I am not afraid of anything! I, Zacarías the Fox, will help you defeat this monster! Lead the way!&quot;">Encontraron a Zacarías el Zorro tomando el sol en una roca. «¡Zacarías!», llamó Abuelo Tejón. «¡Necesitamos tu valentía! Una gran bestia negra está subiendo al cielo. ¡Debemos imponer un límite a su poder!». Zacarías, que era muy orgulloso, se levantó de un salto. «¿Una bestia? ¡No le tengo miedo a nada! ¡Yo, Zacarías el Zorro, los ayudaré a vencer a este monstruo! ¡Guíen el camino!»</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/3/images/3.png" alt="El grupo de tres animales—tejón, ardilla y zorro—marchan juntos por el bosque." class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="The three friends arrived at the log cabin. They hid behind a large bush and looked up. The black smoke continued to pour from the chimney. &quot;Our plan is to climb onto the roof and cover the hole,&quot; whispered Abuelo Tejón. &quot;It is a dangerous mission, but we must do it for our home.&quot;">Los tres amigos llegaron a la cabaña de troncos. Se escondieron detrás de un gran arbusto y miraron hacia arriba. El humo negro continuaba saliendo de la chimenea. «Nuestro plan es subir al techo y tapar el agujero», susurró Abuelo Tejón. «Es una misión peligrosa, pero debemos hacerlo por nuestro hogar».</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/3/images/4.png" alt="Los tres animales escondidos detrás de un arbusto, mirando la cabaña y la chimenea humeante." class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="Just as Zacarías was about to make a brave leap towards the wall, a deep and powerful voice stopped them. &quot;HALT!&quot; The voice came from a small mushroom nearby. On top of it stood a tiny beetle, wearing a leaf as a helmet. He looked very serious. &quot;I am Commander Escarabajo, and I command you to stop!&quot;">Justo cuando Zacarías iba a dar un valiente salto hacia la pared, una voz profunda y potente los detuvo. «¡ALTO!». La voz venía de una pequeña seta cercana. Encima de ella estaba un diminuto escarabajo, que llevaba una hoja como casco. Parecía muy serio. «¡Soy el Comandante Escarabajo, y les ordeno que se detengan!»</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="The three friends looked at the little commander in surprise. &quot;But, Commander,&quot; said Abuelo Tejón, &quot;we must fight the black monster!&quot; The Commander Beetle laughed. &quot;That is not a monster, my friend. That is called smoke. Humans make fire to stay warm and to cook their food. It is not dangerous.&quot;">Los tres amigos miraron al pequeño comandante con sorpresa. «Pero, Comandante», dijo Abuelo Tejón, «¡debemos luchar contra el monstruo negro!». El Comandante Escarabajo se rio. «Eso no es un monstruo, amigo mío. Eso se llama humo. Los humanos hacen fuego para estar calientes y para cocinar su comida. No es peligroso».</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/3/images/5.png" alt="El Comandante Escarabajo, sobre una seta, explicando con calma la verdad a los tres animales sorprendidos." class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="Abuelo Tejón, Adela, and Zacarías looked at the smoke, then at each other. They felt a little embarrassed, but also very relieved. The scary black monster was just warm smoke. They thanked the wise commander and returned to their homes, happy to know their forest was safe.">Abuelo Tejón, Adela y Zacarías miraron el humo, y luego se miraron entre ellos. Se sintieron un poco avergonzados, pero también muy aliviados. El monstruo negro y aterrador era solo humo caliente. Dieron las gracias al sabio comandante y regresaron a sus casas, felices de saber que su bosque estaba a salvo.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                </div>
+
+                <!-- Moral of the Story -->
+                <footer class="mt-10 pt-6 border-t-2 border-emerald-100 text-center">
+                    
+                        <div class="translatable-block">
+                            <p class="story-title text-xl italic text-emerald-700 font-semibold" data-translation="Moral: It is better to understand things before being afraid of them.">Moraleja: Es mejor entender las cosas antes de tenerles miedo.</p>
+                            <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                            <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                        </div>
+                </footer>
+            </div>
+        </main>
+    </div>
+
+    <!-- Sticky Audio Player -->
+    <div class="fixed bottom-0 left-0 right-0 z-50 bg-white/90 backdrop-blur-sm border-t border-gray-200">
+        <div class="max-w-3xl mx-auto px-4 py-3">
+             <!-- Audio element (hidden from view, controlled by JS) -->
+            <audio id="audio-player" src="../../assets/stories/3/audio/story.mp3" preload="metadata"></audio>
+
+            <!-- Custom Player Controls -->
+            <div class="flex items-center gap-2 md:gap-4">
+                <!-- Play/Pause Button -->
+                <button id="play-pause-btn" class="flex-shrink-0 text-emerald-600 hover:text-emerald-800 transition-colors p-2 rounded-full hover:bg-emerald-100 focus:outline-none">
+                    <svg id="play-icon" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 20 20">
+                      <path d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8.006v3.988a1 1 0 001.555.836l3.492-1.994a1 1 0 000-1.672l-3.492-1.994z" />
+                    </svg>
+                    <svg id="pause-icon" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 hidden" fill="currentColor" viewBox="0 0 20 20">
+                      <path d="M10 18a8 8 0 100-16 8 8 0 000 16zM8 7a1 1 0 00-1 1v4a1 1 0 001 1h1a1 1 0 001-1V8a1 1 0 00-1-1H8zm4 0a1 1 0 00-1 1v4a1 1 0 001 1h1a1 1 0 001-1V8a1 1 0 00-1-1h-1z" />
+                    </svg>
+                </button>
+
+                <!-- Progress Bar and Time -->
+                <div class="flex items-center gap-2 w-full">
+                    <span id="current-time" class="text-xs text-gray-600 font-mono w-10 text-center">0:00</span>
+                    <input type="range" id="seek-slider" class="seek-slider w-full" value="0" step="1">
+                    <span id="duration" class="text-xs text-gray-600 font-mono w-10 text-center">0:00</span>
+                </div>
+                
+                <!-- Speed Controls -->
+                <div class="flex items-center space-x-1 flex-shrink-0">
+                     <button data-speed="0.75" class="speed-btn w-12 px-2 py-1 text-xs rounded-md bg-gray-100 hover:bg-emerald-100 transition-colors">0.75x</button>
+                     <button data-speed="1" class="speed-btn w-12 px-2 py-1 text-xs rounded-md bg-emerald-200 text-emerald-800 font-semibold transition-colors">1x</button>
+                     <button data-speed="1.5" class="speed-btn w-12 px-2 py-1 text-xs rounded-md bg-gray-100 hover:bg-emerald-100 transition-colors">1.5x</button>
+                     <button data-speed="2" class="speed-btn w-12 px-2 py-1 text-xs rounded-md bg-gray-100 hover:bg-emerald-100 transition-colors">2x</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // --- Translation Logic ---
+            const translateButtons = document.querySelectorAll('.translate-btn');
+            translateButtons.forEach(button => {
+                button.addEventListener('click', () => {
+                    const block = button.closest('.translatable-block');
+                    const originalTextElement = block.querySelector('[data-translation]');
+                    const translationTextElement = block.querySelector('.translation-text');
+                    const translation = originalTextElement.getAttribute('data-translation');
+
+                    if (translationTextElement.classList.contains('hidden')) {
+                        translationTextElement.innerHTML = translation;
+                        translationTextElement.classList.remove('hidden');
+                        button.textContent = 'Ocultar';
+                    } else {
+                        translationTextElement.classList.add('hidden');
+                        button.textContent = 'Traducir';
+                    }
+                });
+            });
+
+            // --- Modern Audio Player Logic ---
+            const audioPlayer = document.getElementById('audio-player');
+            const playPauseBtn = document.getElementById('play-pause-btn');
+            const playIcon = document.getElementById('play-icon');
+            const pauseIcon = document.getElementById('pause-icon');
+            const seekSlider = document.getElementById('seek-slider');
+            const currentTimeEl = document.getElementById('current-time');
+            const durationEl = document.getElementById('duration');
+            const speedButtons = document.querySelectorAll('.speed-btn');
+
+            const formatTime = (seconds) => {
+                if (isNaN(seconds)) return '0:00';
+                const minutes = Math.floor(seconds / 60);
+                const secs = Math.floor(seconds % 60);
+                return `${minutes}:${secs.toString().padStart(2, '0')}`;
+            };
+
+            // Update UI when audio metadata is loaded
+            audioPlayer.addEventListener('loadedmetadata', () => {
+                durationEl.textContent = formatTime(audioPlayer.duration);
+                seekSlider.max = audioPlayer.duration;
+            });
+
+            // Play/Pause functionality
+            playPauseBtn.addEventListener('click', () => {
+                if (audioPlayer.paused) {
+                    audioPlayer.play();
+                } else {
+                    audioPlayer.pause();
+                }
+            });
+
+            audioPlayer.addEventListener('play', () => {
+                playIcon.classList.add('hidden');
+                pauseIcon.classList.remove('hidden');
+            });
+
+            audioPlayer.addEventListener('pause', () => {
+                playIcon.classList.remove('hidden');
+                pauseIcon.classList.add('hidden');
+            });
+
+            // Update slider and time as audio plays
+            audioPlayer.addEventListener('timeupdate', () => {
+                seekSlider.value = audioPlayer.currentTime;
+                currentTimeEl.textContent = formatTime(audioPlayer.currentTime);
+            });
+
+            // Seek functionality
+            seekSlider.addEventListener('input', () => {
+                audioPlayer.currentTime = seekSlider.value;
+            });
+
+            // Speed control functionality
+            speedButtons.forEach(button => {
+                button.addEventListener('click', () => {
+                    const speed = parseFloat(button.dataset.speed);
+                    audioPlayer.playbackRate = speed;
+
+                    // Update button active styles
+                    speedButtons.forEach(btn => {
+                        btn.classList.remove('bg-emerald-200', 'text-emerald-800', 'font-semibold');
+                        btn.classList.add('bg-gray-100');
+                    });
+
+                    button.classList.add('bg-emerald-200', 'text-emerald-800', 'font-semibold');
+                    button.classList.remove('bg-gray-100');
+                });
+            });
+        });
+    </script>
+
+</body>
+</html>
+
+

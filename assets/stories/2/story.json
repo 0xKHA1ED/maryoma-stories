@@ -1,0 +1,86 @@
+{
+  "title": "Perico y la Conferencia Misteriosa",
+  "seed_words": [
+    "plain",
+    "conference",
+    "type",
+    "ear",
+    "worship"
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "translation": "Perico the prairie dog lives in a big, sunny plain. Perico is a very curious animal with very, very large ears. He loves to listen to the sounds of the wind and the grass.",
+      "text": "Perico el perrito de la pradera vive en una gran llanura soleada. Perico es un animal muy curioso con unas orejas muy, muy grandes. Le encanta escuchar los sonidos del viento y de la hierba."
+    },
+    {
+      "type": "paragraph",
+      "translation": "One morning, with his big ear, Perico hears a new sound. It's a rhythmic sound: <em>tac, tac, tac, tac</em>. He has never heard a sound of this type before. \"What is that?\" he thinks. \"It must be a very important conference!\"",
+      "text": "Una mañana, con su gran oreja, Perico escucha un sonido nuevo. Es un sonido rítmico: <em>tac, tac, tac, tac</em>. Nunca ha escuchado un sonido de este tipo. «¿Qué es eso?», piensa. «¡Debe ser una conferencia muy importante!»"
+    },
+    {
+      "type": "image",
+      "id": "1",
+      "alt": "Un perrito de la pradera con orejas grandes escuchando con curiosidad en la llanura.",
+      "prompt": "A children's storybook illustration of a cute prairie dog named Perico on a vast, grassy plain. His ears are perked up, looking very large, and he has a confused and curious expression on his face. The sun is bright, and the style is warm, simple, and friendly, with soft colors."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Perico believes that very powerful beings are having a meeting. He feels a great desire to go and show his respect, almost like worship. \"I must find this great conference!\" he decides. So, Perico starts his journey across the plain.",
+      "text": "Perico cree que unos seres muy poderosos tienen una reunión. Siente un gran deseo de ir y mostrar su respeto, casi como una adoración. «¡Debo encontrar esa gran conferencia!», decide. Entonces, Perico empieza su viaje por la llanura."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Soon, he meets Jacinta the jackrabbit. Jacinta is running very fast. \"Hello, Jacinta! Where are you going?\" asks Perico. \"I'm running, as always!\" she says. \"Well, I am going to a great conference of very important beings,\" Perico explains. \"We must go and worship them!\" Jacinta is a little scared, but very curious. \"A conference? That sounds interesting! I'll go with you!\"",
+      "text": "Pronto, se encuentra con Jacinta la liebre. Jacinta corre muy rápido. «¡Hola, Jacinta! ¿A dónde vas?», pregunta Perico. «¡Corro, como siempre!», dice ella. «Pues yo voy a una gran conferencia de seres muy importantes», explica Perico. «¡Debemos ir a adorarlos!» Jacinta está un poco asustada, pero es muy curiosa. «¿Una conferencia? ¡Suena interesante! ¡Voy contigo!»"
+    },
+    {
+      "type": "image",
+      "id": "2",
+      "alt": "Perico el perrito de la pradera hablando con Jacinta la liebre, que parece curiosa.",
+      "prompt": "A friendly prairie dog (Perico) animatedly talking to a sleek, fast-looking jackrabbit (Jacinta) on the sunny plain. Jacinta looks curious, with one ear tilted, listening intently. The style is a simple, colorful children's book illustration with a clear blue sky."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Perico and Jacinta walk together. After a while, they see Tomás the tortoise. Tomás walks very, very slowly. \"Hello, Tomás!\" says Perico. \"We are going to a great conference of powerful beings to show our respect. Do you want to come?\" Tomás thinks for a moment. \"Powerful beings? That is very important,\" says Tomás slowly. \"Yes, I will go with you.\"",
+      "text": "Perico y Jacinta caminan juntos. Después de un rato, ven a Tomás la tortuga. Tomás camina muy, muy lento. «¡Hola, Tomás!», dice Perico. «Vamos a una gran conferencia de seres poderosos para mostrar nuestro respeto. ¿Quieres venir?» Tomás piensa por un momento. «¿Seres poderosos? Eso es muy importante», dice Tomás despacio. «Sí, voy con ustedes»."
+    },
+    {
+      "type": "image",
+      "id": "3",
+      "alt": "Un perrito de la pradera, una liebre y una tortuga caminan juntos por la llanura.",
+      "prompt": "A colorful illustration showing a prairie dog, a jackrabbit, and a wise-looking tortoise walking in a line across a vast, golden plain under a blue sky. They look like a team on an adventure. Children's book style, warm lighting."
+    },
+    {
+      "type": "paragraph",
+      "translation": "The three friends continue their journey. The sound of <em>tac, tac, tac</em> gets louder. They finally arrive at a large tree. In the tree is Búho Benito, a very wise owl. \"Hello, little ones,\" says the owl. \"Where are you going with such urgency?\" Perico explains, \"We are going to the great conference! We want to worship the great beings!\"",
+      "text": "Los tres amigos continúan su viaje. El sonido de <em>tac, tac, tac</em> es cada vez más fuerte. Finalmente, llegan a un árbol grande. En el árbol está Búho Benito, un búho muy sabio. «Hola, pequeños», dice el búho. «¿A dónde van con tanta urgencia?» Perico explica: «¡Vamos a la gran conferencia! ¡Queremos adorar a los grandes seres!»"
+    },
+    {
+      "type": "image",
+      "id": "4",
+      "alt": "El sabio Búho Benito en un árbol, hablando con Perico, Jacinta y Tomás.",
+      "prompt": "A wise, old horned owl with large, kind eyes (Búho Benito) is perched on a low branch. He is looking down and speaking gently to the group of three smaller animals (prairie dog, jackrabbit, tortoise), who are looking up at him attentively. The scene is calm and set under the shade of a large tree."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Búho Benito smiles. \"A conference? Worship? I think I know what you hear. Follow me.\" The owl flies slowly and the animals follow him to the edge of the plain. There is a small house. Through the window, they see a person. The person's hands are moving over a machine. The machine makes the sound: <em>tac, tac, tac</em>.",
+      "text": "Búho Benito sonríe. «¿Una conferencia? ¿Adoración? Creo que sé lo que escuchan. Síganme». El búho vuela despacio y los animales lo siguen hasta el borde de la llanura. Allí hay una casa pequeña. A través de la ventana, ven a una persona. Las manos de la persona se mueven sobre una máquina. La máquina hace el sonido: <em>tac, tac, tac</em>."
+    },
+    {
+      "type": "image",
+      "id": "5",
+      "alt": "Los animales miran por una ventana y ven unas manos escribiendo en una máquina de escribir.",
+      "prompt": "A charming children's book illustration showing a prairie dog, a jackrabbit, and a tortoise peeking from behind a green bush. They are looking with wide, surprised eyes towards a rustic wooden cabin window. Inside the window, you can see a pair of human hands typing on a vintage, black typewriter. The mood is one of quiet discovery and wonder."
+    },
+    {
+      "type": "paragraph",
+      "translation": "\"That,\" says Búho Benito, \"is not a conference. It is a typewriter. It's just a person writing stories.\" Perico, Jacinta, and Tomás look at each other. They feel a little silly, but also very relieved. They learned something new, thanks to Perico's big ears and their great adventure.",
+      "text": "«Eso», dice Búho Benito, «no es una conferencia. Es una máquina de escribir. Solo es una persona que escribe historias». Perico, Jacinta y Tomás se miran. Se sienten un poco tontos, pero también muy aliviados. Aprendieron algo nuevo, gracias a las grandes orejas de Perico y su gran aventura."
+    }
+  ],
+  "moral": {
+    "translation": "It is wiser to understand the small things than to worship the great things we imagine.",
+    "text": "Es más sabio entender las cosas pequeñas que adorar las grandes cosas que imaginamos."
+  }
+}

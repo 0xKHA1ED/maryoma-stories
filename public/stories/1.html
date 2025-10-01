@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El Sapo Simón y el Monstruo del Eco</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+        .story-title { font-family: 'Lora', serif; }
+        .story-content { font-family: 'Lora', serif; }
+
+        /* Custom styles for the range input (seek bar) */
+        .seek-slider {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 100%;
+            height: 5px;
+            background: #d1fae5;
+            outline: none;
+            opacity: 0.8;
+            transition: opacity .2s;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .seek-slider:hover {
+            opacity: 1;
+        }
+
+        .seek-slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 15px;
+            height: 15px;
+            background: #10b981;
+            border-radius: 50%;
+        }
+
+        .seek-slider::-moz-range-thumb {
+            width: 15px;
+            height: 15px;
+            background: #10b981;
+            border: none;
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body class="bg-emerald-50 text-gray-800 pb-24">
+
+    <div class="container mx-auto px-4 py-8 md:py-16">
+        <main class="max-w-3xl mx-auto bg-white rounded-2xl shadow-lg overflow-hidden">
+            <div class="p-8 md:p-12">
+
+                <!-- Header with Title and Icon -->
+                <header class="text-center mb-8">
+                    <img src="../../assets/icon.png" alt="Story Image" class="w-24 h-24 rounded-full object-cover mx-auto mb-4 shadow-md border-4 border-white">
+                    <h1 class="story-title text-3xl md:text-4xl font-bold text-emerald-800">El Sapo Simón y el Monstruo del Eco</h1>
+                </header>
+
+                <!-- Story Content -->
+                <div class="story-content text-lg leading-relaxed text-gray-700 space-y-4">
+                    
+                <div class="translatable-block">
+                    <p data-translation="One day, Simon the toad is sitting near a large canyon. He is a happy toad who loves to sing.">Un día, el sapo Simón está sentado cerca de un gran cañón. Es un sapo feliz que le gusta mucho cantar.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/1/images/1.png" alt="Sapo Simón cantando cerca de un cañón" class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="—Croak! —sings Simon in his loud voice.<br>And from the other side of the canyon, a voice answers:<br><em class='text-gray-500'>—Croak!</em>">—¡Croac! —canta Simón con su voz fuerte.<br>Y desde el otro lado del cañón, una voz responde:<br><em class="text-gray-500">—¡Croac!</em></p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="Simon is surprised. He looks to the left. He looks to the right. He sees no one.">Simón se sorprende. Mira a la izquierda. Mira a la derecha. No ve a nadie.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="—Hello! —shouts Simon.<br>And the mysterious voice answers:<br><em class='text-gray-500'>—Hello!</em>">—¡Hola! —grita Simón.<br>Y la voz misteriosa responde:<br><em class="text-gray-500">—¡Hola!</em></p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="Simon frowns. He thinks: 'There is a monster in the canyon. And it's making fun of me!'. Simon feels very annoyed and decides to find the monster to teach it a lesson.">Simón frunce el ceño. Piensa: "Hay un monstruo en el cañón. ¡Y se burla de mí!". Simón se siente muy molesto y decide encontrar al monstruo para darle una lección.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="Simon begins to walk along the edge of the canyon. First, he meets Lola the lizard.">Simón empieza a caminar por el borde del cañón. Primero, se encuentra con la lagartija Lola.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/1/images/2.png" alt="Simón el sapo hablando con Lola la lagartija" class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="—Hello, Simon! Why do you have such a serious face? —asks Lola.">—¡Hola, Simón! ¿Por qué tienes esa cara tan seria? —pregunta Lola.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="—I'm going to find the canyon monster! —says Simon—. It makes fun of everything I say!">—¡Voy a encontrar al monstruo del cañón! —dice Simón—. ¡Se burla de todo lo que digo!</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="—A monster? How do you know? —asks Lola.">—¿Un monstruo? ¿Cómo lo sabes? —pregunta Lola.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="—I hear it! —explains Simon—. When I say 'hello', it says 'hello'! It's imitating me!">—¡Lo escucho! —explica Simón—. ¡Cuando yo digo "hola", él dice "hola"! ¡Me está imitando!</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="—Oh my goodness! How terrible! It must be true! Let's go look for it together! —says Lola.">—¡Dios mío! ¡Qué terrible! ¡Debe ser cierto! ¡Vamos a buscarlo juntos! —dice Lola.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="The two friends walk a little further and meet Carlos the rabbit, who is eating a carrot.">Los dos amigos caminan un poco más y se encuentran con el conejo Carlos, que está comiendo una zanahoria.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/1/images/3.png" alt="El grupo hablando con Carlos el conejo" class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="—Hello! Why the hurry? —asks Carlos.">—¡Hola! ¿Por qué tanta prisa? —pregunta Carlos.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="—We're going to teach the canyon monster a lesson! —say Simon and Lola.">—¡Vamos a darle una lección al monstruo del cañón! —dicen Simón y Lola.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="—Are you sure? A monster that mocks? —asks Carlos.">—¿Están seguros? ¿Un monstruo que se burla? —pregunta Carlos.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="—Yes! —says Simon—. It repeats everything I say to annoy me!">—¡Sí! —dice Simón—. ¡Repite todo lo que yo digo para molestarme!</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="—How evil! That's not right! I'm going with you! —says Carlos.">—¡Qué malvado! ¡Eso no está bien! ¡Voy con ustedes! —dice Carlos.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="The three animals, very determined, continue on their way. Finally, they see Teresa the turtle, who is resting peacefully in the sun.">Los tres animales, muy decididos, continúan su camino. Finalmente, ven a la tortuga Teresa, que descansa tranquilamente bajo el sol.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/1/images/4.png" alt="El grupo encuentra a Teresa la tortuga sabia" class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="—Where are you going with so much energy? —asks Teresa in a slow voice.">—¿A dónde van con tanta energía? —pregunta Teresa con voz lenta.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="—We're going to confront the canyon monster! —they all say.">—¡Vamos a enfrentarnos al monstruo del cañón! —dicen todos.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="Teresa looks at them with curiosity.">Teresa los mira con curiosidad.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="—What monster? —she asks.">—¿Qué monstruo? —pregunta.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="—One that hides and repeats my words! —explains Simon, very angry—. Listen! Silly monster!">—¡Uno que se esconde y repite mis palabras! —explica Simón, muy enfadado—. ¡Escucha! ¡Monstruo tonto!</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="And from the other side of the canyon, the voice answers:<br><em class='text-gray-500'>—Silly monster!</em>">Y desde el otro lado del cañón, la voz responde:<br><em class="text-gray-500">—¡Monstruo tonto!</em></p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="Simon looks at Teresa, triumphant. —See?">Simón mira a Teresa, triunfante. —¿Ves?</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="Teresa the turtle smiles calmly. She doesn't get up.">La tortuga Teresa sonríe con calma. No se levanta.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="—My dear Simon —says Teresa softly—. That's not a monster. It's just your own voice. It's called an 'echo'. The canyon is very large, and the sound travels and comes back.">—Mi querido Simón —dice Teresa suavemente—. Eso no es un monstruo. Es solo tu propia voz. Se llama "eco". El cañón es muy grande y el sonido viaja y regresa.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="Simon, Lola, and Carlos fall silent. Simon shouts one last time:">Simón, Lola y Carlos se quedan en silencio. Simón grita una última vez:</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="—Am I a smart toad?<br>And the canyon answers:<br><em class='text-gray-500'>—Am I a smart toad?</em>">—¿Soy un sapo listo?<br>Y el cañón responde:<br><em class="text-gray-500">—¿Soy un sapo listo?</em></p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/1/images/5.png" alt="Simón feliz al descubrir el eco" class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="Simon laughs. There is no monster, only his own voice playing with him.">Simón se ríe. No hay ningún monstruo, solo su propia voz jugando con él.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                </div>
+
+                <!-- Moral of the Story -->
+                <footer class="mt-10 pt-6 border-t-2 border-emerald-100 text-center">
+                    
+                        <div class="translatable-block">
+                            <p class="story-title text-xl italic text-emerald-700 font-semibold" data-translation="Moral: It's better to understand the world before getting angry with it.">Moraleja: Es mejor entender el mundo antes de enfadarse con él.</p>
+                            <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                            <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                        </div>
+                </footer>
+            </div>
+        </main>
+    </div>
+
+    <!-- Sticky Audio Player -->
+    <div class="fixed bottom-0 left-0 right-0 z-50 bg-white/90 backdrop-blur-sm border-t border-gray-200">
+        <div class="max-w-3xl mx-auto px-4 py-3">
+             <!-- Audio element (hidden from view, controlled by JS) -->
+            <audio id="audio-player" src="../../assets/stories/1/audio/story.mp3" preload="metadata"></audio>
+
+            <!-- Custom Player Controls -->
+            <div class="flex items-center gap-2 md:gap-4">
+                <!-- Play/Pause Button -->
+                <button id="play-pause-btn" class="flex-shrink-0 text-emerald-600 hover:text-emerald-800 transition-colors p-2 rounded-full hover:bg-emerald-100 focus:outline-none">
+                    <svg id="play-icon" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 20 20">
+                      <path d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8.006v3.988a1 1 0 001.555.836l3.492-1.994a1 1 0 000-1.672l-3.492-1.994z" />
+                    </svg>
+                    <svg id="pause-icon" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 hidden" fill="currentColor" viewBox="0 0 20 20">
+                      <path d="M10 18a8 8 0 100-16 8 8 0 000 16zM8 7a1 1 0 00-1 1v4a1 1 0 001 1h1a1 1 0 001-1V8a1 1 0 00-1-1H8zm4 0a1 1 0 00-1 1v4a1 1 0 001 1h1a1 1 0 001-1V8a1 1 0 00-1-1h-1z" />
+                    </svg>
+                </button>
+
+                <!-- Progress Bar and Time -->
+                <div class="flex items-center gap-2 w-full">
+                    <span id="current-time" class="text-xs text-gray-600 font-mono w-10 text-center">0:00</span>
+                    <input type="range" id="seek-slider" class="seek-slider w-full" value="0" step="1">
+                    <span id="duration" class="text-xs text-gray-600 font-mono w-10 text-center">0:00</span>
+                </div>
+                
+                <!-- Speed Controls -->
+                <div class="flex items-center space-x-1 flex-shrink-0">
+                     <button data-speed="0.75" class="speed-btn w-12 px-2 py-1 text-xs rounded-md bg-gray-100 hover:bg-emerald-100 transition-colors">0.75x</button>
+                     <button data-speed="1" class="speed-btn w-12 px-2 py-1 text-xs rounded-md bg-emerald-200 text-emerald-800 font-semibold transition-colors">1x</button>
+                     <button data-speed="1.5" class="speed-btn w-12 px-2 py-1 text-xs rounded-md bg-gray-100 hover:bg-emerald-100 transition-colors">1.5x</button>
+                     <button data-speed="2" class="speed-btn w-12 px-2 py-1 text-xs rounded-md bg-gray-100 hover:bg-emerald-100 transition-colors">2x</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // --- Translation Logic ---
+            const translateButtons = document.querySelectorAll('.translate-btn');
+            translateButtons.forEach(button => {
+                button.addEventListener('click', () => {
+                    const block = button.closest('.translatable-block');
+                    const originalTextElement = block.querySelector('[data-translation]');
+                    const translationTextElement = block.querySelector('.translation-text');
+                    const translation = originalTextElement.getAttribute('data-translation');
+
+                    if (translationTextElement.classList.contains('hidden')) {
+                        translationTextElement.innerHTML = translation;
+                        translationTextElement.classList.remove('hidden');
+                        button.textContent = 'Ocultar';
+                    } else {
+                        translationTextElement.classList.add('hidden');
+                        button.textContent = 'Traducir';
+                    }
+                });
+            });
+
+            // --- Modern Audio Player Logic ---
+            const audioPlayer = document.getElementById('audio-player');
+            const playPauseBtn = document.getElementById('play-pause-btn');
+            const playIcon = document.getElementById('play-icon');
+            const pauseIcon = document.getElementById('pause-icon');
+            const seekSlider = document.getElementById('seek-slider');
+            const currentTimeEl = document.getElementById('current-time');
+            const durationEl = document.getElementById('duration');
+            const speedButtons = document.querySelectorAll('.speed-btn');
+
+            const formatTime = (seconds) => {
+                if (isNaN(seconds)) return '0:00';
+                const minutes = Math.floor(seconds / 60);
+                const secs = Math.floor(seconds % 60);
+                return `${minutes}:${secs.toString().padStart(2, '0')}`;
+            };
+
+            // Update UI when audio metadata is loaded
+            audioPlayer.addEventListener('loadedmetadata', () => {
+                durationEl.textContent = formatTime(audioPlayer.duration);
+                seekSlider.max = audioPlayer.duration;
+            });
+
+            // Play/Pause functionality
+            playPauseBtn.addEventListener('click', () => {
+                if (audioPlayer.paused) {
+                    audioPlayer.play();
+                } else {
+                    audioPlayer.pause();
+                }
+            });
+
+            audioPlayer.addEventListener('play', () => {
+                playIcon.classList.add('hidden');
+                pauseIcon.classList.remove('hidden');
+            });
+
+            audioPlayer.addEventListener('pause', () => {
+                playIcon.classList.remove('hidden');
+                pauseIcon.classList.add('hidden');
+            });
+
+            // Update slider and time as audio plays
+            audioPlayer.addEventListener('timeupdate', () => {
+                seekSlider.value = audioPlayer.currentTime;
+                currentTimeEl.textContent = formatTime(audioPlayer.currentTime);
+            });
+
+            // Seek functionality
+            seekSlider.addEventListener('input', () => {
+                audioPlayer.currentTime = seekSlider.value;
+            });
+
+            // Speed control functionality
+            speedButtons.forEach(button => {
+                button.addEventListener('click', () => {
+                    const speed = parseFloat(button.dataset.speed);
+                    audioPlayer.playbackRate = speed;
+
+                    // Update button active styles
+                    speedButtons.forEach(btn => {
+                        btn.classList.remove('bg-emerald-200', 'text-emerald-800', 'font-semibold');
+                        btn.classList.add('bg-gray-100');
+                    });
+
+                    button.classList.add('bg-emerald-200', 'text-emerald-800', 'font-semibold');
+                    button.classList.remove('bg-gray-100');
+                });
+            });
+        });
+    </script>
+
+</body>
+</html>
+
+

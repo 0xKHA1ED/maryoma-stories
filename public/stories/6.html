@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paco y la Ópera en el Tanque</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+        .story-title { font-family: 'Lora', serif; }
+        .story-content { font-family: 'Lora', serif; }
+
+        /* Custom styles for the range input (seek bar) */
+        .seek-slider {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 100%;
+            height: 5px;
+            background: #d1fae5;
+            outline: none;
+            opacity: 0.8;
+            transition: opacity .2s;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .seek-slider:hover {
+            opacity: 1;
+        }
+
+        .seek-slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 15px;
+            height: 15px;
+            background: #10b981;
+            border-radius: 50%;
+        }
+
+        .seek-slider::-moz-range-thumb {
+            width: 15px;
+            height: 15px;
+            background: #10b981;
+            border: none;
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body class="bg-emerald-50 text-gray-800 pb-24">
+
+    <div class="container mx-auto px-4 py-8 md:py-16">
+        <main class="max-w-3xl mx-auto bg-white rounded-2xl shadow-lg overflow-hidden">
+            <div class="p-8 md:p-12">
+
+                <!-- Header with Title and Icon -->
+                <header class="text-center mb-8">
+                    <img src="../../assets/icon.png" alt="Story Image" class="w-24 h-24 rounded-full object-cover mx-auto mb-4 shadow-md border-4 border-white">
+                    <h1 class="story-title text-3xl md:text-4xl font-bold text-emerald-800">Paco y la Ópera en el Tanque</h1>
+                </header>
+
+                <!-- Story Content -->
+                <div class="story-content text-lg leading-relaxed text-gray-700 space-y-4">
+                    
+                <div class="translatable-block">
+                    <p data-translation="Paco the prairie dog lives next to the entrance of his burrow. Near his home, there is a large, metal water tank. The tank is very big and shiny, like a giant mirror under the hot sun.">Paco, el perrito de la pradera, vive junto a la <em>entrada</em> de su madriguera. Cerca de su casa, hay un gran <em>tanque</em> de agua de metal. El tanque es muy grande y brillante, como un espejo gigante bajo el sol caliente.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/6/images/1.png" alt="Un perrito de la pradera mira su reflejo en un tanque de agua brillante." class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="One day, Paco hears a strange sound. The wind whistles through a pipe on the tank, and it sounds like beautiful music. At the same time, he sees his reflection move. Paco doesn't understand reflections. He thinks, &quot;Wow! There is a great opera singer trapped inside!&quot;">Un día, Paco escucha un sonido extraño. El viento silba por un tubo del tanque y suena como una música hermosa. Al mismo tiempo, ve que su reflejo se mueve. Paco no entiende los reflejos. Él piensa: «¡Vaya! ¡Hay un gran cantante de <em>ópera</em> atrapado dentro!».</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="Paco feels very sad for the singer. &quot;What a shame! Such a talented artist is a prisoner,&quot; he says to himself. He is worried about the singer's absence from the world stage. &quot;I must free him! His music needs to be shared!&quot;">Paco se siente muy triste por el cantante. «¡Qué pena! Un artista con tanto talento es un prisionero», se dice a sí mismo. Le preocupa la <em>ausencia</em> del cantante en los escenarios del mundo. «¡Debo liberarlo! ¡Su música necesita ser compartida!».</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/6/images/2.png" alt="Paco explicándole su plan a una lagartija escéptica." class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="Paco runs to find his friend, Laura the lizard. &quot;Laura, Laura! You have to help me! A magnificent opera singer is trapped in the metal tank! We have to get him out!&quot; Laura thinks it's a strange idea, but Paco is very convincing. &quot;Okay, Paco. I'll help you,&quot; she says.">Paco corre a buscar a su amiga, Laura la lagartija. «¡Laura, Laura! ¡Tienes que ayudarme! ¡Un magnífico cantante de ópera está atrapado en el tanque de metal! ¡Tenemos que sacarlo!». Laura piensa que es una idea extraña, pero Paco es muy convincente. «Está bien, Paco. Te ayudaré», dice ella.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="Next, the two of them find Carlos the rabbit, who is eating a carrot. &quot;Carlos! Come on an adventure!&quot; says Paco. &quot;We are going to rescue a famous artist!&quot; Carlos loves adventures. He quickly finishes his carrot and joins them. &quot;An adventure! I'm coming!&quot;">Luego, los dos encuentran a Carlos el conejo, que está comiendo una zanahoria. «¡Carlos! ¡Ven a una aventura!», dice Paco. «¡Vamos a rescatar a un artista famoso!». A Carlos le encantan las aventuras. Termina rápido su zanahoria y se une a ellos. «¡Una aventura! ¡Yo voy!».</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/6/images/3.png" alt="Un grupo de animales marchando con determinación: un perrito de la pradera, una lagartija y un conejo." class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="The group grows. They meet Sofia the snake sunbathing on a warm rock. &quot;Sofia, join our noble mission!&quot; shouts Carlos. &quot;We are freeing the best singer in the world!&quot; Sofia is very curious, so she slithers behind them.">El grupo crece. Se encuentran con Sofia la serpiente tomando el sol en una roca caliente. «¡Sofia, únete a nuestra noble misión!», grita Carlos. «¡Estamos liberando al mejor cantante del mundo!». Sofia es muy curiosa, así que se desliza detrás de ellos.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="The four friends arrive at the big metal tank. Together, they push with all their strength. &quot;One, two, three... push!&quot; they all shout. But the tank is too big and too heavy. It doesn't move at all.">Los cuatro amigos llegan al gran tanque de metal. Juntos, empujan con todas sus fuerzas. «¡Uno, dos, tres... empujen!», gritan todos. Pero el tanque es demasiado grande y pesado. No se mueve nada.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/6/images/4.png" alt="Los cuatro animales pequeños empujando un tanque de metal gigante sin éxito." class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="Tired and disappointed, they sit on the ground. Suddenly, a large shadow passes over them. It is Gloria, the wise old eagle. She lands gracefully on top of the tank. &quot;What are you doing, little ones?&quot; she asks in a calm voice.">Cansados y decepcionados, se sientan en el suelo. De repente, una gran sombra pasa sobre ellos. Es Gloria, la vieja y sabia águila. Aterriza con elegancia sobre el tanque. «¿Qué hacéis, pequeños?», pregunta con voz tranquila.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="Paco explains their entire mission: the incredible opera singer, the prison tank, and their failed rescue. Gloria listens patiently, with a small smile on her beak.">Paco explica toda su misión: el increíble cantante de ópera, el tanque-prisión y su rescate fallido. Gloria escucha con paciencia, con una pequeña sonrisa en su pico.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/6/images/5.png" alt="Un águila sabia en lo alto de un tanque, explicando la verdad a los pequeños animales de abajo." class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="Gloria laughs softly. &quot;Oh, little friends. There is no singer in there,&quot; she says. &quot;The face you see is your own reflection. And the music you hear is just the wind. The true <em>glory</em> is not in an imaginary singer, but in the real world: the sun, the sky, and the music of the wind itself.&quot;">Gloria ríe suavemente. «Oh, pequeños amigos. No hay ningún cantante ahí dentro», dice ella. «La cara que veis es vuestro propio reflejo. Y la música que escucháis es solo el viento. La verdadera <em>gloria</em> no está en un cantante imaginario, sino en el mundo real: en el sol, en el cielo y en la propia música del viento».</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="Paco, Laura, Carlos, and Sofia look at the tank again. They see their own faces looking back at them. They listen carefully and hear only the wind. They feel a little silly, but then they all start to laugh together under the big, open sky.">Paco, Laura, Carlos y Sofia miran el tanque otra vez. Ven sus propias caras mirándolos. Escuchan con atención y oyen solo el viento. Se sienten un poco tontos, pero luego todos empiezan a reír juntos bajo el gran cielo abierto.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                </div>
+
+                <!-- Moral of the Story -->
+                <footer class="mt-10 pt-6 border-t-2 border-emerald-100 text-center">
+                    
+                        <div class="translatable-block">
+                            <p class="story-title text-xl italic text-emerald-700 font-semibold" data-translation="It is wonderful to have a big imagination, but it is more important to understand reality.">Es maravilloso tener una gran imaginación, pero es más importante entender la realidad.</p>
+                            <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                            <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                        </div>
+                </footer>
+            </div>
+        </main>
+    </div>
+
+    <!-- Sticky Audio Player -->
+    <div class="fixed bottom-0 left-0 right-0 z-50 bg-white/90 backdrop-blur-sm border-t border-gray-200">
+        <div class="max-w-3xl mx-auto px-4 py-3">
+             <!-- Audio element (hidden from view, controlled by JS) -->
+            <audio id="audio-player" src="../../assets/stories/6/audio/story.mp3" preload="metadata"></audio>
+
+            <!-- Custom Player Controls -->
+            <div class="flex items-center gap-2 md:gap-4">
+                <!-- Play/Pause Button -->
+                <button id="play-pause-btn" class="flex-shrink-0 text-emerald-600 hover:text-emerald-800 transition-colors p-2 rounded-full hover:bg-emerald-100 focus:outline-none">
+                    <svg id="play-icon" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 20 20">
+                      <path d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8.006v3.988a1 1 0 001.555.836l3.492-1.994a1 1 0 000-1.672l-3.492-1.994z" />
+                    </svg>
+                    <svg id="pause-icon" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 hidden" fill="currentColor" viewBox="0 0 20 20">
+                      <path d="M10 18a8 8 0 100-16 8 8 0 000 16zM8 7a1 1 0 00-1 1v4a1 1 0 001 1h1a1 1 0 001-1V8a1 1 0 00-1-1H8zm4 0a1 1 0 00-1 1v4a1 1 0 001 1h1a1 1 0 001-1V8a1 1 0 00-1-1h-1z" />
+                    </svg>
+                </button>
+
+                <!-- Progress Bar and Time -->
+                <div class="flex items-center gap-2 w-full">
+                    <span id="current-time" class="text-xs text-gray-600 font-mono w-10 text-center">0:00</span>
+                    <input type="range" id="seek-slider" class="seek-slider w-full" value="0" step="1">
+                    <span id="duration" class="text-xs text-gray-600 font-mono w-10 text-center">0:00</span>
+                </div>
+                
+                <!-- Speed Controls -->
+                <div class="flex items-center space-x-1 flex-shrink-0">
+                     <button data-speed="0.75" class="speed-btn w-12 px-2 py-1 text-xs rounded-md bg-gray-100 hover:bg-emerald-100 transition-colors">0.75x</button>
+                     <button data-speed="1" class="speed-btn w-12 px-2 py-1 text-xs rounded-md bg-emerald-200 text-emerald-800 font-semibold transition-colors">1x</button>
+                     <button data-speed="1.5" class="speed-btn w-12 px-2 py-1 text-xs rounded-md bg-gray-100 hover:bg-emerald-100 transition-colors">1.5x</button>
+                     <button data-speed="2" class="speed-btn w-12 px-2 py-1 text-xs rounded-md bg-gray-100 hover:bg-emerald-100 transition-colors">2x</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // --- Translation Logic ---
+            const translateButtons = document.querySelectorAll('.translate-btn');
+            translateButtons.forEach(button => {
+                button.addEventListener('click', () => {
+                    const block = button.closest('.translatable-block');
+                    const originalTextElement = block.querySelector('[data-translation]');
+                    const translationTextElement = block.querySelector('.translation-text');
+                    const translation = originalTextElement.getAttribute('data-translation');
+
+                    if (translationTextElement.classList.contains('hidden')) {
+                        translationTextElement.innerHTML = translation;
+                        translationTextElement.classList.remove('hidden');
+                        button.textContent = 'Ocultar';
+                    } else {
+                        translationTextElement.classList.add('hidden');
+                        button.textContent = 'Traducir';
+                    }
+                });
+            });
+
+            // --- Modern Audio Player Logic ---
+            const audioPlayer = document.getElementById('audio-player');
+            const playPauseBtn = document.getElementById('play-pause-btn');
+            const playIcon = document.getElementById('play-icon');
+            const pauseIcon = document.getElementById('pause-icon');
+            const seekSlider = document.getElementById('seek-slider');
+            const currentTimeEl = document.getElementById('current-time');
+            const durationEl = document.getElementById('duration');
+            const speedButtons = document.querySelectorAll('.speed-btn');
+
+            const formatTime = (seconds) => {
+                if (isNaN(seconds)) return '0:00';
+                const minutes = Math.floor(seconds / 60);
+                const secs = Math.floor(seconds % 60);
+                return `${minutes}:${secs.toString().padStart(2, '0')}`;
+            };
+
+            // Update UI when audio metadata is loaded
+            audioPlayer.addEventListener('loadedmetadata', () => {
+                durationEl.textContent = formatTime(audioPlayer.duration);
+                seekSlider.max = audioPlayer.duration;
+            });
+
+            // Play/Pause functionality
+            playPauseBtn.addEventListener('click', () => {
+                if (audioPlayer.paused) {
+                    audioPlayer.play();
+                } else {
+                    audioPlayer.pause();
+                }
+            });
+
+            audioPlayer.addEventListener('play', () => {
+                playIcon.classList.add('hidden');
+                pauseIcon.classList.remove('hidden');
+            });
+
+            audioPlayer.addEventListener('pause', () => {
+                playIcon.classList.remove('hidden');
+                pauseIcon.classList.add('hidden');
+            });
+
+            // Update slider and time as audio plays
+            audioPlayer.addEventListener('timeupdate', () => {
+                seekSlider.value = audioPlayer.currentTime;
+                currentTimeEl.textContent = formatTime(audioPlayer.currentTime);
+            });
+
+            // Seek functionality
+            seekSlider.addEventListener('input', () => {
+                audioPlayer.currentTime = seekSlider.value;
+            });
+
+            // Speed control functionality
+            speedButtons.forEach(button => {
+                button.addEventListener('click', () => {
+                    const speed = parseFloat(button.dataset.speed);
+                    audioPlayer.playbackRate = speed;
+
+                    // Update button active styles
+                    speedButtons.forEach(btn => {
+                        btn.classList.remove('bg-emerald-200', 'text-emerald-800', 'font-semibold');
+                        btn.classList.add('bg-gray-100');
+                    });
+
+                    button.classList.add('bg-emerald-200', 'text-emerald-800', 'font-semibold');
+                    button.classList.remove('bg-gray-100');
+                });
+            });
+        });
+    </script>
+
+</body>
+</html>
+
+

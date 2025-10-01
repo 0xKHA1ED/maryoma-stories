@@ -1,0 +1,101 @@
+{
+  "title": "Paco y la Ópera en el Tanque",
+  "seed_words": [
+    "entrance",
+    "tank",
+    "opera",
+    "absence",
+    "glory"
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "translation": "Paco the prairie dog lives next to the entrance of his burrow. Near his home, there is a large, metal water tank. The tank is very big and shiny, like a giant mirror under the hot sun.",
+      "text": "Paco, el perrito de la pradera, vive junto a la <em>entrada</em> de su madriguera. Cerca de su casa, hay un gran <em>tanque</em> de agua de metal. El tanque es muy grande y brillante, como un espejo gigante bajo el sol caliente."
+    },
+    {
+      "type": "image",
+      "id": "1",
+      "alt": "Un perrito de la pradera mira su reflejo en un tanque de agua brillante.",
+      "prompt": "A cute, stylized prairie dog named Paco with big, curious eyes, looking with amazement at his own distorted reflection in a large, cylindrical, shiny metal water tank. The sun is bright in a clear blue sky with a few fluffy clouds. The style is a warm and friendly children's book illustration with soft colors and simple shapes. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "One day, Paco hears a strange sound. The wind whistles through a pipe on the tank, and it sounds like beautiful music. At the same time, he sees his reflection move. Paco doesn't understand reflections. He thinks, \"Wow! There is a great opera singer trapped inside!\"",
+      "text": "Un día, Paco escucha un sonido extraño. El viento silba por un tubo del tanque y suena como una música hermosa. Al mismo tiempo, ve que su reflejo se mueve. Paco no entiende los reflejos. Él piensa: «¡Vaya! ¡Hay un gran cantante de <em>ópera</em> atrapado dentro!»."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Paco feels very sad for the singer. \"What a shame! Such a talented artist is a prisoner,\" he says to himself. He is worried about the singer's absence from the world stage. \"I must free him! His music needs to be shared!\"",
+      "text": "Paco se siente muy triste por el cantante. «¡Qué pena! Un artista con tanto talento es un prisionero», se dice a sí mismo. Le preocupa la <em>ausencia</em> del cantante en los escenarios del mundo. «¡Debo liberarlo! ¡Su música necesita ser compartida!»."
+    },
+    {
+      "type": "image",
+      "id": "2",
+      "alt": "Paco explicándole su plan a una lagartija escéptica.",
+      "prompt": "A children's book illustration where Paco the prairie dog is gesturing wildly with his paws, his face full of passion and determination. He is explaining his grand idea to a small, green lizard named Laura, who is sitting on a rock and looking at him with a skeptical expression. The desert background is simple and sunny. The style is charming and expressive. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Paco runs to find his friend, Laura the lizard. \"Laura, Laura! You have to help me! A magnificent opera singer is trapped in the metal tank! We have to get him out!\" Laura thinks it's a strange idea, but Paco is very convincing. \"Okay, Paco. I'll help you,\" she says.",
+      "text": "Paco corre a buscar a su amiga, Laura la lagartija. «¡Laura, Laura! ¡Tienes que ayudarme! ¡Un magnífico cantante de ópera está atrapado en el tanque de metal! ¡Tenemos que sacarlo!». Laura piensa que es una idea extraña, pero Paco es muy convincente. «Está bien, Paco. Te ayudaré», dice ella."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Next, the two of them find Carlos the rabbit, who is eating a carrot. \"Carlos! Come on an adventure!\" says Paco. \"We are going to rescue a famous artist!\" Carlos loves adventures. He quickly finishes his carrot and joins them. \"An adventure! I'm coming!\"",
+      "text": "Luego, los dos encuentran a Carlos el conejo, que está comiendo una zanahoria. «¡Carlos! ¡Ven a una aventura!», dice Paco. «¡Vamos a rescatar a un artista famoso!». A Carlos le encantan las aventuras. Termina rápido su zanahoria y se une a ellos. «¡Una aventura! ¡Yo voy!»."
+    },
+    {
+      "type": "image",
+      "id": "3",
+      "alt": "Un grupo de animales marchando con determinación: un perrito de la pradera, una lagartija y un conejo.",
+      "prompt": "A cheerful children's book illustration showing Paco the prairie dog, Laura the lizard, and Carlos the rabbit marching together in a single file line. They all have determined and hopeful expressions. Paco is proudly in the lead. The setting is a dusty path with some small cacti around. The lighting is bright afternoon sun. The style is cute, dynamic, and colorful. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "The group grows. They meet Sofia the snake sunbathing on a warm rock. \"Sofia, join our noble mission!\" shouts Carlos. \"We are freeing the best singer in the world!\" Sofia is very curious, so she slithers behind them.",
+      "text": "El grupo crece. Se encuentran con Sofia la serpiente tomando el sol en una roca caliente. «¡Sofia, únete a nuestra noble misión!», grita Carlos. «¡Estamos liberando al mejor cantante del mundo!». Sofia es muy curiosa, así que se desliza detrás de ellos."
+    },
+    {
+      "type": "paragraph",
+      "translation": "The four friends arrive at the big metal tank. Together, they push with all their strength. \"One, two, three... push!\" they all shout. But the tank is too big and too heavy. It doesn't move at all.",
+      "text": "Los cuatro amigos llegan al gran tanque de metal. Juntos, empujan con todas sus fuerzas. «¡Uno, dos, tres... empujen!», gritan todos. Pero el tanque es demasiado grande y pesado. No se mueve nada."
+    },
+    {
+      "type": "image",
+      "id": "4",
+      "alt": "Los cuatro animales pequeños empujando un tanque de metal gigante sin éxito.",
+      "prompt": "A humorous children's book illustration capturing the comedic struggle of the four small animals (Paco the prairie dog, Laura the lizard, Carlos the rabbit, and Sofia the snake) all pushing with all their might against the base of the massive, unmoving water tank. Their faces show great effort, with puffed cheeks and strained expressions. The scene is funny and adorable. The style is vibrant and full of personality. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Tired and disappointed, they sit on the ground. Suddenly, a large shadow passes over them. It is Gloria, the wise old eagle. She lands gracefully on top of the tank. \"What are you doing, little ones?\" she asks in a calm voice.",
+      "text": "Cansados y decepcionados, se sientan en el suelo. De repente, una gran sombra pasa sobre ellos. Es Gloria, la vieja y sabia águila. Aterriza con elegancia sobre el tanque. «¿Qué hacéis, pequeños?», pregunta con voz tranquila."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Paco explains their entire mission: the incredible opera singer, the prison tank, and their failed rescue. Gloria listens patiently, with a small smile on her beak.",
+      "text": "Paco explica toda su misión: el increíble cantante de ópera, el tanque-prisión y su rescate fallido. Gloria escucha con paciencia, con una pequeña sonrisa en su pico."
+    },
+    {
+      "type": "image",
+      "id": "5",
+      "alt": "Un águila sabia en lo alto de un tanque, explicando la verdad a los pequeños animales de abajo.",
+      "prompt": "A majestic but friendly eagle named Gloria is perched on top of the shiny water tank. She looks down with a gentle, knowing expression at the four small, confused animals (Paco, Laura, Carlos, and Sofia) who are looking up at her from the ground. The sky behind her is a beautiful sunset orange and purple. The style is a heartwarming and slightly magical children's book illustration. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Gloria laughs softly. \"Oh, little friends. There is no singer in there,\" she says. \"The face you see is your own reflection. And the music you hear is just the wind. The true <em>glory</em> is not in an imaginary singer, but in the real world: the sun, the sky, and the music of the wind itself.\"",
+      "text": "Gloria ríe suavemente. «Oh, pequeños amigos. No hay ningún cantante ahí dentro», dice ella. «La cara que veis es vuestro propio reflejo. Y la música que escucháis es solo el viento. La verdadera <em>gloria</em> no está en un cantante imaginario, sino en el mundo real: en el sol, en el cielo y en la propia música del viento»."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Paco, Laura, Carlos, and Sofia look at the tank again. They see their own faces looking back at them. They listen carefully and hear only the wind. They feel a little silly, but then they all start to laugh together under the big, open sky.",
+      "text": "Paco, Laura, Carlos y Sofia miran el tanque otra vez. Ven sus propias caras mirándolos. Escuchan con atención y oyen solo el viento. Se sienten un poco tontos, pero luego todos empiezan a reír juntos bajo el gran cielo abierto."
+    }
+  ],
+  "moral": {
+    "translation": "It is wonderful to have a big imagination, but it is more important to understand reality.",
+    "text": "Es maravilloso tener una gran imaginación, pero es más importante entender la realidad."
+  }
+}

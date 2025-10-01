@@ -1,0 +1,91 @@
+{
+  "title": "El Abuelo Tejón y el Monstruo de Humo Negro",
+  "seed_words": [
+    "smoke",
+    "grandfather",
+    "limit",
+    "black",
+    "commander"
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "translation": "In a green and quiet forest, there lived an old badger named Abuelo Tejón. He was a very respected grandfather, known for his wisdom and his magnificent garden. All the animals loved him. He lived a calm and happy life, always watching over the harmony of the forest from his cozy burrow.",
+      "text": "En un bosque verde y tranquilo, vivía un viejo tejón llamado Abuelo Tejón. Era un abuelo muy respetado, conocido por su sabiduría y su magnífico jardín. Todos los animales lo querían. Él vivía una vida calmada y feliz, siempre cuidando la armonía del bosque desde su madriguera acogedora."
+    },
+    {
+      "type": "paragraph",
+      "translation": "But one morning, something new appeared. Abuelo Tejón saw a strange, black thing rising from the chimney of the new human cabin. It was thick and dark. \"What is that?\" he thought, his eyes wide with fear. \"It looks like a black monster that is growing towards the sky!\"",
+      "text": "Pero una mañana, algo nuevo apareció. Abuelo Tejón vio una cosa extraña y negra que subía por la chimenea de la nueva cabaña de los humanos. Era espeso y oscuro. «¿Qué es eso?», pensó con los ojos muy abiertos por el miedo. «¡Parece un monstruo negro que crece hacia el cielo!»"
+    },
+    {
+      "type": "image",
+      "id": "1",
+      "alt": "El Abuelo Tejón, asustado, señalando una columna de humo negro que sale de una cabaña lejana.",
+      "prompt": "A charming children's storybook illustration in a warm, gentle style. An elderly, anthropomorphic badger with spectacles, El Abuelo Tejón, looks up in terror from his garden. One paw is pointing a shaky finger towards a plume of black smoke rising from a distant log cabin chimney. The forest setting is lush and green under a bright morning sun. The mood is one of sudden alarm and confusion. The art style is painterly and soft."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Terrified, Abuelo Tejón decided he had to act. \"We must put a limit on this monster before it covers the sun!\" he declared. He ran to find his friend, Adela the Squirrel, who was busy collecting nuts. \"Adela, help! A black monster is attacking our forest! It comes from the human house!\"",
+      "text": "Aterrado, Abuelo Tejón decidió que tenía que actuar. «¡Debemos poner un límite a este monstruo antes de que cubra el sol!», declaró. Corrió a buscar a su amiga, la Ardilla Adela, que estaba ocupada recogiendo nueces. «¡Adela, ayuda! ¡Un monstruo negro ataca nuestro bosque! ¡Sale de la casa de los humanos!»"
+    },
+    {
+      "type": "paragraph",
+      "translation": "Adela, who worried easily, dropped her nuts. \"A monster? Oh no! What are we going to do?\" she squeaked. \"We are going to stop it,\" said Abuelo Tejón with determination. \"We need more help. Let's go find Zacarías the Fox.\" Adela, though scared, nodded bravely and followed the old badger.",
+      "text": "Adela, que se preocupaba con facilidad, dejó caer sus nueces. «¿Un monstruo? ¡Oh, no! ¿Qué vamos a hacer?», chilló. «Vamos a detenerlo», dijo Abuelo Tejón con determinación. «Necesitamos más ayuda. Vamos a buscar a Zacarías el Zorro». Adela, aunque asustada, asintió con valentía y siguió al viejo tejón."
+    },
+    {
+      "type": "image",
+      "id": "2",
+      "alt": "La Ardilla Adela, con expresión de pánico, escucha al Abuelo Tejón.",
+      "prompt": "A vibrant children's book illustration showing El Abuelo Tejón urgently explaining the situation to a small, fluffy squirrel, Adela. Adela has dropped her acorns, and her expression is one of pure panic, with wide eyes and her little paws up to her cheeks. The forest background is slightly blurred to focus on the characters' emotions. The style is cute and expressive, with soft, warm lighting."
+    },
+    {
+      "type": "paragraph",
+      "translation": "They found Zacarías the Fox sunning himself on a rock. \"Zacarías!\" called Abuelo Tejón. \"We need your courage! A great black beast is rising into the sky. We must impose a limit on its power!\" Zacarías, who was very proud, jumped up. \"A beast? I am not afraid of anything! I, Zacarías the Fox, will help you defeat this monster! Lead the way!\"",
+      "text": "Encontraron a Zacarías el Zorro tomando el sol en una roca. «¡Zacarías!», llamó Abuelo Tejón. «¡Necesitamos tu valentía! Una gran bestia negra está subiendo al cielo. ¡Debemos imponer un límite a su poder!». Zacarías, que era muy orgulloso, se levantó de un salto. «¿Una bestia? ¡No le tengo miedo a nada! ¡Yo, Zacarías el Zorro, los ayudaré a vencer a este monstruo! ¡Guíen el camino!»"
+    },
+    {
+      "type": "image",
+      "id": "3",
+      "alt": "El grupo de tres animales—tejón, ardilla y zorro—marchan juntos por el bosque.",
+      "prompt": "A dynamic children's book illustration of the trio of heroes. The proud fox, Zacarías, walks in front with his chest puffed out. Behind him, the determined Abuelo Tejón marches on, while the nervous squirrel, Adela, scurries to keep up. They are walking on a path through a sun-dappled forest, heading towards the cabin. The mood is one of a brave but misguided quest. The art style is colorful and full of movement."
+    },
+    {
+      "type": "paragraph",
+      "translation": "The three friends arrived at the log cabin. They hid behind a large bush and looked up. The black smoke continued to pour from the chimney. \"Our plan is to climb onto the roof and cover the hole,\" whispered Abuelo Tejón. \"It is a dangerous mission, but we must do it for our home.\"",
+      "text": "Los tres amigos llegaron a la cabaña de troncos. Se escondieron detrás de un gran arbusto y miraron hacia arriba. El humo negro continuaba saliendo de la chimenea. «Nuestro plan es subir al techo y tapar el agujero», susurró Abuelo Tejón. «Es una misión peligrosa, pero debemos hacerlo por nuestro hogar»."
+    },
+    {
+      "type": "image",
+      "id": "4",
+      "alt": "Los tres animales escondidos detrás de un arbusto, mirando la cabaña y la chimenea humeante.",
+      "prompt": "An illustration from a children's book showing the badger, squirrel, and fox huddled together behind a large green bush. They are peering out with expressions of fear and determination at a rustic log cabin. Their focus is on the stone chimney, from which a thick column of black smoke is rising into the blue sky. The style is detailed and atmospheric, emphasizing the smallness of the animals compared to the house."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Just as Zacarías was about to make a brave leap towards the wall, a deep and powerful voice stopped them. \"HALT!\" The voice came from a small mushroom nearby. On top of it stood a tiny beetle, wearing a leaf as a helmet. He looked very serious. \"I am Commander Escarabajo, and I command you to stop!\"",
+      "text": "Justo cuando Zacarías iba a dar un valiente salto hacia la pared, una voz profunda y potente los detuvo. «¡ALTO!». La voz venía de una pequeña seta cercana. Encima de ella estaba un diminuto escarabajo, que llevaba una hoja como casco. Parecía muy serio. «¡Soy el Comandante Escarabajo, y les ordeno que se detengan!»"
+    },
+    {
+      "type": "paragraph",
+      "translation": "The three friends looked at the little commander in surprise. \"But, Commander,\" said Abuelo Tejón, \"we must fight the black monster!\" The Commander Beetle laughed. \"That is not a monster, my friend. That is called smoke. Humans make fire to stay warm and to cook their food. It is not dangerous.\"",
+      "text": "Los tres amigos miraron al pequeño comandante con sorpresa. «Pero, Comandante», dijo Abuelo Tejón, «¡debemos luchar contra el monstruo negro!». El Comandante Escarabajo se rio. «Eso no es un monstruo, amigo mío. Eso se llama humo. Los humanos hacen fuego para estar calientes y para cocinar su comida. No es peligroso»."
+    },
+    {
+      "type": "image",
+      "id": "5",
+      "alt": "El Comandante Escarabajo, sobre una seta, explicando con calma la verdad a los tres animales sorprendidos.",
+      "prompt": "A close-up storybook illustration. A tiny, dignified beetle wearing a leaf helmet stands authoritatively on top of a bright red mushroom. He is gesturing with one of his small legs as he explains things. Below him, the much larger faces of Abuelo Tejón, Adela, and Zacarías look on with expressions of pure shock, followed by dawning comprehension and relief. The lighting is soft and magical, highlighting the comical scene. The style is friendly and endearing."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Abuelo Tejón, Adela, and Zacarías looked at the smoke, then at each other. They felt a little embarrassed, but also very relieved. The scary black monster was just warm smoke. They thanked the wise commander and returned to their homes, happy to know their forest was safe.",
+      "text": "Abuelo Tejón, Adela y Zacarías miraron el humo, y luego se miraron entre ellos. Se sintieron un poco avergonzados, pero también muy aliviados. El monstruo negro y aterrador era solo humo caliente. Dieron las gracias al sabio comandante y regresaron a sus casas, felices de saber que su bosque estaba a salvo."
+    }
+  ],
+  "moral": {
+    "translation": "Moral: It is better to understand things before being afraid of them.",
+    "text": "Moraleja: Es mejor entender las cosas antes de tenerles miedo."
+  }
+}
