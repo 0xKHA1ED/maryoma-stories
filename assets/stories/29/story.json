@@ -1,0 +1,91 @@
+{
+  "title": "La Hormiga Hita y el Secreto del Camino",
+  "seed_words": [
+    "traffic",
+    "liberty",
+    "verdict",
+    "competition",
+    "secret"
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "translation": "Hita the ant lives in a large garden. Every day, Hita walks in a long, long line with her sisters. It's the ant traffic. One ant behind another, always in order. But Hita is not happy. 'This is so boring!' she thinks.",
+      "text": "La Hormiga Hita vive en un gran jardín. Todos los días, Hita camina en una fila muy, muy larga con sus hermanas. Es el tráfico de las hormigas. Una hormiga detrás de otra, siempre en orden. Pero Hita no está feliz. '¡Qué aburrido es esto!', piensa ella."
+    },
+    {
+      "type": "image",
+      "id": "1",
+      "alt": "La hormiga Hita con cara de aburrimiento en una larga fila de hormigas.",
+      "prompt": "A children's book illustration in a charming, simple, and colorful style. A cute little ant named Hita stands in a long, straight line of other ants. All ants are carrying green leaf fragments. Hita has a grumpy and bored expression on her face, while the other ants look focused. The background is a soft green garden floor. The lighting is bright and cheerful. Cartoon style. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "One day, Hita sees a beautiful butterfly. It flies high, free, wherever it wants. 'That is liberty!' Hita says to herself. She becomes very sad. She believes the Ant Queen has given a terrible verdict: 'Ants cannot have liberty!' This idea makes her very angry.",
+      "text": "Un día, Hita ve una mariposa hermosa. Vuela alto, libre, por donde quiere. '¡Eso es libertad!', se dice Hita. Ella se pone muy triste. Cree que la Reina Hormiga ha dado un veredicto terrible: '¡Las hormigas no pueden tener libertad!'. Esta idea la enoja mucho."
+    },
+    {
+      "type": "image",
+      "id": "2",
+      "alt": "Hita la hormiga mira con tristeza a una mariposa que vuela libremente.",
+      "prompt": "A children's book illustration in a simple, colorful style. From a low angle, a small, sad-looking ant (Hita) looks up from her place in a line of ants. Above her, a large, beautiful butterfly with vibrant blue and yellow wings flutters freely against a bright blue sky. The contrast between the rigid line on the ground and the free butterfly in the air is clear. The mood is slightly melancholic for the ant. Soft watercolor style. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Hita decides to protest. 'I will not accept this verdict! I will organize a great competition,' she declares. 'I will show the Queen that we are strong and deserve liberty!' And with that, she bravely steps out of the line.",
+      "text": "Hita decide protestar. '¡No voy a aceptar este veredicto! Voy a organizar una gran competición', declara. '¡Voy a demostrarle a la Reina que somos fuertes y merecemos la libertad!'. Y con eso, sale valientemente de la fila."
+    },
+    {
+      "type": "paragraph",
+      "translation": "First, Hita finds Gregorio the Cricket, who is playing a happy song. 'Gregorio!' says Hita. 'There is a great injustice! The Queen has given a verdict that we ants can't have liberty.' 'Oh no!' says Gregorio. 'That's why I'm organizing a competition! To win our liberty. Will you join me?' Hita asks. 'A competition? Of course! I'll join!' chirps Gregorio.",
+      "text": "Primero, Hita encuentra al Grillo Gregorio, que toca una canción feliz. '¡Gregorio!', dice Hita. '¡Hay una gran injusticia! La Reina ha dado el veredicto de que las hormigas no podemos tener libertad'. '¡Oh, no!', dice Gregorio. '¡Por eso organizo una competición! Para ganar nuestra libertad. ¿Te unes a mí?', pregunta Hita. '¿Una competición? ¡Claro! ¡Me uno!', canta Gregorio."
+    },
+    {
+      "type": "image",
+      "id": "3",
+      "alt": "Hita la hormiga hablando animadamente con el Grillo Gregorio.",
+      "prompt": "A children's book illustration in a warm, friendly style. The small ant, Hita, is standing on her hind legs, gesturing with her front legs as she speaks animatedly to a larger, friendly-looking green cricket (Gregorio) who is sitting on a blade of grass. The cricket is smiling and listening intently. The setting is a sunny meadow full of daisies. Simple shapes and bright colors. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Next, they meet Marga the Ladybug, who is polishing her spots. Hita explains again, 'Marga, the Queen's verdict is that we can't have liberty! We are organizing a competition to fight this injustice. Will you join us?' Marga, who loves fairness, says, 'An unjust verdict? I will join you!'",
+      "text": "Luego, se encuentran con la Mariquita Marga, que está puliendo sus puntos. Hita explica de nuevo: '¡Marga, el veredicto de la Reina es que no podemos tener libertad! Organizamos una competición para luchar contra esta injusticia. ¿Te unes a nosotros?'. Marga, que ama la justicia, dice: '¿Un veredicto injusto? ¡Me uniré a ustedes!'."
+    },
+    {
+      "type": "paragraph",
+      "translation": "The group grows. Soon they find Esteban the Beetle, who is lifting a small rock. 'Esteban!' they all shout. Hita explains the verdict and the competition one more time. Esteban is very strong. 'A competition? I will win!' he says. 'I'm in!'",
+      "text": "El grupo crece. Pronto encuentran al Escarabajo Esteban, que está levantando una pequeña roca. '¡Esteban!', gritan todos. Hita explica el veredicto y la competición una vez más. Esteban es muy fuerte. '¿Una competición? ¡Yo ganaré!', dice él. '¡Me apunto!'."
+    },
+    {
+      "type": "image",
+      "id": "4",
+      "alt": "El grupo de amigos: Hita, Gregorio, Marga y Esteban, caminando juntos con determinación.",
+      "prompt": "A vibrant children's book illustration. A determined group of insect friends walks together. In the lead is Hita the ant, followed by Gregorio the green cricket, a cute red ladybug (Marga), and a large, strong-looking black beetle (Esteban). They are marching through a field of flowers with purposeful expressions. The style is upbeat and adventurous, with bold outlines and cheerful colors. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "The four friends arrive at a large, beautiful web. In the center sits Ana the Spider, old and wise. Hita steps forward. 'Wise Ana, we need your help. The Queen has issued a verdict against liberty. We are having a competition to win it back!'",
+      "text": "Los cuatro amigos llegan a una telaraña grande y hermosa. En el centro está la Araña Ana, vieja y sabia. Hita da un paso al frente. 'Sabia Ana, necesitamos tu ayuda. La Reina ha emitido un veredicto contra la libertad. ¡Vamos a tener una competición para recuperarla!'."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Ana listens calmly, then smiles. 'Little ant, there is no verdict,' she says softly. 'The ant traffic is not a punishment. It is a secret. It is the secret of your strength. Walking together keeps you safe from birds. Working together lets you carry food for everyone. Your line is not a prison; it is the path of cooperation.'",
+      "text": "Ana escucha con calma y luego sonríe. 'Pequeña hormiga, no hay ningún veredicto', dice suavemente. 'El tráfico de hormigas no es un castigo. Es un secreto. Es el secreto de vuestra fuerza. Caminar juntas os mantiene a salvo de los pájaros. Trabajar juntas os permite llevar comida para todos. Vuestra fila no es una prisión; es el camino de la cooperación'."
+    },
+    {
+      "type": "image",
+      "id": "5",
+      "alt": "La sabia Araña Ana hablando con el grupo de insectos, que la escuchan sorprendidos.",
+      "prompt": "A children's book illustration in a storybook style. A wise, gentle-looking spider (Ana) with kind eyes and small spectacles sits in the center of her intricate, beautiful web. She is speaking to the small group of insects below: Hita the ant, Gregorio the cricket, Marga the ladybug, and Esteban the beetle. The insects are looking up at her with expressions of surprise and dawning understanding. The scene is lit by soft, dappled sunlight filtering through leaves. The mood is calm and enlightening. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Hita, Gregorio, Marga, and Esteban look at each other. They finally understand. Hita feels a little embarrassed, but also happy. She thanks Ana and her friends. She runs back to the ant line and takes her place, proud to be part of the wonderful traffic.",
+      "text": "Hita, Gregorio, Marga y Esteban se miran. Finalmente, lo entienden. Hita se siente un poco avergonzada, pero también feliz. Da las gracias a Ana y a sus amigos. Corre de vuelta a la fila de hormigas y ocupa su lugar, orgullosa de ser parte del maravilloso tráfico."
+    }
+  ],
+  "moral": {
+    "translation": "Sometimes, what looks like a limitation is actually our greatest strength.",
+    "text": "A veces, lo que parece una limitación es en realidad nuestra mayor fortaleza."
+  }
+}

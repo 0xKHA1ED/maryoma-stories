@@ -1,0 +1,101 @@
+{
+  "title": "Olga y el Bolsillo para una Lágrima",
+  "seed_words": [
+    "creep",
+    "lick",
+    "comfort",
+    "pocket",
+    "director"
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "translation": "Olga the Caterpillar creeps very slowly. She is a green caterpillar and she loves to explore the big leaf where she lives. Every day is a new adventure on her green world.",
+      "text": "Olga la Oruga se arrastra muy despacio. Ella es una oruga verde y le encanta explorar la gran hoja donde vive. Cada día es una nueva aventura en su mundo verde."
+    },
+    {
+      "type": "image",
+      "id": "1",
+      "alt": "Una oruga verde y bonita sobre una hoja grande y brillante.",
+      "prompt": "A cute, fuzzy green caterpillar named Olga, with big, curious, friendly eyes, creeps slowly across a huge, vibrant green leaf. The style is a whimsical and charming children's book illustration. The lighting is soft and warm, like early morning sun filtering through a forest canopy. The texture of the leaf and the caterpillar's fuzz are visible and inviting. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "One day, Olga finds a shiny, golden drop on the leaf. 'How beautiful!' she thinks. With her little mouth, she licks the drop. Oh! It is very sticky.",
+      "text": "Un día, Olga encuentra una gota dorada y brillante sobre la hoja. '¡Qué bonita!', piensa. Con su pequeña boca, ella lame la gota. ¡Oh! Es muy pegajosa."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Olga suddenly feels very sad. 'Oh, no,' she whispers. 'This is not a drop of water. This is a crystal tear! It is trapped and needs comfort. I must help it!'",
+      "text": "De repente, Olga se siente muy triste. 'Oh, no', susurra. 'Esto no es una gota de agua. ¡Es una lágrima de cristal! ¡Está atrapada y necesita consuelo. Debo ayudarla!'"
+    },
+    {
+      "type": "image",
+      "id": "2",
+      "alt": "La oruga Olga mira con tristeza una gota de savia pegajosa, pensando que es una lágrima.",
+      "prompt": "A close-up shot in a heartwarming children's book illustration style. Olga the caterpillar has a very sad and empathetic expression on her face as she looks at a beautiful, glistening, amber-colored drop of sap on the leaf. The sap drop looks like a precious, trapped jewel. The background is a soft-focus green. The mood is tender and a little sad. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Olga decides she must save the tear. But how? 'I need a pocket!' she exclaims. 'A pocket to carry the tear to a warm, safe place.' And so, her great mission begins.",
+      "text": "Olga decide que debe salvar la lágrima. ¿Pero cómo? '¡Necesito un bolsillo!', exclama. 'Un bolsillo para llevar la lágrima a un lugar cálido y seguro'. Y así, comienza su gran misión."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Soon, she sees Lulú the Ladybug. 'Hello, Lulú!' says Olga. 'I need your help. Do you have a pocket?' Lulú looks at her with surprise. 'I don't have pockets, Olga. What do you need one for?' 'To comfort a sad tear!' Olga replies. Lulú thinks it is a very noble mission and decides to help.",
+      "text": "Pronto, ve a Lulú la Mariquita. '¡Hola, Lulú!', dice Olga. 'Necesito tu ayuda. ¿Tienes un bolsillo?'. Lulú la mira con sorpresa. 'No tengo bolsillos, Olga. ¿Para qué necesitas uno?'. '¡Para consolar una lágrima triste!', responde Olga. Lulú piensa que es una misión muy noble y decide ayudar."
+    },
+    {
+      "type": "image",
+      "id": "3",
+      "alt": "La oruga Olga hablando con Lulú la Mariquita sobre una flor.",
+      "prompt": "A beautiful children's book illustration where Olga the caterpillar, on a green leaf, is earnestly talking to Lulú, a cheerful red ladybug with black spots. Lulú is perched on a bright yellow daisy, listening intently. The characters' faces show determination and cooperation. The background is a soft mix of pastel-colored flowers. Whimsical art style. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Together, they find Samuel the Snail. 'Samuel! We need a pocket!' they both say. 'A pocket?' asks Samuel, peeking out of his shell. 'It's to carry a tear to a safe place,' explains Olga. Samuel, who has a big heart, joins the search.",
+      "text": "Juntas, encuentran a Samuel el Caracol. '¡Samuel! ¡Necesitamos un bolsillo!', dicen las dos. '¿Un bolsillo?', pregunta Samuel, asomándose desde su concha. 'Es para llevar una lágrima a un lugar seguro', explica Olga. Samuel, que tiene un gran corazón, se une a la búsqueda."
+    },
+    {
+      "type": "paragraph",
+      "translation": "The group is now three. They see Ana the Ant carrying a crumb. 'Ana, wait! Do you have a pocket?' asks Lulú. 'I only have my strong arms,' says Ana. 'Why?' 'For a mission of comfort!' says Olga. Ana, always ready to help, joins the team.",
+      "text": "El grupo ahora es de tres. Ven a Ana la Hormiga llevando una miga. '¡Ana, espera! ¿Tienes un bolsillo?', pregunta Lulú. 'Solo tengo mis brazos fuertes', dice Ana. '¿Por qué?'. '¡Para una misión de consuelo!', dice Olga. Ana, siempre lista para ayudar, se une al equipo."
+    },
+    {
+      "type": "image",
+      "id": "4",
+      "alt": "La procesión de animales: una oruga, una mariquita, un caracol y una hormiga.",
+      "prompt": "A delightful and whimsical children's book illustration showing a determined procession of tiny animals. Olga the caterpillar leads, followed closely by Lulú the ladybug, Samuel the snail with his spiral shell, and Ana the tiny ant. They are marching with purpose across a mossy branch. The art style is cute, friendly, and full of character, with soft, rounded shapes. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "The small group arrives at a large, old oak tree. They hear a rhythmic sound: <em>tap, tap, tap</em>. On a branch, they see Paco the Woodpecker. He is the director of the forest's music.",
+      "text": "El pequeño grupo llega a un roble grande y viejo. Escuchan un sonido rítmico: <em>toc, toc, toc</em>. En una rama, ven a Paco el Pájaro Carpintero. Él es el director de la música del bosque."
+    },
+    {
+      "type": "paragraph",
+      "translation": "'Mr. Director!' shouts Olga. 'We need help! We are looking for a pocket.' Paco stops pecking and looks down at them. 'A pocket? How interesting. What is this urgent search for?' 'To save a crystal tear!' they all say at once.",
+      "text": "'¡Señor Director!', grita Olga. '¡Necesitamos ayuda! Buscamos un bolsillo'. Paco deja de picar y los mira. '¿Un bolsillo? Qué interesante. ¿Para qué es esta búsqueda tan urgente?'. '¡Para salvar una lágrima de cristal!', dicen todos a la vez."
+    },
+    {
+      "type": "image",
+      "id": "5",
+      "alt": "El grupo de pequeños animales mirando hacia arriba a Paco el Pájaro Carpintero en un árbol.",
+      "prompt": "A low-angle storybook illustration. The small group of friends (caterpillar, ladybug, snail, ant) are looking up in awe from the base of a huge oak tree. High above on the trunk clings Paco, a handsome woodpecker with a bright red crest and a wise, kind expression. He is looking down at the tiny group. The scene is lit by golden afternoon light. The art style is rich in texture and detail. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Paco smiled kindly. 'Show me this tear,' he said. He flew ahead and guided the group back to Olga's leaf. With his beak, he gently touched the shiny drop. 'Little friends,' said Paco, 'this is not a tear. It is sap. It is the tree's sweet food. It is not sad. It is full of life!'",
+      "text": "Paco sonrió amablemente. 'Muéstrenme esa lágrima', dijo. Voló delante y guio al grupo de regreso a la hoja de Olga. Con su pico, tocó suavemente la gota brillante. 'Pequeños amigos', dijo Paco, 'esto no es una lágrima. Es savia. Es el dulce alimento del árbol. ¡No está triste. ¡Está llena de vida!'"
+    },
+    {
+      "type": "paragraph",
+      "translation": "Olga, Lulú, Samuel, and Ana looked at the sap and then at each other. The sad tear was actually a happy treat. They felt a little silly, but also happy. They had learned something new and wonderful about their world.",
+      "text": "Olga, Lulú, Samuel y Ana miraron la savia y luego se miraron entre ellos. La lágrima triste era en realidad un dulce feliz. Se sintieron un poco tontos, pero también contentos. Habían aprendido algo nuevo y maravilloso sobre su mundo."
+    }
+  ],
+  "moral": {
+    "translation": "It is better to understand the world before you try to fix it.",
+    "text": "Es mejor entender el mundo antes de intentar arreglarlo."
+  }
+}

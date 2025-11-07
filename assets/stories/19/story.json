@@ -1,0 +1,96 @@
+{
+  "title": "Suri la Suricata y el Dragón de Sombra",
+  "seed_words": [
+    "scan",
+    "weakness",
+    "dragon",
+    "faith",
+    "wife"
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "translation": "In the great savanna lives Suri the Meerkat. Every day, Suri stands on his little mound and likes to scan the horizon. He looks to the left, he looks to the right. He is a very curious and responsible guard.",
+      "text": "En la gran sabana vive Suri la Suricata. Todos los días, Suri se para en su pequeño montículo y le gusta explorar el horizonte con la mirada. Mira a la izquierda, mira a la derecha. Es un guardia muy curioso y responsable."
+    },
+    {
+      "type": "image",
+      "id": "1",
+      "alt": "Suri la suricata explorando el horizonte en la sabana",
+      "prompt": "A cute children's book illustration in a soft, painted style. A friendly meerkat (Suri) is standing tall on his hind legs on a small dirt mound, diligently scanning the golden African savanna. The sun is setting, casting a warm orange glow over everything. The art style is gentle and whimsical, perfect for a young audience. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "One afternoon, the sun is very low. Suri sees something strange on the ground. It is a long, dark shape that moves when he moves. It looks very thin, a sign of weakness. 'Oh, what is this poor thing?' thinks Suri. 'It looks like a baby dragon, all skinny and weak!'",
+      "text": "Una tarde, el sol está muy bajo. Suri ve algo extraño en el suelo. Es una forma larga y oscura que se mueve cuando él se mueve. Parece muy delgada, una señal de debilidad. '¡Oh! ¿Qué es esta pobre cosa?', piensa Suri. '¡Parece un bebé dragón, todo flaquito y débil!'"
+    },
+    {
+      "type": "image",
+      "id": "2",
+      "alt": "Suri mirando con sorpresa su propia sombra larga, que parece un dragón",
+      "prompt": "Children's storybook illustration capturing a moment of discovery. Suri the meerkat is looking down at the ground with a wide-eyed, compassionate expression. The low sun behind him casts a long, distorted shadow that vaguely resembles a skinny, long-necked creature. The mood is one of gentle mystery. The style is a mix of watercolor and colored pencil. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Suri feels great compassion. He has faith that he must help the little creature. 'Don't worry, little dragon,' says Suri to the shadow. 'I will help you find your family. I will call you Flaquito.' And so, his great adventure begins.",
+      "text": "Suri siente una gran compasión. Tiene fe en que debe ayudar a la pequeña criatura. 'No te preocupes, dragoncito', le dice Suri a la sombra. 'Te ayudaré a encontrar a tu familia. Te llamaré Flaquito'. Y así, comienza su gran aventura."
+    },
+    {
+      "type": "paragraph",
+      "translation": "First, Suri finds his friend, Corina the Parrot. 'Corina, come with me! I am helping a lost baby dragon.' Corina is very surprised. 'A dragon? I want to see it!' she says, and she joins the mission.",
+      "text": "Primero, Suri encuentra a su amiga, Corina la Cotorra. '¡Corina, ven conmigo! Estoy ayudando a un bebé dragón perdido'. Corina está muy sorprendida. '¿Un dragón? ¡Quiero verlo!', dice ella, y se une a la misión."
+    },
+    {
+      "type": "image",
+      "id": "3",
+      "alt": "Suri el suricata hablando con Corina la cotorra y Leo el lémur.",
+      "prompt": "A delightful and lively children's book illustration. Suri the meerkat stands on the ground, gesturing enthusiastically as he talks to a colorful parrot (Corina) perched on a low acacia branch and a curious lemur with big eyes (Leo) sitting beside her. All characters have friendly and engaged expressions. The background is a soft-focus savanna. The art style is vibrant and cheerful. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Then, they see Leo the Lemur. 'Leo, join our quest! We are taking this weak little dragon back to its family,' says Suri. Leo looks at the strange shadow on the ground. 'How exciting! I'm coming with you!' says Leo.",
+      "text": "Luego, ven a Leo el Lémur. '¡Leo, únete a nuestra búsqueda! Llevamos a este débil dragoncito con su familia', dice Suri. Leo mira la extraña sombra en el suelo. '¡Qué emocionante! ¡Voy con ustedes!', dice Leo."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Finally, they meet Armando the Armadillo. 'Armando, we need your bravery! We are on a mission of faith to help this baby dragon,' explains Suri. Armando puffs out his chest. 'For a dragon! Of course! I will protect him!' And the four friends march together, with the silent 'dragon' always following Suri.",
+      "text": "Finalmente, conocen a Armando el Armadillo. '¡Armando, necesitamos tu valentía! Estamos en una misión de fe para ayudar a este bebé dragón', explica Suri. Armando saca el pecho. '¡Por un dragón! ¡Claro! ¡Yo lo protegeré!'. Y los cuatro amigos marchan juntos, con el 'dragón' silencioso siempre siguiendo a Suri."
+    },
+    {
+      "type": "image",
+      "id": "4",
+      "alt": "El grupo de animales caminando juntos en una aventura al atardecer.",
+      "prompt": "A dynamic and friendly children's book illustration showing the group on their quest. Suri the meerkat walks proudly in the lead. A colorful parrot flies just above his head, a lemur bounces alongside, and a sturdy little armadillo walks behind. Suri's long shadow keeps pace with them on the ground. The setting is the savanna at twilight, with purple and orange hues in the sky. The feeling is one of happy adventure. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "They walk and walk until it is completely dark. They arrive at Suri's burrow. Suddenly, Flaquito the dragon disappears! 'Oh no! Where did he go?' cries Suri, worried.",
+      "text": "Caminan y caminan hasta que es completamente de noche. Llegan a la madriguera de Suri. De repente, ¡el dragón Flaquito desaparece! '¡Oh, no! ¿A dónde fue?', llora Suri, preocupado."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Just then, Suri's wife, Sara the Meerkat, comes out of the burrow. She is very wise. 'Suri, what's wrong? Why are all our friends here?' Suri explains everything about the poor, weak baby dragon that has vanished.",
+      "text": "En ese momento, la esposa de Suri, Sara la Suricata, sale de la madriguera. Ella es muy sabia. 'Suri, ¿qué pasa? ¿Por qué están todos nuestros amigos aquí?'. Suri le explica todo sobre el pobre y débil bebé dragón que ha desaparecido."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Sara smiles gently. She goes inside and brings out a lantern. 'Look,' she says, holding the light near Suri. On the wall of the burrow, a dark shape appears. 'That isn't a dragon, my dear. It's your shadow. It's just a place where the light can't go.'",
+      "text": "Sara sonríe con ternura. Entra y saca un farol. 'Mira', dice, sosteniendo la luz cerca de Suri. En la pared de la madriguera, aparece una forma oscura. 'Eso no es un dragón, mi amor. Es tu sombra. Es solo un lugar a donde no llega la luz'."
+    },
+    {
+      "type": "image",
+      "id": "5",
+      "alt": "Sara la suricata sabia explicando qué es una sombra con un farol.",
+      "prompt": "A cozy, heartwarming night scene in a gentle, storybook art style. A wise female meerkat (Sara) holds a glowing lantern. The light from the lantern casts a clear shadow of Suri the meerkat against the earthen wall of their burrow. Suri, a parrot, a lemur, and an armadillo all look at the shadow with expressions of pure wonder and understanding. The atmosphere is safe, warm, and educational. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Suri, Corina, Leo, and Armando look at the shadow, then at the lantern, and then at each other. They start to laugh. It wasn't a dragon! It was just a shadow. They feel a little silly, but they are happy to have learned something new together.",
+      "text": "Suri, Corina, Leo y Armando miran la sombra, luego el farol y luego se miran entre ellos. Comienzan a reír. ¡No era un dragón! Era solo una sombra. Se sienten un poco tontos, pero están felices de haber aprendido algo nuevo juntos."
+    }
+  ],
+  "moral": {
+    "translation": "It is good to have faith, but it is wiser to seek knowledge first.",
+    "text": "Es bueno tener fe, pero es más sabio buscar primero el conocimiento."
+  }
+}

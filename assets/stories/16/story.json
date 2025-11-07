@@ -1,0 +1,91 @@
+{
+  "title": "Gerardo y el Ladrón del Silencio",
+  "seed_words": [
+    "gear",
+    "quiet",
+    "ladder",
+    "chair",
+    "wire"
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "translation": "Gerardo the Hamster is a small, round animal. He is happy and lives in a cozy burrow at the edge of a large meadow. Next to the meadow, there is a town of people. Every day, the town makes noises: cars, music, and machines. Gerardo is accustomed to this song of the town.",
+      "text": "El Hámster Gerardo es un animalito pequeño y redondo. Es feliz y vive en una madriguera cómoda al borde de un gran prado. Al lado del prado, hay un pueblo de humanos. Todos los días, el pueblo hace ruidos: coches, música y máquinas. Gerardo está acostumbrado a esta canción del pueblo."
+    },
+    {
+      "type": "image",
+      "id": "1",
+      "alt": "El Hámster Gerardo en su madriguera, feliz y tranquilo.",
+      "prompt": "A whimsical children's book illustration of a cute, chubby hamster named Gerardo. He is inside his cozy, detailed burrow decorated with seeds and leaves. He has a content expression. The art style is soft and warm, with a gentle, painted texture. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "But one morning, something is different. Everything is quiet. Very, very quiet. Gerardo listens, but he hears nothing. No cars, no music, no machines. The world is silent. Gerardo becomes very worried. Where are all the sounds?",
+      "text": "Pero una mañana, algo es diferente. Todo está quieto. Muy, muy quieto. Gerardo escucha, pero no oye nada. Ni coches, ni música, ni máquinas. El mundo está en silencio. Gerardo se preocupa mucho. ¿Dónde están todos los sonidos?"
+    },
+    {
+      "type": "paragraph",
+      "translation": "He thinks and thinks. He has an idea, a very scary idea. 'A thief! A great thief of sounds came in the night with a giant ladder,' Gerardo thinks. 'He climbed the ladder to the sky and stole all the noises from the world!'",
+      "text": "Piensa y piensa. Tiene una idea, una idea que da mucho miedo. '¡Un ladrón! Un gran ladrón de sonidos vino por la noche con una escalera gigante', piensa Gerardo. '¡Subió por la escalera hasta el cielo y robó todos los ruidos del mundo!'"
+    },
+    {
+      "type": "image",
+      "id": "2",
+      "alt": "Gerardo el Hámster con cara de pánico, imaginando un ladrón con una escalera.",
+      "prompt": "A vibrant children's illustration of Gerardo the hamster looking panicked, with his tiny paws on his cheeks and his eyes wide. Above his head is a thought bubble showing a shadowy figure climbing a long ladder into a starry night sky, carrying a sack filled with musical notes and sound waves. The style is expressive and cartoonish. No text."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Gerardo knows what he must do. 'We need a very tall chair! We will climb the chair and shout very loudly. Our shout will bring the sounds back!' He leaves his burrow and begins his mission. Soon, he finds his friend, Rita the little mouse. 'Rita, a thief with a ladder stole the sounds! We need to find a tall chair to shout from!' Rita is very scared and decides to help.",
+      "text": "Gerardo sabe lo que debe hacer. '¡Necesitamos una silla muy alta! ¡Subiremos a la silla y gritaremos muy fuerte. Nuestro grito traerá los sonidos de vuelta!' Sale de su madriguera y empieza su misión. Pronto, encuentra a su amiga, la Ratita Rita. '¡Rita, un ladrón con una escalera robó los sonidos! ¡Necesitamos encontrar una silla alta para gritar!' Rita tiene mucho miedo y decide ayudar."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Then, they see Adela the squirrel in a tree. 'Adela!' shouts Gerardo. 'A terrible thief with a ladder stole all the sounds! We are looking for a tall chair to shout from. Will you help us?' Adela loves adventures. 'Of course!' she says, and joins the group.",
+      "text": "Luego, ven a la Ardilla Adela en un árbol. '¡Adela!', grita Gerardo. '¡Un ladrón terrible con una escalera robó todos los sonidos! Buscamos una silla alta para gritar. ¿Nos ayudas?' A Adela le encantan las aventuras. '¡Claro que sí!', dice ella, y se une al grupo."
+    },
+    {
+      "type": "image",
+      "id": "3",
+      "alt": "Gerardo, Rita y Adela caminando juntos en una misión.",
+      "prompt": "A bright, cheerful illustration in a simple, flat style. Gerardo the hamster, Rita the tiny mouse, and Adela the fluffy squirrel are walking in a single-file line across a green field. They all have determined expressions, on a heroic quest. The sun is shining. The art style is reminiscent of classic mid-century children's books. No text."
+    },
+    {
+      "type": "paragraph",
+      "translation": "The three friends walk and walk. They find Carlos the rabbit, who is hiding behind a bush. 'Carlos, don't be afraid!' says Gerardo. 'We know why it's so quiet. A thief with a ladder stole the sounds! We need a tall chair. Come with us!' Carlos is very dramatic. 'Oh, what a disaster! We must find that chair!' And he joins the mission.",
+      "text": "Los tres amigos caminan y caminan. Encuentran al Conejo Carlos, que está escondido detrás de un arbusto. '¡Carlos, no tengas miedo!', dice Gerardo. 'Sabemos por qué todo está tan quieto. ¡Un ladrón con una escalera robó los sonidos! Necesitamos una silla alta. ¡Ven con nosotros!' Carlos es muy dramático. '¡Oh, qué desastre! ¡Debemos encontrar esa silla!' Y se une a la misión."
+    },
+    {
+      "type": "image",
+      "id": "4",
+      "alt": "El grupo de cuatro animales mirando hacia un poste alto.",
+      "prompt": "A low-angle shot in a children's book illustration style. The four animal friends—a hamster, a mouse, a squirrel, and a rabbit—are gathered at the base of a very tall wooden telephone pole. They are all looking up with expressions of awe and wonder. The style uses soft watercolors and gentle lines. The mood is hopeful. No text."
+    },
+    {
+      "type": "paragraph",
+      "translation": "The group sees a very, very tall wooden post. At the top of the post, there is a long, black wire. And sitting on the wire is a big, black bird: the Wise Crow. 'Hello, little animals!' says the crow. 'Are you looking for a chair?' 'Yes!' they all shout. 'To bring back the sounds!'",
+      "text": "El grupo ve un poste de madera muy, muy alto. En la cima del poste, hay un cable negro y largo. Y sentado en el cable hay un pájaro grande y negro: el Cuervo Sabio. '¡Hola, animalitos!', dice el cuervo. '¿Estáis buscando una silla?' '¡Sí!', gritan todos. '¡Para traer de vuelta los sonidos!'"
+    },
+    {
+      "type": "paragraph",
+      "translation": "The crow laughs a deep laugh. 'There is no thief with a ladder,' he says. 'Look.' He points his wing at another wire. The wire is broken and hangs down. 'A storm broke the electric wire. That's why the town is quiet. The machines have no power. Soon, people will fix the wire and the sounds will return.'",
+      "text": "El cuervo ríe con una risa profunda. 'No hay ningún ladrón con una escalera', dice. 'Mirad'. Señala con su ala a otro cable. El cable está roto y cuelga. 'Una tormenta rompió el cable eléctrico. Por eso el pueblo está en silencio. Las máquinas no tienen energía. Pronto, la gente arreglará el cable y los sonidos volverán'."
+    },
+    {
+      "type": "image",
+      "id": "5",
+      "alt": "El Cuervo Sabio en el cable, explicando el problema a los animales de abajo.",
+      "prompt": "A daytime storybook illustration. A wise black crow is perched on a telephone wire, calmly pointing its wing towards a visibly snapped and dangling piece of wire further down. Below on the ground, the hamster, mouse, squirrel, and rabbit look up. Their expressions are changing from worry to relief and understanding. The lighting is clear and bright. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Gerardo, Rita, Adela, and Carlos look at each other. They feel a little silly, but also very relieved. There is no thief. There is only a broken wire. They thank the Wise Crow and return to the meadow, enjoying the peaceful quiet while it lasts.",
+      "text": "Gerardo, Rita, Adela y Carlos se miran. Se sienten un poco tontos, pero también muy aliviados. No hay ningún ladrón. Solo hay un cable roto. Dan las gracias al Cuervo Sabio y regresan al prado, disfrutando de la paz y el silencio mientras dura."
+    }
+  ],
+  "moral": {
+    "translation": "It is better to find the real reason for a problem than to invent a scary one.",
+    "text": "Es mejor buscar la verdadera razón de un problema que inventar una que da miedo."
+  }
+}

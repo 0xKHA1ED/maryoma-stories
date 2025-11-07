@@ -1,0 +1,101 @@
+{
+  "title": "Zuri y el Emperador Durmiente",
+  "seed_words": [
+    "kit",
+    "junior",
+    "emperor",
+    "homicide",
+    "monkey"
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "translation": "Zuri is a very young fox, a 'kit'. He lives in a big, green forest. Zuri loves the sun. For him, the sun is 'the Great Golden Emperor'. Every day, Zuri looks at the Emperor in the sky and feels very happy.",
+      "text": "Zuri es un zorro muy joven, un `kit`. Vive en un bosque grande y verde. A Zuri le encanta el sol. Para él, el sol es \"el Gran Emperador Dorado\". Cada día, Zuri mira al Emperador en el cielo y se siente muy feliz."
+    },
+    {
+      "type": "image",
+      "id": "1",
+      "alt": "Un zorrito naranja sonriendo al sol brillante en un prado.",
+      "prompt": "A gentle, soft watercolor children's book illustration. A cute, fluffy orange fox kit (Zuri) is sitting in a lush green meadow, looking up with a big, joyful smile at a bright, friendly-faced sun in a clear blue sky. A beautiful forest is in the background. The lighting is warm, bright, and cheerful. The style is simple and endearing. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "One day, Zuri plays until very late. It's the first time he has seen the sunset. He watches as the sun, his Emperor, gets smaller, like a 'junior' version of itself. Then, it slowly disappears behind the dark mountains.",
+      "text": "Un día, Zuri juega hasta muy tarde. Es la primera vez que ve el atardecer. Mira cómo el sol, su Emperador, se hace más pequeño, como una versión `junior` de sí mismo. Luego, desaparece lentamente detrás de las montañas oscuras."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Zuri is very scared. 'Oh no!' he shouts. 'The Golden Emperor has disappeared! A terrible monster ate him!'. Zuri believes his friend, the sun, has been destroyed. To him, it's a terrible act.",
+      "text": "Zuri está muy asustado. \"¡Oh, no!\", grita. \"¡El Emperador Dorado ha desaparecido! ¡Un monstruo terrible se lo comió!\". Zuri cree que su amigo, el sol, ha sido destruido. Para él, es un acto terrible."
+    },
+    {
+      "type": "image",
+      "id": "2",
+      "alt": "El zorrito Zuri mira asustado cómo el sol se esconde detrás de las montañas.",
+      "prompt": "A gentle, soft watercolor children's book illustration. The fox kit, Zuri, stands on a hill, his expression one of complete shock and fear. He is looking at a dramatic orange, red, and purple sunset sky where the sun has just vanished behind dark, silhouetted mountains. The mood is dramatic and slightly anxious for a child. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "With a heart full of sadness and courage, Zuri decides he must act. 'I am going to find that monster!' he says. He runs through the forest to find his friend, Adela the Squirrel.",
+      "text": "Con el corazón lleno de tristeza y valentía, Zuri decide que debe actuar. \"¡Voy a encontrar a ese monstruo!\", dice. Corre por el bosque para buscar a su amiga, la Ardilla Adela."
+    },
+    {
+      "type": "paragraph",
+      "translation": "'Adela, Adela!' Zuri yells. 'Terrible news! A monster ate the Great Golden Emperor!'. Adela, who has also never seen a sunset, gets very scared. 'How awful!' she says. 'Let's go find it together!'.",
+      "text": "\"¡Adela, Adela!\", grita Zuri. \"¡Una noticia terrible! ¡Un monstruo se comió al Gran Emperador Dorado!\". Adela, que nunca ha visto el atardecer, se asusta mucho. \"¡Qué horror!\", dice ella. \"¡Vamos a buscarlo juntos!\"."
+    },
+    {
+      "type": "image",
+      "id": "3",
+      "alt": "Zuri el zorro y Adela la ardilla se ven decididos en un bosque al atardecer.",
+      "prompt": "A gentle, soft watercolor children's book illustration. Zuri the fox kit and a small, fluffy brown squirrel (Adela) stand side-by-side in a forest at twilight. They both have determined and brave expressions on their faces. The forest is filled with long, dark blue shadows. The mood is one of brave determination. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Zuri and Adela run and find their friend, Carlos the Rabbit. 'Carlos!' they both say. 'A giant, dark monster ate the sun! You must help us find it!'. Carlos is a brave rabbit and decides to join the mission.",
+      "text": "Zuri y Adela corren y encuentran a su amigo, el Conejo Carlos. \"¡Carlos!\", dicen los dos. \"¡Un monstruo gigante y oscuro se comió al sol! ¡Debes ayudarnos a encontrarlo!\". Carlos es un conejo valiente y decide unirse a la misión."
+    },
+    {
+      "type": "paragraph",
+      "translation": "The three friends walk together through the dark forest. The moon lights their path. They are a little scared, but they are brave. They look for the monster's tracks, but they find nothing. 'Where could it be?' Carlos asks in a whisper.",
+      "text": "Los tres amigos caminan juntos por el bosque oscuro. La luna ilumina su camino. Tienen un poco de miedo, pero son valientes. Buscan huellas del monstruo, pero no encuentran nada. \"¿Dónde puede estar?\", pregunta Carlos en voz baja."
+    },
+    {
+      "type": "image",
+      "id": "4",
+      "alt": "Zuri, Adela, y Carlos el conejo, juntos y asustados en un bosque oscuro de noche.",
+      "prompt": "A gentle, soft watercolor children's book illustration. Zuri the fox kit, Adela the squirrel, and a small white rabbit (Carlos) are huddled closely together in a dark forest. Their eyes are wide with a mix of fear and shared courage. The scene is illuminated only by soft, silvery moonlight filtering through the tall trees. The mood is adventurous but a little spooky. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "They walk for the entire night. Finally, the sky begins to change color. They climb a high hill to get a better view. At the top, they see a wise old 'monkey', sitting peacefully. It's Mateo the Monkey.",
+      "text": "Caminan durante toda la noche. Finalmente, el cielo empieza a cambiar de color. Suben a una colina alta para ver mejor. En la cima, ven a un viejo `mono` sabio, sentado en silencio. Es el Mono Mateo."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Zuri runs to him. 'Mr. Monkey, please, help us! We are looking for a horrible monster! It ate our Emperor, the sun!'. Mateo smiles calmly and doesn't seem worried.",
+      "text": "Zuri corre hacia él. \"¡Señor Mono, por favor, ayúdenos! ¡Buscamos a un monstruo horrible! ¡Se comió a nuestro Emperador, el sol!\". Mateo sonríe con calma y no parece preocupado."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Mateo points to the horizon with his long finger. 'Look, my little friends,' he says in a soft voice. 'Nobody ate the Emperor. He did not die. He was only sleeping. And now... he is waking up.'",
+      "text": "Mateo señala al horizonte con su dedo largo. \"Miren, mis pequeños amigos\", dice con una voz suave. \"Nadie se comió al Emperador. Él no murió. Solo estaba durmiendo. Y ahora... está despertando\"."
+    },
+    {
+      "type": "image",
+      "id": "5",
+      "alt": "Un mono sabio con los tres animalitos viendo el amanecer desde una colina.",
+      "prompt": "A gentle, soft watercolor children's book illustration. A wise, old, gray monkey (Mateo) with kind, smiling eyes sits on a hilltop with Zuri, Adela, and Carlos. The monkey is gently pointing towards a beautiful, vibrant sunrise. The three young animals are looking at the sunrise with expressions of pure wonder, amazement, and relief. The light is golden and hopeful. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Zuri, Adela, and Carlos watch where Mateo is pointing. They see the sun, big and brilliant, appear again in the sky. It is the sunrise. They feel very relieved and a little silly. They thank Mateo and return home, happy to know the secret of day and night.",
+      "text": "Zuri, Adela y Carlos miran hacia donde señala Mateo. Ven cómo el sol, grande y brillante, aparece de nuevo en el cielo. Es el amanecer. Se sienten muy aliviados y un poco tontos. Le dan las gracias a Mateo y regresan a casa, felices de saber el secreto del día y la noche."
+    }
+  ],
+  "moral": {
+    "translation": "It is better to seek knowledge than to react with fear.",
+    "text": "Es mejor buscar conocimiento antes que reaccionar con miedo."
+  }
+}

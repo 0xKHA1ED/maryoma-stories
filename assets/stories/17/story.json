@@ -1,0 +1,96 @@
+{
+  "title": "La Rana Rita y el Pensador Flotante",
+  "seed_words": [
+    "jump",
+    "sail",
+    "philosophy",
+    "cliff",
+    "kiss"
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "translation": "In a shiny pond, lives a frog named Rita. Rita loves to jump. She jumps, jumps, jumps all day! One day, Rita sees something new on the water. It is a lonely leaf. The leaf moves slowly, as if it were sailing on a secret journey.",
+      "text": "En un estanque brillante, vive una rana llamada Rita. A Rita le encanta <em>saltar</em>. ¡Salta, salta, salta todo el día! Un día, Rita ve algo nuevo en el agua. Es una hoja solitaria. La hoja se mueve lentamente, como si <em>navegara</em> en un viaje secreto."
+    },
+    {
+      "type": "image",
+      "id": "1",
+      "alt": "La Rana Rita mirando una hoja flotando en el estanque.",
+      "prompt": "A charming children's book illustration in a soft watercolor style. A cute, bright green frog named Rita sits on a large green lily pad. She has big, curious eyes and is looking intently at a single, golden-brown autumn leaf sailing gently across the calm, blue water of a pond. The morning light is warm and gentle. The style is simple, friendly, and whimsical. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "\"How strange!\" thinks Rita. \"That leaf is not a normal leaf. It moves with purpose. It must be a great philosopher, a silent thinker!\" Rita decides she has a very important question for the thinker, based on her simple philosophy.",
+      "text": "“¡Qué extraño!”, piensa Rita. “Esa hoja no es una hoja normal. Se mueve con un propósito. ¡Debe ser un gran <em>filósofo</em>, un pensador silencioso!”. Rita decide que tiene una pregunta muy importante para el pensador, basada en su simple <em>filosofía</em>."
+    },
+    {
+      "type": "paragraph",
+      "translation": "But the thinker is very far away. \"I need to go to the big cliff so it can see me,\" says Rita. And so, Rita begins her mission. Soon, she finds her friend, Guillermo the Cricket.",
+      "text": "Pero el pensador está muy lejos. “Necesito ir al gran <em>acantilado</em> para que me vea”, dice Rita. Y así, Rita comienza su misión. Pronto, encuentra a su amigo, el Grillo Guillermo."
+    },
+    {
+      "type": "image",
+      "id": "2",
+      "alt": "La Rana Rita hablando con el Grillo Guillermo en un prado.",
+      "prompt": "A delightful children's book illustration. Rita the frog is hopping along a dirt path and has stopped to talk to a tiny, dapper cricket, Guillermo. They are both smiling and gesturing excitedly. The background is a soft-focus green meadow with wildflowers. The art style is warm pastels with gentle lines, full of cheer. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "\"Hello, Guillermo!\" says Rita. \"Where are you going in such a hurry?\" asks Guillermo. \"I'm going to the big cliff to talk to the Floating Thinker!\" explains Rita. \"It's a very wise philosopher sailing on the pond.\" Guillermo is very excited. \"A philosopher! How interesting! I'm coming with you!\"",
+      "text": "“¡Hola, Guillermo!”, dice Rita.<br>“¿A dónde vas con tanta prisa?”, pregunta Guillermo.<br>“¡Voy al gran <em>acantilado</em> para hablar con el Pensador Flotante!”, explica Rita. “Es un <em>filósofo</em> muy sabio que <em>navega</em> en el estanque”.<br>Guillermo está muy emocionado. “¡Un filósofo! ¡Qué interesante! ¡Voy contigo!”."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Rita and Guillermo walk together. Then, they see Laura the Worm moving on the ground. \"Hello, Laura!\" they say. Laura asks, \"Why are you so excited?\". Rita answers, \"We are going to see the great Floating Thinker from the cliff! Do you want to come?\". Laura thinks it's a great adventure. \"Of course! Let's go!\"",
+      "text": "Rita y Guillermo caminan juntos. Luego, ven a la Lombriz Laura moviéndose en la tierra. “¡Hola, Laura!”, dicen. Laura pregunta: “¿Por qué están tan emocionados?”. Rita responde: “¡Vamos a ver al gran Pensador Flotante desde el <em>acantilado</em>! ¿Quieres venir?”. Laura piensa que es una gran aventura. “¡Claro que sí! ¡Vamos!”."
+    },
+    {
+      "type": "image",
+      "id": "3",
+      "alt": "Rita, Guillermo y Laura la lombriz viajando juntos por el campo.",
+      "prompt": "A whimsical children's book scene in a bright, storybook art style. The group of friends—Rita the frog, Guillermo the cricket (perched on Rita's back), and Laura the happy pink worm—are traveling together across a field of tall green grass and colorful flowers. They all have joyful expressions. The sun is shining brightly in a clear blue sky. The scene is full of movement and friendship. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "The group of three friends continues their journey. Near the pond, they find Pablo the Duck. \"Pablo, Pablo! Come with us!\" shouts Rita. \"Where is everyone going?\" asks Pablo. \"On a very important mission! We're going to the cliff to consult a wise philosopher!\" says Guillermo. Pablo, who loves important things, decides to join them. \"Wait! I'm going too!\"",
+      "text": "El grupo de tres amigos continúa su viaje. Cerca del estanque, encuentran al Pato Pablo. “¡Pablo, Pablo! ¡Ven con nosotros!”, grita Rita. “¿A dónde van todos?”, pregunta Pablo. “¡A una misión muy importante! ¡Vamos al <em>acantilado</em> para consultar a un sabio <em>filósofo</em>!”, dice Guillermo. Pablo, que ama las cosas importantes, decide unirse a ellos. “¡Esperen! ¡Yo también voy!”."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Finally, the four friends arrive at the cliff. It's a small, grassy cliff that looks out over the pond. Down below, on the water, they see the lonely leaf. It continues to sail in silence. \"There it is,\" whispers Rita. \"The great Floating Thinker.\"",
+      "text": "Finalmente, los cuatro amigos llegan al <em>acantilado</em>. Es un pequeño acantilado cubierto de hierba que mira hacia el estanque. Abajo, en el agua, ven la hoja solitaria. Sigue navegando en silencio. “Ahí está”, susurra Rita. “El gran Pensador Flotante”."
+    },
+    {
+      "type": "image",
+      "id": "4",
+      "alt": "Los cuatro amigos en el acantilado mirando el estanque.",
+      "prompt": "A beautiful children's book illustration showing a wide shot. Four animal friends—Rita the frog, Guillermo the cricket, Laura the worm, and Pablo the white duck—are standing together on the edge of a small, grassy cliff. They are looking down with anticipation at a calm, blue pond below. Far below on the water, a single, tiny leaf is visible. The mood is full of suspense and wonder. The style uses soft, blended colors, like colored pencils. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "They wait. And they wait. And they wait a little more. But the thinker says nothing. It does nothing. It just floats. \"Maybe... it's not a philosopher,\" says Pablo the Duck, a little disappointed.",
+      "text": "Esperan. Y esperan. Y esperan un poco más. Pero el pensador no dice nada. No hace nada. Solo flota. “Quizás... no es un <em>filósofo</em>”, dice Pablo el Pato, un poco decepcionado."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Suddenly, a small head appears in the water right next to the leaf. It is Beto the Sea Bream, a kind and curious fish. Beto comes closer to the surface and gives a little kiss to the water, smack! The ripples from the kiss push the leaf. It moves from side to side.",
+      "text": "De repente, una pequeña cabeza aparece en el agua justo al lado de la hoja. Es Beto el Besugo, un pez amable y curioso. Beto se acerca a la superficie y le da un pequeño <em>beso</em> al agua, ¡muac! Las ondas del <em>beso</em> empujan la hoja. Se mueve de un lado a otro."
+    },
+    {
+      "type": "image",
+      "id": "5",
+      "alt": "Beto el Besugo da un beso al agua y crea ondas cerca de la hoja.",
+      "prompt": "A cute and funny children's book illustration. A friendly, silver-scaled fish, Beto, is peeking his head out of the water. His mouth is puckered in a 'kiss' shape, creating concentric ripples on the water's surface. These ripples are gently rocking a small, golden leaf nearby. Beto has a knowing, happy expression. The viewpoint is close to the water's surface. The art style is vibrant and playful with a watercolor texture. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Beto laughs and tells them: \"Hello, friends! Are you watching this leaf? It's not a philosopher! It's just a leaf that the wind pushes. The water takes it on a journey.\" Rita, Guillermo, Laura, and Pablo look at each other. Then, they all start to laugh. How silly they had been! They learned that sometimes, imagination is fun, but reality is much simpler.",
+      "text": "Beto se ríe y les dice: “¡Hola, amigos! ¿Están mirando esta hoja? ¡No es un <em>filósofo</em>! Es solo una hoja que el viento empuja. El agua la lleva de viaje”.<br>Rita, Guillermo, Laura y Pablo se miran. Luego, todos empiezan a reír. ¡Qué tontos han sido! Aprendieron que a veces, la imaginación es divertida, pero la realidad es mucho más simple."
+    }
+  ],
+  "moral": {
+    "translation": "Sometimes, the most mysterious things have the simplest explanation.",
+    "text": "A veces, las cosas más misteriosas tienen la explicación más simple."
+  }
+}

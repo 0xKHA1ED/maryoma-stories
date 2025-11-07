@@ -1,0 +1,91 @@
+{
+  "title": "El Búho Bartolo y el Misterio del Burro",
+  "seed_words": [
+    "judge",
+    "donkey",
+    "check",
+    "freedom",
+    "giant"
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "translation": "In a very tall tree lives Bartolo the Owl. Bartolo is the judge of the forest. He is very serious and thinks he knows everything. From his branch, he watches everyone and everything.",
+      "text": "En un árbol muy alto vive el Búho Bartolo. Bartolo es el juez del bosque. Es muy serio y cree que lo sabe todo. Desde su rama, él observa a todos y a todo."
+    },
+    {
+      "type": "image",
+      "id": "1",
+      "alt": "El Búho Bartolo en su rama, con gafas y aire de juez.",
+      "prompt": "A charming children's book illustration of a fluffy, brown owl named Bartolo perched high on a tree branch. He is wearing small, round spectacles on his beak, giving him a very serious and judicial look. The style is soft watercolor with a warm, gentle light filtering through the leaves. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "One morning, Bartolo looks at a distant field. He sees a donkey tied with a rope. Bartolo immediately judges the situation. \"Oh, poor animal!\" he says. \"That donkey is in check. He has no freedom! This is a great injustice!\"",
+      "text": "Una mañana, Bartolo mira un campo lejano. Ve un burro atado con una cuerda. Bartolo inmediatamente juzga la situación. «¡Oh, pobre animal!», dice. «Ese burro está en jaque. ¡No tiene libertad! ¡Esto es una gran injusticia!»"
+    },
+    {
+      "type": "paragraph",
+      "translation": "Bartolo decides he must free the donkey. He flies down from his tree. His mission is called 'Operation Freedom'. He needs to find friends to help him.",
+      "text": "Bartolo decide que debe liberar al burro. Baja volando de su árbol. Su misión se llama 'Operación Libertad'. Necesita buscar amigos para que lo ayuden."
+    },
+    {
+      "type": "image",
+      "id": "2",
+      "alt": "Un burro atado a un poste en un campo soleado, visto desde lejos.",
+      "prompt": "A view from high up, as if from the owl's perspective. In the distance, a small, gentle donkey is tied to a wooden post in a sunny, green field. The scene looks peaceful, but the great distance suggests a potential for misunderstanding. The art style is a soft, slightly hazy watercolor painting. No text."
+    },
+    {
+      "type": "paragraph",
+      "translation": "First, he finds Adela the Squirrel. \"Adela!\" shouts Bartolo. \"There is a great injustice! A poor donkey has no freedom!\" Adela asks, \"No freedom? What's wrong?\" Bartolo explains, \"He is trapped! Will you come with me to free him?\" Adela replies, \"Of course! For the donkey's freedom!\"",
+      "text": "Primero, encuentra a la Ardilla Adela. «¡Adela!», grita Bartolo. «¡Hay una gran injusticia! ¡Un pobre burro no tiene libertad!». Adela pregunta: «¿No tiene libertad? ¿Qué pasa?». Bartolo explica: «¡Está atrapado! ¿Vienes conmigo a liberarlo?». Adela responde: «¡Claro que sí! ¡Por la libertad del burro!»"
+    },
+    {
+      "type": "paragraph",
+      "translation": "Then, they find Zacarías the Fox. Bartolo repeats his urgent story. \"Zacarías! We must fight for a donkey's freedom! He is a prisoner!\" Zacarías, who likes adventure, says, \"A prisoner? This is exciting! Let's go fight for his freedom!\"",
+      "text": "Luego, encuentran al Zorro Zacarías. Bartolo repite su historia urgente. «¡Zacarías! ¡Debemos luchar por la libertad de un burro! ¡Es un prisionero!». Zacarías, a quien le gusta la aventura, dice: «¿Un prisionero? ¡Esto es emocionante! ¡Vamos a luchar por su libertad!»."
+    },
+    {
+      "type": "image",
+      "id": "3",
+      "alt": "Bartolo, Adela y Zacarías marchando juntos por el bosque con aire decidido.",
+      "prompt": "A dynamic children's book illustration showing the group of rescuers. Bartolo the owl flies just ahead, looking determined. Adela the squirrel scampers along a low branch, and Zacarías the fox creeps forward with a focused expression. The forest around them is lush and green. Their body language shows great purpose. Style is bright, colorful watercolor. No text."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Finally, they meet Casimiro the Rabbit. He is small but very brave. \"Casimiro, join our cause!\" says Bartolo. \"Freedom is the most important thing!\" Casimiro nods with courage. \"I will help! For freedom!\" Now, the small group is ready.",
+      "text": "Finalmente, conocen al Conejo Casimiro. Es pequeño pero muy valiente. «¡Casimiro, únete a nuestra causa!», dice Bartolo. «¡La libertad es lo más importante!». Casimiro asiente con valentía. «¡Yo ayudaré! ¡Por la libertad!». Ahora, el pequeño grupo está listo."
+    },
+    {
+      "type": "paragraph",
+      "translation": "The group arrives at the field. They hide behind a big bush. They see the donkey... and next to him, they see a giant! The giant is very, very big. He is watering his flowers and singing. He does not look mean.",
+      "text": "El grupo llega al campo. Se esconden detrás de un arbusto grande. Ven al burro... y al lado de él, ¡ven a un gigante! El gigante es muy, muy grande. Está regando sus flores y cantando. No parece malo."
+    },
+    {
+      "type": "image",
+      "id": "4",
+      "alt": "Los cuatro animales espían desde un arbusto a un gigante amable en su jardín.",
+      "prompt": "The four animal friends (owl, squirrel, fox, rabbit) are peeking out from behind a large, leafy green bush. Their eyes are wide with a mix of fear and curiosity. In the background, a very large but friendly-looking giant is peacefully watering colorful flowers with a watering can. The focus is on the cute, expressive faces of the animals. Soft, sunny lighting. Watercolor style. No text."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Bartolo, being the leader, flies out bravely. \"Sir Giant!\" he says in his most judicial voice. \"We are here to demand freedom for this poor donkey!\" The giant looks down and smiles a big, kind smile. \"Freedom? For my friend Paco?\" he asks, confused.",
+      "text": "Bartolo, como es el líder, sale volando con valentía. «¡Señor Gigante!», dice con su voz más judicial. «¡Estamos aquí para exigir la libertad de este pobre burro!». El gigante mira hacia abajo y sonríe con una sonrisa grande y amable. «¿Libertad? ¿Para mi amigo Paco?», pregunta, confundido."
+    },
+    {
+      "type": "paragraph",
+      "translation": "The giant explains that Paco the donkey is his best friend. The rope is only there because Paco loves to eat the carrots from his garden. The rope keeps him in the grassy area. At that moment, Paco the donkey lets out a happy 'hee-haw' and nudges the giant's leg. Bartolo and his friends feel very silly.",
+      "text": "El gigante explica que el burro Paco es su mejor amigo. La cuerda solo está ahí porque a Paco le encanta comerse las zanahorias de su jardín. La cuerda lo mantiene en la zona de hierba. En ese momento, el burro Paco hace un feliz «¡ji-jo!» y empuja la pierna del gigante. Bartolo y sus amigos se sienten muy tontos."
+    },
+    {
+      "type": "image",
+      "id": "5",
+      "alt": "El gigante bueno acaricia a su burro Paco, mientras los otros animales miran aliviados.",
+      "prompt": "A heartwarming, full-page illustration. A kind, smiling giant is gently patting his happy donkey, Paco, on the head. The four small animal rescuers are standing nearby, their expressions showing relief and a little bit of embarrassment. The sun is setting, casting a warm, golden glow over the entire peaceful scene. The style is a beautiful, soft watercolor. No text."
+    }
+  ],
+  "moral": {
+    "translation": "Do not judge a situation only by what you see. It is always better to understand before you act.",
+    "text": "No juzgues una situación solo por lo que ves. Siempre es mejor entender antes de actuar."
+  }
+}

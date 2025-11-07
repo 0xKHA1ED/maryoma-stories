@@ -1,0 +1,101 @@
+{
+  "title": "Hámster Hugo y su Gemelo de Agua",
+  "seed_words": [
+    "issue",
+    "fun",
+    "twin",
+    "residence",
+    "cinema"
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "translation": "Hugo the Hamster had a small issue: he felt a little lonely. Even though his burrow was cozy and full of seeds, he wanted a friend to play with. One sunny morning, he decided to go outside to have some fun.",
+      "text": "El Hámster Hugo tenía un pequeño problema: se sentía un poco solo. Aunque su madriguera era cómoda y estaba llena de semillas, él quería un amigo con quien jugar. Una mañana soleada, decidió salir a divertirse un poco."
+    },
+    {
+      "type": "image",
+      "id": "1",
+      "alt": "El Hámster Hugo, con aspecto un poco solitario en su madriguera.",
+      "prompt": "A cute, fluffy brown hamster (Hugo) with big, thoughtful eyes, sits by himself inside a cozy, warm burrow dug into the earth. The burrow is filled with sunflower seeds and soft bedding. The style is a gentle, soft watercolor children's book illustration. The lighting is soft and warm, highlighting Hugo's slightly lonely expression. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Hugo ran through the green grass. It had rained during the night, and a large, shiny puddle was in the middle of the field. Hugo found it very fun to run around the puddle. He loved to see the big blue sky in the water.",
+      "text": "Hugo corrió por la hierba verde. Había llovido durante la noche y un charco grande y brillante estaba en medio del campo. A Hugo le pareció muy divertido correr alrededor del charco. Le encantaba ver el gran cielo azul en el agua."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Suddenly, he looked into the water and saw... another hamster! The other hamster looked exactly like him. It copied his every move. \"It's my twin!\" Hugo shouted with joy. \"I have found my long-lost twin!\"",
+      "text": "De repente, miró dentro del agua y vio... ¡a otro hámster! El otro hámster era exactamente igual a él. Copiaba cada uno de sus movimientos. \"¡Es mi gemelo!\", gritó Hugo con alegría. \"¡He encontrado a mi gemelo perdido!\""
+    },
+    {
+      "type": "image",
+      "id": "2",
+      "alt": "Hugo el hámster mira sorprendido su reflejo en un charco.",
+      "prompt": "A joyful and surprised hamster (Hugo) is peering into a crystal-clear puddle in a vibrant green meadow. His perfect reflection stares back at him from the water's surface. His mouth is open in a little 'o' of surprise. The sun is shining, creating sparkles on the water. The art style is a cheerful and bright children's book illustration with saturated colors. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Hugo felt very happy. He decided that his twin needed a place to live. \"I must build a residence for him right here, next to the puddle!\" he thought. But it was a big job. He needed help. So, he ran to find his neighbors.",
+      "text": "Hugo se sintió muy feliz. Decidió que su gemelo necesitaba un lugar para vivir. \"¡Debo construirle una residencia justo aquí, al lado del charco!\", pensó. Pero era un trabajo grande. Necesitaba ayuda. Así que corrió a buscar a sus vecinos."
+    },
+    {
+      "type": "paragraph",
+      "translation": "First, he found Ramón the Mouse. \"Ramón! I found my twin!\" said Hugo. \"I need to build a residence for him. Will you help me?\" Ramón was very excited. \"A twin? How fun! Of course, I will help you!\"",
+      "text": "Primero, encontró al Ratón Ramón. \"¡Ramón! ¡Encontré a mi gemelo!\", dijo Hugo. \"Necesito construirle una residencia. ¿Me ayudas?\". Ramón estaba muy emocionado. \"¿Un gemelo? ¡Qué divertido! ¡Claro que te ayudo!\""
+    },
+    {
+      "type": "image",
+      "id": "3",
+      "alt": "Hugo pidiendo ayuda a su amigo, el Ratón Ramón.",
+      "prompt": "Hugo the hamster is talking excitedly to a tiny, friendly field mouse (Ramón) in a field of daisies. Hugo is gesturing with his paws, explaining his plan. Ramón the mouse is listening with a curious and happy expression. The style is a sweet, gentle storybook illustration with soft lines and a pastel color palette, emphasizing friendship. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Next, they found Adela the Squirrel. \"Adela! I found my twin!\" said Hugo. \"We are building a residence for him. Will you help us?\" Adela chattered happily. \"A twin? How fun! Of course, I will help you!\"",
+      "text": "Luego, encontraron a la Ardilla Adela. \"¡Adela! ¡Encontré a mi gemelo!\", dijo Hugo. \"Estamos construyendo una residencia para él. ¿Nos ayudas?\". Adela parloteó alegremente. \"¿Un gemelo? ¡Qué divertido! ¡Claro que os ayudo!\""
+    },
+    {
+      "type": "paragraph",
+      "translation": "Finally, they found Teo the Badger, who was digging a hole. \"Teo! I found my twin!\" said Hugo. \"We are building a residence for him. Will you help us?\" Teo smiled. \"A twin? How fun! Of course, I will help you!\"",
+      "text": "Finalmente, encontraron al Tejón Teo, que estaba cavando un hoyo. \"¡Teo! ¡Encontré a mi gemelo!\", dijo Hugo. \"Estamos construyendo una residencia para él. ¿Nos ayudas?\". Teo sonrió. \"¿Un gemelo? ¡Qué divertido! ¡Claro que os ayudo!\""
+    },
+    {
+      "type": "image",
+      "id": "4",
+      "alt": "Hugo y sus amigos, Ramón, Adela y Teo, llevando materiales para construir.",
+      "prompt": "A determined team of four cute animal friends: Hugo the hamster, Ramón the mouse, Adela the squirrel, and Teo the friendly badger. They are all working together, carrying small twigs, green leaves, and soft moss. They have happy, focused expressions. The scene is a sunny part of the forest. The art style is a detailed and whimsical children's book illustration, highlighting teamwork. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "The four friends returned to the puddle with sticks and leaves. But when they arrived, the twin was gone! The puddle was dark. Hugo was very sad. \"Where did he go?\" he asked.",
+      "text": "Los cuatro amigos regresaron al charco con palos y hojas. Pero cuando llegaron, ¡el gemelo no estaba! El charco estaba oscuro. Hugo estaba muy triste. \"¿A dónde se fue?\", preguntó."
+    },
+    {
+      "type": "paragraph",
+      "translation": "They waited until night. The moon came out, and the twin reappeared in the water! But when Hugo spoke, the twin only moved its mouth without a sound. As the friends watched, confused, a gentle light began to glow around them. It was a swarm of fireflies.",
+      "text": "Esperaron hasta la noche. Salió la luna, ¡y el gemelo reapareció en el agua! Pero cuando Hugo hablaba, el gemelo solo movía la boca sin hacer sonido. Mientras los amigos miraban, confundidos, una luz suave comenzó a brillar a su alrededor. Era un enjambre de luciérnagas."
+    },
+    {
+      "type": "paragraph",
+      "translation": "A wise firefly named Lucia flew forward. \"We are the Night Cinema,\" she buzzed softly. \"That is not your twin, little hamster. It is your reflection.\" To show him, the fireflies danced over the water, creating moving pictures of light and shadow. They showed Hugo how the water mirrored everything above it, just like a movie screen.",
+      "text": "Una luciérnaga sabia llamada Lucía voló hacia adelante. \"Somos el Cine de la Noche\", zumbó suavemente. \"Ese no es tu gemelo, pequeño hámster. Es tu reflejo\". Para demostrarlo, las luciérnagas bailaron sobre el agua, creando imágenes en movimiento de luz y sombra. Le mostraron a Hugo cómo el agua reflejaba todo lo que estaba encima, como una pantalla de cine."
+    },
+    {
+      "type": "image",
+      "id": "5",
+      "alt": "Las luciérnagas le muestran a Hugo y sus amigos lo que es un reflejo.",
+      "prompt": "A magical nighttime scene. Hugo the hamster and his friends (a mouse, a squirrel, and a badger) sit by a puddle, looking up in awe. A beautiful swarm of glowing yellow fireflies hovers over the water, creating shimmering light patterns. The hamster's faint reflection is visible in the moonlit water. The art style is dreamlike and magical, with deep blues and purples contrasted by the fireflies' warm glow. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Hugo finally understood. He wasn't sad. He didn't have a twin, but he had made three new, real friends. That was much better. They all laughed and decided to share the seeds Hugo had in his residence instead.",
+      "text": "Hugo finalmente entendió. No estaba triste. No tenía un gemelo, pero había hecho tres nuevos amigos de verdad. Eso era mucho mejor. Todos se rieron y decidieron compartir las semillas que Hugo tenía en su residencia."
+    }
+  ],
+  "moral": {
+    "translation": "True friendship is better than the company we only imagine.",
+    "text": "La amistad verdadera es mejor que la compañía que solo imaginamos."
+  }
+}

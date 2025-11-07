@@ -1,0 +1,111 @@
+{
+  "title": "Roco el Mapache y el Ladrón del Sur",
+  "seed_words": [
+    "mask",
+    "subject",
+    "south",
+    "flame",
+    "romance"
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "translation": "Roco the raccoon lives in a green forest. He is a happy raccoon. What he loves most in the world is his face, especially the black fur around his eyes. 'It's my superhero mask,' he always says.",
+      "text": "Roco el mapache vive en un bosque verde. Es un mapache feliz. Lo que más ama en el mundo es su cara, especialmente el pelo negro alrededor de sus ojos. «Es mi máscara de superhéroe», dice siempre."
+    },
+    {
+      "type": "image",
+      "id": "1",
+      "alt": "Roco el mapache mirándose en el reflejo de una hoja brillante.",
+      "prompt": "A charming children's book illustration of a cute raccoon named Roco, with a prominent black 'mask' around his eyes. He is looking at his reflection in a shiny, dew-covered leaf with a proud and happy expression. The forest background is lush and green with soft, dappled sunlight. The art style is whimsical, warm, and friendly, with soft textures."
+    },
+    {
+      "type": "paragraph",
+      "translation": "One sunny afternoon, Roco goes to the big lake to drink some water. The water is very still and clear, like a mirror. He leans over and sees a face looking at him from the water. It has big eyes and a black 'mask'.",
+      "text": "Una tarde de sol, Roco va al gran lago para beber agua. El agua está muy quieta y clara, como un espejo. Se inclina y ve una cara que lo mira desde el agua. Tiene ojos grandes y una 'máscara' negra."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Roco jumps back, very scared. 'Oh, no!' he cries. 'There's a thief in the water! And he has my face!' He doesn't understand that he is seeing his own reflection, the 'subject' in the water. He thinks it's a mysterious creature from the faraway South.",
+      "text": "Roco salta hacia atrás, muy asustado. «¡Oh, no!», grita. «¡Hay un ladrón en el agua! ¡Y tiene mi cara!». Él no entiende que está viendo su propio reflejo, el 'sujeto' en el agua. Piensa que es una criatura misteriosa del lejano Sur."
+    },
+    {
+      "type": "image",
+      "id": "2",
+      "alt": "Roco el mapache mira su reflejo en el lago con cara de susto.",
+      "prompt": "Children's book illustration in a whimsical, colorful style. Roco the raccoon is peering over the edge of a calm lake. His eyes are wide with shock and his mouth is open in a comical gasp of fear. In the clear water, his own reflection stares back at him. The afternoon light makes the water sparkle. The focus is on Roco's exaggerated, frightened expression."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Roco is angry and scared. 'That thief from the South is very mean! I must get my face back!' he decides. He remembers old stories that say monsters are afraid of bright light and fire. 'I need a great flame to scare him!' he thinks. He looks to the west, where the sun is beginning to set. 'The flame of the setting sun is perfect!'",
+      "text": "Roco está enojado y asustado. «¡Ese ladrón del Sur es muy malo! ¡Debo recuperar mi cara!», decide. Recuerda viejas historias que dicen que los monstruos tienen miedo de la luz brillante y el fuego. «¡Necesito una gran llama para asustarlo!», piensa. Mira hacia el oeste, donde el sol empieza a bajar. «¡La llama del sol poniente es perfecta!»."
+    },
+    {
+      "type": "paragraph",
+      "translation": "He runs into the forest and finds his best friend, Sara the Squirrel, who is collecting nuts. 'Sara, Sara! Help me!' shouts Roco. Sara stops and looks at him. 'What's wrong, Roco? Why are you running?' Roco explains with big, panicked eyes: 'A monster from the South is in the lake and stole my mask! We have to find the great flame of the sun to scare him away!'",
+      "text": "Corre por el bosque y encuentra a su mejor amiga, Sara la Ardilla, que está recogiendo nueces. «¡Sara, Sara! ¡Ayúdame!», grita Roco. Sara se detiene y lo mira. «¿Qué pasa, Roco? ¿Por qué corres?». Roco explica con ojos grandes y llenos de pánico: «¡Un monstruo del Sur está en el lago y robó mi máscara! ¡Tenemos que buscar la gran llama del sol para espantarlo!»."
+    },
+    {
+      "type": "image",
+      "id": "3",
+      "alt": "Roco le explica frenéticamente su problema a Sara la ardilla.",
+      "prompt": "A dynamic children's book illustration with a cute and expressive art style. Roco the raccoon is waving his paws frantically while talking to a small, fluffy squirrel (Sara) who is sitting on a tree branch holding a nut. Sara looks bewildered and concerned, tilting her head. The forest is lively with color. The characters' expressions are the main focus."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Sara is a very good friend. She doesn't completely understand, but she sees that Roco is very worried. 'Don't worry, Roco,' she says. 'I will help you find that flame.' And so, the two friends run together toward the setting sun.",
+      "text": "Sara es una muy buena amiga. No entiende completamente, pero ve que Roco está muy preocupado. «No te preocupes, Roco», dice ella. «Te ayudaré a encontrar esa llama». Y así, los dos amigos corren juntos hacia el sol poniente."
+    },
+    {
+      "type": "paragraph",
+      "translation": "A little later, they see Pedro the Bird resting on a branch. Pedro sees them running. 'Where are you going in such a hurry?' he sings. Roco doesn't stop. He shouts his urgent message again: 'Pedro, come with us! A monster from the South stole my face! We need the great flame of the sun to scare him away!'",
+      "text": "Un poco después, ven a Pedro el Pájaro descansando en una rama. Pedro los ve corriendo. «¿A dónde van con tanta prisa?», canta. Roco no se detiene. Grita de nuevo su mensaje urgente: «¡Pedro, ven con nosotros! ¡Un monstruo del Sur robó mi cara! ¡Necesitamos la gran llama del sol para asustarlo!»."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Pedro is an adventurous bird. A monster? A great flame? It sounds exciting! 'I'm going too!' he chirps, and flies down to join them. Now, Roco the raccoon, Sara the squirrel, and Pedro the bird travel together on their important mission.",
+      "text": "Pedro es un pájaro aventurero. ¿Un monstruo? ¿Una gran llama? ¡Suena emocionante! «¡Yo también voy!», gorjea, y baja volando para unirse a ellos. Ahora, Roco el mapache, Sara la ardilla y Pedro el pájaro viajan juntos en su importante misión."
+    },
+    {
+      "type": "image",
+      "id": "4",
+      "alt": "Roco, Sara y Pedro corriendo juntos por el bosque al atardecer.",
+      "prompt": "A wide-angle children's book illustration in a whimsical, painterly style. A raccoon (Roco), a squirrel (Sara), and a small blue bird (Pedro) are running and flying together along a forest path. The sun is setting beautifully in the background, casting long shadows and filling the sky with a brilliant orange and purple glow (the 'flame'). The mood is urgent but also adventurous."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Finally, they arrive at the shore of the big lake. The sky is a beautiful spectacle of red, orange, and gold. It is a giant, silent 'flame' over the world. Roco looks carefully into the water. 'Look! The thief is still there!' he whispers, pointing a trembling paw. The face with the mask is still there.",
+      "text": "Finalmente, llegan a la orilla del gran lago. El cielo es un hermoso espectáculo de rojo, naranja y dorado. Es una 'llama' gigante y silenciosa sobre el mundo. Roco mira con cuidado dentro del agua. «¡Miren! ¡El ladrón todavía está ahí!», susurra, apuntando con una pata temblorosa. La cara con la máscara sigue allí."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Just then, two beautiful white swans swim near the shore. They move gracefully, side by side, their necks almost forming a heart. They are the swans in love, known in the forest for their calm and wise nature. Their presence is full of peace and romance.",
+      "text": "Justo en ese momento, dos hermosos cisnes blancos nadan cerca de la orilla. Se mueven con gracia, uno al lado del otro, sus cuellos casi formando un corazón. Son los cisnes enamorados, conocidos en el bosque por su naturaleza tranquila y sabia. Su presencia está llena de paz y romance."
+    },
+    {
+      "type": "image",
+      "id": "5",
+      "alt": "Dos cisnes enamorados en el lago al atardecer, con Roco y sus amigos en la orilla.",
+      "prompt": "A serene and beautiful children's book illustration. Two elegant white swans swim gracefully together on a calm lake, their necks curving towards each other to almost form a heart shape. On the shore, a raccoon, a squirrel, and a bird watch them. The raccoon points a shaky paw at the water. The sunset ('flame') creates a magical, romantic atmosphere with vibrant orange, pink, and gold colors reflected beautifully in the water. The lighting is soft and glowing. The art style is dreamy and painterly."
+    },
+    {
+      "type": "paragraph",
+      "translation": "One of the swans turns its elegant head toward the little group. Her voice is soft like the water. 'Hello, little friends. Why is there so much panic on such a lovely evening?' Roco, still trembling, points at the water. 'That monster from the South has my face!'",
+      "text": "Uno de los cisnes gira su elegante cabeza hacia el pequeño grupo. Su voz es suave como el agua. «Hola, pequeños amigos. ¿Por qué hay tanto pánico en una tarde tan bonita?». Roco, todavía temblando, apunta al agua. «¡Ese monstruo del Sur tiene mi cara!»."
+    },
+    {
+      "type": "paragraph",
+      "translation": "The swan smiled gently. He swam closer and spoke. 'What you see is not a monster, brave raccoon. It is your reflection. It is your own face, the 'subject' that the water shows. The lake is a giant mirror.'",
+      "text": "El cisne sonrió amablemente. Nadó más cerca y habló. «Eso que ves no es un monstruo, valiente mapache. Es tu reflejo. Es tu propia cara, el 'sujeto' que el agua muestra. El lago es un espejo gigante»."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Roco looks at the swan, then at the water. He slowly lifts his paw to his mask. The face in the water does the same. He waves, and the reflection waves back. Suddenly, he understands. He isn't in danger. He feels a little silly, but also very happy. His friends, Sara and Pedro, start to laugh, and soon Roco laughs too. His mask was safe all along.",
+      "text": "Roco mira al cisne, luego al agua. Lentamente levanta su pata hacia su máscara. La cara en el agua hace lo mismo. Él saluda con la pata, y el reflejo le devuelve el saludo. De repente, lo entiende. No está en peligro. Se siente un poco tonto, pero también muy feliz. Sus amigos, Sara y Pedro, empiezan a reír, y pronto Roco ríe también. Su máscara estuvo a salvo todo el tiempo."
+    }
+  ],
+  "moral": {
+    "translation": "Sometimes, our biggest fears are just a misunderstanding of who we are.",
+    "text": "A veces, nuestros mayores miedos son solo un malentendido de quiénes somos."
+  }
+}

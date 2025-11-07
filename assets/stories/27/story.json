@@ -1,0 +1,86 @@
+{
+  "title": "Pola la Polilla y la Sombra Gigante",
+  "seed_words": [
+    "temple",
+    "shadow",
+    "greek",
+    "liquid",
+    "surveillance"
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "translation": "In a very old ruin, which looked like a small stone temple, lived a little moth named Pola. Every night, Pola danced near the only light: a small, forgotten candle.",
+      "text": "En una ruina muy vieja, que parecía un pequeño templo de piedra, vivía una polilla llamada Pola. Todas las noches, Pola bailaba cerca de la única luz: una pequeña vela olvidada."
+    },
+    {
+      "type": "image",
+      "id": "1",
+      "alt": "Una polilla pequeña y linda volando felizmente alrededor de la llama de una vela en una habitación de piedra oscura.",
+      "prompt": "Children's storybook illustration of a cute, fluffy moth with big eyes (Pola) flying joyfully around the gentle flame of a single candle. The background is a dark, ancient room made of stone, suggesting a forgotten temple. The style is soft, warm, and whimsical. Digital painting, warm lighting, no text."
+    },
+    {
+      "type": "paragraph",
+      "translation": "One night, while dancing, Pola saw something enormous on the wall. It was a dark, moving figure. A giant! Her own shadow was huge and scary in the candlelight.",
+      "text": "Una noche, mientras bailaba, Pola vio algo enorme en la pared. Era una figura oscura que se movía. ¡Un gigante! Su propia sombra era gigante y aterradora con la luz de la vela."
+    },
+    {
+      "type": "paragraph",
+      "translation": "“Oh no! It's a Greek Giant!” she thought, remembering old stories. “It wants to trap me in this temple! I must defeat it. I need a magic liquid, the first dew of the morning!”",
+      "text": "“¡Oh, no! ¡Es un Gigante Griego!”, pensó ella, recordando viejas historias. “¡Quiere atraparme en este templo! Necesito derrotarlo. ¡Necesito un líquido mágico, el primer rocío de la mañana!”"
+    },
+    {
+      "type": "image",
+      "id": "2",
+      "alt": "La pequeña polilla Pola mirando con terror una sombra gigante y amenazante en la pared de piedra.",
+      "prompt": "A digital painting in a children's book style. The small, cute moth Pola is on the floor, looking up in absolute terror at her own shadow. The shadow is cast upon a stone wall by a candle, making it look like a huge, monstrous giant with long, wavy limbs. The mood is scary but slightly humorous. Soft, focused lighting from the candle. No text."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Pola flew out of the temple and found a cricket singing on a leaf. “Goyo the Cricket, help me!” she cried. “A Greek Giant is in the temple. We must fight it with a magic liquid!” Goyo, who was very brave, agreed to help.",
+      "text": "Pola voló fuera del templo y encontró a un grillo cantando en una hoja. “¡Goyo el Grillo, ayúdame!”, gritó. “Un Gigante Griego está en el templo. ¡Debemos luchar con un líquido mágico!”. Goyo, que era muy valiente, aceptó ayudar."
+    },
+    {
+      "type": "image",
+      "id": "3",
+      "alt": "La polilla Pola hablando urgentemente con un grillo amigable que está sentado en una hoja verde grande.",
+      "prompt": "Children's book illustration of Pola the moth talking urgently to a friendly-looking cricket (Goyo) who is sitting on a large, green leaf under the moonlight. Pola looks pleading, and Goyo looks surprised but brave. The background is a dark night garden. Whimsical and charming style. No text."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Then, they saw a small, shining light. It was Luz the Firefly. “Luz, we need your help!” said Pola. “A terrible giant is in my house. We are going to defeat it with morning dew!” Luz, who loved adventures, joined them immediately.",
+      "text": "Luego, vieron una pequeña luz que brillaba. Era Luz la Luciérnaga. “¡Luz, necesitamos tu ayuda!”, dijo Pola. “Un gigante terrible está en mi casa. ¡Vamos a derrotarlo con rocío de la mañana!”. Luz, que amaba las aventuras, se unió a ellos inmediatamente."
+    },
+    {
+      "type": "image",
+      "id": "4",
+      "alt": "La polilla, el grillo y la luciérnaga volando juntos por el cielo nocturno en una misión.",
+      "prompt": "A dynamic children's book illustration showing the brave team: Pola the moth, Goyo the cricket (riding on Pola's back), and Luz the firefly lighting their way. They are flying determinedly through the starry night sky. Their faces show courage and friendship. The style is colorful and full of motion. Digital painting. No text."
+    },
+    {
+      "type": "paragraph",
+      "translation": "As they returned to the temple, a deep voice stopped them. “Where are you going in such a hurry?” It was Búho Bastián, the old owl who sat on a branch, conducting his nightly surveillance. He saw everything.",
+      "text": "Cuando regresaban al templo, una voz profunda los detuvo. “¿A dónde van con tanta prisa?”. Era Búho Bastián, el viejo búho que estaba en una rama, haciendo su vigilancia nocturna. Él lo veía todo."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Pola explained everything about the scary Greek Giant. The owl smiled wisely. “There is no giant, little Pola,” he said gently. “That is only your shadow.” Bastián told Pola to stand still and asked Luz the Firefly to shine her light on Pola. A new, tiny shadow appeared on the ground. Pola moved, and the tiny shadow moved too.",
+      "text": "Pola le explicó todo sobre el espantoso Gigante Griego. El búho sonrió con sabiduría. “No hay ningún gigante, pequeña Pola”, dijo con calma. “Esa es solo tu sombra”. Bastián le dijo a Pola que se quedara quieta y le pidió a Luz la Luciérnaga que la iluminara. Una nueva y pequeña sombra apareció en el suelo. Pola se movió, y la pequeña sombra también se movió."
+    },
+    {
+      "type": "image",
+      "id": "5",
+      "alt": "Un búho sabio en una rama mostrando a la polilla su pequeña sombra creada por la luz de una luciérnaga.",
+      "prompt": "A heartwarming children's storybook scene. A large, wise, and friendly owl (Búho Bastián) with spectacles sits on a tree branch. He is pointing a wing down towards Pola the moth, who is looking in amazement at her own tiny shadow on the ground. The shadow is being cast by Luz the firefly, who is glowing brightly nearby. Pola's expression is one of relief and wonder. The background is the entrance to the stone temple at dawn. Soft, magical lighting. No text."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Pola gasped in amazement. She wasn't scared anymore. She understood that the giant was just a big shadow from a small moth. She thanked the wise owl, and the three friends played with their shadows until the sun came up.",
+      "text": "Pola se quedó asombrada. Ya no tenía miedo. Comprendió que el gigante era solo una gran sombra de una pequeña polilla. Dio las gracias al búho sabio, y los tres amigos jugaron con sus sombras hasta que salió el sol."
+    }
+  ],
+  "moral": {
+    "translation": "Moral: Often, our biggest fear is just a shadow of something we don't understand.",
+    "text": "Moraleja: Muchas veces, nuestro mayor miedo es solo la sombra de algo que no comprendemos."
+  }
+}

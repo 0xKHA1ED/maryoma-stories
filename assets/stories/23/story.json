@@ -1,0 +1,91 @@
+{
+  "title": "La Abeja Adela y el Saco de Datos",
+  "seed_words": [
+    "final",
+    "data",
+    "sake",
+    "media",
+    "procedure"
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "translation": "In a sunny meadow, lived a bee named Adela. Adela was a very busy bee. Every day, she searched for the <em>final</em>, perfect flower, the one with the sweetest nectar. She was always on a mission!",
+      "text": "En un prado soleado, vivía una abeja llamada Adela. Adela era una abeja muy ocupada. Cada día, buscaba la flor <em>final</em> y perfecta, la que tenía el néctar más dulce. ¡Siempre estaba en una misión!"
+    },
+    {
+      "type": "image",
+      "id": "1",
+      "alt": "La Abeja Adela volando felizmente sobre un campo de flores.",
+      "prompt": "A whimsical children's book illustration of a cute, fuzzy bumblebee character named Adela. She has big, curious eyes and a happy smile. She is flying joyfully over a vibrant field of colorful wildflowers under a bright blue sky. The art style is soft, friendly, and painterly, with warm lighting. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "One morning, between two branches, Adela saw something incredible. It was a net of silver threads, covered in dewdrops that sparkled like diamonds. It looked like a map full of <em>data</em> points. 'Oh!', buzzed Adela. 'It's a magical sack! A data sack for the <em>sake</em> of all the bees! It holds the secret to all the flowers.'",
+      "text": "Una mañana, entre dos ramas, Adela vio algo increíble. Era una red de hilos de plata, cubierta de gotas de rocío que brillaban como diamantes. Parecía un mapa lleno de puntos de <em>datos</em>. '¡Oh!', zumbó Adela. '¡Es un saco mágico! ¡Un saco de datos para el <em>bien</em> (sake) de todas las abejas! Guarda el secreto de todas las flores.'"
+    },
+    {
+      "type": "image",
+      "id": "2",
+      "alt": "Una telaraña brillante con gotas de rocío que parece una red mágica.",
+      "prompt": "A magical, close-up view of a spider's web stretched between two green stems. Tiny, perfect dewdrops cover the web, sparkling and refracting the morning sunlight like countless tiny jewels. The background is a soft, blurry green. The style is enchanting and detailed, like a high-quality children's book illustration. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Adela felt a great thrill. She had to share this news! She would be the meadow's <em>media</em>! 'Everyone must know!', she decided. And she flew off at top speed to find her friends.",
+      "text": "Adela sintió una gran emoción. ¡Tenía que compartir esta noticia! ¡Ella sería la <em>media</em> de comunicación del prado! '¡Todos deben saberlo!', decidió. Y salió volando a toda velocidad para encontrar a sus amigos."
+    },
+    {
+      "type": "paragraph",
+      "translation": "First, she found Mariquita Manuela resting on a leaf. 'Manuela, Manuela!', shouted Adela. 'I have found a magical data sack! It will tell us where the best nectar is!'. Manuela's eyes widened in surprise. 'A magical sack! How wonderful! I'm coming with you!', she said.",
+      "text": "Primero, encontró a Mariquita Manuela descansando en una hoja. '¡Manuela, Manuela!', gritó Adela. '¡He encontrado un saco de datos mágico! ¡Nos dirá dónde está el mejor néctar!'. Manuela abrió sus ojos con sorpresa. '¡Un saco mágico! ¡Qué maravilla! ¡Voy contigo!', dijo."
+    },
+    {
+      "type": "image",
+      "id": "3",
+      "alt": "La Abeja Adela hablando con entusiasmo a la Mariquita Manuela.",
+      "prompt": "A cute, expressive cartoon bee (Adela) buzzing excitedly in front of a friendly cartoon ladybug (Manuela) who is sitting on a large, green leaf. The ladybug looks surprised and intrigued. The style is simple, bright, and cheerful, perfect for a young audience, with bold outlines and vibrant colors. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Together, they flew and found Mariposa Mía, who was fluttering near some daisies. 'Mía, Mía!', they both called. 'Adela found a magical data sack!'. Mariposa Mía flapped her wings with joy. 'A data sack! We have to see it! I'm going too!'",
+      "text": "Juntas, volaron y encontraron a la Mariposa Mía, que revoloteaba cerca de unas margaritas. '¡Mía, Mía!', llamaron las dos. '¡Adela encontró un saco de datos mágico!'. La Mariposa Mía batió sus alas con alegría. '¡Un saco de datos! ¡Tenemos que verlo! ¡Yo también voy!'"
+    },
+    {
+      "type": "paragraph",
+      "translation": "The cheerful group saw Saltamontes Salvi practicing his jumps. 'Salvi, Salvi!', they all shouted. 'Come with us! We are going to see a magical data sack that holds all the secrets!'. Salvi took a great leap of excitement. 'Fantastic! Lead the way!', he exclaimed.",
+      "text": "El grupo alegre vio a Saltamontes Salvi practicando sus saltos. '¡Salvi, Salvi!', gritaron todos. '¡Ven con nosotros! ¡Vamos a ver un saco de datos mágico que guarda todos los secretos!'. Salvi dio un gran salto de emoción. '¡Fantástico! ¡Guíen el camino!', exclamó."
+    },
+    {
+      "type": "image",
+      "id": "4",
+      "alt": "Adela, Manuela, Mía y Salvi viajando juntos por el prado.",
+      "prompt": "A dynamic and joyful children's book illustration showing a group of insect friends traveling together. Adela the bee and Mía the butterfly are flying, while Manuela the ladybug rides on the back of Salvi the jumping grasshopper. They are all moving across a lush green meadow, looking happy and determined. The art style is full of life and color. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "The team of friends arrived at the spot. 'There it is!', said Adela, pointing to the shiny net. But next to the net, there was someone else. It was Caracol Carlos, moving very, very slowly. 'Carlos, look! A magical sack!', said Adela.",
+      "text": "El equipo de amigos llegó al lugar. '¡Ahí está!', dijo Adela, señalando la red brillante. Pero junto a la red, había alguien más. Era Caracol Carlos, moviéndose muy, muy despacio. '¡Carlos, mira! ¡Un saco mágico!', dijo Adela."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Caracol Carlos looked at the net with his long eyes. 'Hmm,' he said calmly. 'That is not a magical sack. I know the <em>procedure</em>. That is a spider's web. Araña Ana builds it every morning to catch her breakfast.' Carlos pointed with an antenna to a small spider resting in the center.",
+      "text": "Caracol Carlos miró la red con sus largos ojos. 'Hmm', dijo con calma. 'Eso no es un saco mágico. Conozco el <em>procedimiento</em>. Eso es una telaraña. La Araña Ana la construye cada mañana para atrapar su desayuno'. Carlos señaló con una antena a una pequeña araña que descansaba en el centro."
+    },
+    {
+      "type": "image",
+      "id": "5",
+      "alt": "Caracol Carlos explicando la verdad sobre la telaraña a los otros insectos.",
+      "prompt": "A wise, friendly snail character (Carlos) with glasses on his eyestalks is calmly pointing one antenna towards a simple, non-scary spider sitting in her beautiful web. The group of friends—the bee, ladybug, butterfly, and grasshopper—all have expressions of shock and surprise on their faces. The scene is set on a gentle, sun-dappled forest floor. The style is a warm, narrative storybook illustration. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Adela, Manuela, Mía, and Salvi looked at each other. They felt a little silly. It wasn't a magical data sack, but a spider's home and trap. 'Oh,' said Adela softly. 'Thank you, Carlos. We learned something important today.'",
+      "text": "Adela, Manuela, Mía y Salvi se miraron. Se sintieron un poco tontos. No era un saco de datos mágico, sino la casa y la trampa de una araña. 'Oh', dijo Adela en voz baja. 'Gracias, Carlos. Aprendimos algo importante hoy'."
+    }
+  ],
+  "moral": {
+    "translation": "Moral: It's better to observe carefully and understand the facts before running to tell a big story.",
+    "text": "Moraleja: Es mejor observar con atención y entender los hechos antes de correr a contar una gran historia."
+  }
+}

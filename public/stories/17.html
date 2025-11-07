@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Rana Rita y el Pensador Flotante</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+        .story-title { font-family: 'Lora', serif; }
+        .story-content { font-family: 'Lora', serif; }
+
+        /* Custom styles for the range input (seek bar) */
+        .seek-slider {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 100%;
+            height: 5px;
+            background: #d1fae5;
+            outline: none;
+            opacity: 0.8;
+            transition: opacity .2s;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .seek-slider:hover {
+            opacity: 1;
+        }
+
+        .seek-slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 15px;
+            height: 15px;
+            background: #10b981;
+            border-radius: 50%;
+        }
+
+        .seek-slider::-moz-range-thumb {
+            width: 15px;
+            height: 15px;
+            background: #10b981;
+            border: none;
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body class="bg-emerald-50 text-gray-800 pb-24">
+
+    <div class="container mx-auto px-4 py-8 md:py-16">
+        <main class="max-w-3xl mx-auto bg-white rounded-2xl shadow-lg overflow-hidden">
+            <div class="p-8 md:p-12">
+
+                <!-- Header with Title and Icon -->
+                <header class="text-center mb-8">
+                    <img src="../../assets/icon.png" alt="Story Image" class="w-24 h-24 rounded-full object-cover mx-auto mb-4 shadow-md border-4 border-white">
+                    <h1 class="story-title text-3xl md:text-4xl font-bold text-emerald-800">La Rana Rita y el Pensador Flotante</h1>
+                </header>
+
+                <!-- Story Content -->
+                <div class="story-content text-lg leading-relaxed text-gray-700 space-y-4">
+                    
+                <div class="translatable-block">
+                    <p data-translation="In a shiny pond, lives a frog named Rita. Rita loves to jump. She jumps, jumps, jumps all day! One day, Rita sees something new on the water. It is a lonely leaf. The leaf moves slowly, as if it were sailing on a secret journey.">En un estanque brillante, vive una rana llamada Rita. A Rita le encanta <em>saltar</em>. ¡Salta, salta, salta todo el día! Un día, Rita ve algo nuevo en el agua. Es una hoja solitaria. La hoja se mueve lentamente, como si <em>navegara</em> en un viaje secreto.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/17/images/1.png" alt="La Rana Rita mirando una hoja flotando en el estanque." class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="&quot;How strange!&quot; thinks Rita. &quot;That leaf is not a normal leaf. It moves with purpose. It must be a great philosopher, a silent thinker!&quot; Rita decides she has a very important question for the thinker, based on her simple philosophy.">“¡Qué extraño!”, piensa Rita. “Esa hoja no es una hoja normal. Se mueve con un propósito. ¡Debe ser un gran <em>filósofo</em>, un pensador silencioso!”. Rita decide que tiene una pregunta muy importante para el pensador, basada en su simple <em>filosofía</em>.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="But the thinker is very far away. &quot;I need to go to the big cliff so it can see me,&quot; says Rita. And so, Rita begins her mission. Soon, she finds her friend, Guillermo the Cricket.">Pero el pensador está muy lejos. “Necesito ir al gran <em>acantilado</em> para que me vea”, dice Rita. Y así, Rita comienza su misión. Pronto, encuentra a su amigo, el Grillo Guillermo.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/17/images/2.png" alt="La Rana Rita hablando con el Grillo Guillermo en un prado." class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="&quot;Hello, Guillermo!&quot; says Rita. &quot;Where are you going in such a hurry?&quot; asks Guillermo. &quot;I'm going to the big cliff to talk to the Floating Thinker!&quot; explains Rita. &quot;It's a very wise philosopher sailing on the pond.&quot; Guillermo is very excited. &quot;A philosopher! How interesting! I'm coming with you!&quot;">“¡Hola, Guillermo!”, dice Rita.<br>“¿A dónde vas con tanta prisa?”, pregunta Guillermo.<br>“¡Voy al gran <em>acantilado</em> para hablar con el Pensador Flotante!”, explica Rita. “Es un <em>filósofo</em> muy sabio que <em>navega</em> en el estanque”.<br>Guillermo está muy emocionado. “¡Un filósofo! ¡Qué interesante! ¡Voy contigo!”.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="Rita and Guillermo walk together. Then, they see Laura the Worm moving on the ground. &quot;Hello, Laura!&quot; they say. Laura asks, &quot;Why are you so excited?&quot;. Rita answers, &quot;We are going to see the great Floating Thinker from the cliff! Do you want to come?&quot;. Laura thinks it's a great adventure. &quot;Of course! Let's go!&quot;">Rita y Guillermo caminan juntos. Luego, ven a la Lombriz Laura moviéndose en la tierra. “¡Hola, Laura!”, dicen. Laura pregunta: “¿Por qué están tan emocionados?”. Rita responde: “¡Vamos a ver al gran Pensador Flotante desde el <em>acantilado</em>! ¿Quieres venir?”. Laura piensa que es una gran aventura. “¡Claro que sí! ¡Vamos!”.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/17/images/3.png" alt="Rita, Guillermo y Laura la lombriz viajando juntos por el campo." class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="The group of three friends continues their journey. Near the pond, they find Pablo the Duck. &quot;Pablo, Pablo! Come with us!&quot; shouts Rita. &quot;Where is everyone going?&quot; asks Pablo. &quot;On a very important mission! We're going to the cliff to consult a wise philosopher!&quot; says Guillermo. Pablo, who loves important things, decides to join them. &quot;Wait! I'm going too!&quot;">El grupo de tres amigos continúa su viaje. Cerca del estanque, encuentran al Pato Pablo. “¡Pablo, Pablo! ¡Ven con nosotros!”, grita Rita. “¿A dónde van todos?”, pregunta Pablo. “¡A una misión muy importante! ¡Vamos al <em>acantilado</em> para consultar a un sabio <em>filósofo</em>!”, dice Guillermo. Pablo, que ama las cosas importantes, decide unirse a ellos. “¡Esperen! ¡Yo también voy!”.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="Finally, the four friends arrive at the cliff. It's a small, grassy cliff that looks out over the pond. Down below, on the water, they see the lonely leaf. It continues to sail in silence. &quot;There it is,&quot; whispers Rita. &quot;The great Floating Thinker.&quot;">Finalmente, los cuatro amigos llegan al <em>acantilado</em>. Es un pequeño acantilado cubierto de hierba que mira hacia el estanque. Abajo, en el agua, ven la hoja solitaria. Sigue navegando en silencio. “Ahí está”, susurra Rita. “El gran Pensador Flotante”.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/17/images/4.png" alt="Los cuatro amigos en el acantilado mirando el estanque." class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="They wait. And they wait. And they wait a little more. But the thinker says nothing. It does nothing. It just floats. &quot;Maybe... it's not a philosopher,&quot; says Pablo the Duck, a little disappointed.">Esperan. Y esperan. Y esperan un poco más. Pero el pensador no dice nada. No hace nada. Solo flota. “Quizás... no es un <em>filósofo</em>”, dice Pablo el Pato, un poco decepcionado.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        
+                <div class="translatable-block">
+                    <p data-translation="Suddenly, a small head appears in the water right next to the leaf. It is Beto the Sea Bream, a kind and curious fish. Beto comes closer to the surface and gives a little kiss to the water, smack! The ripples from the kiss push the leaf. It moves from side to side.">De repente, una pequeña cabeza aparece en el agua justo al lado de la hoja. Es Beto el Besugo, un pez amable y curioso. Beto se acerca a la superficie y le da un pequeño <em>beso</em> al agua, ¡muac! Las ondas del <em>beso</em> empujan la hoja. Se mueve de un lado a otro.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                        <img src="../../assets/stories/17/images/5.png" alt="Beto el Besugo da un beso al agua y crea ondas cerca de la hoja." class="w-full md:w-2/3 mx-auto aspect-video object-cover rounded-lg shadow-md my-6 md:my-8">
+                        
+                <div class="translatable-block">
+                    <p data-translation="Beto laughs and tells them: &quot;Hello, friends! Are you watching this leaf? It's not a philosopher! It's just a leaf that the wind pushes. The water takes it on a journey.&quot; Rita, Guillermo, Laura, and Pablo look at each other. Then, they all start to laugh. How silly they had been! They learned that sometimes, imagination is fun, but reality is much simpler.">Beto se ríe y les dice: “¡Hola, amigos! ¿Están mirando esta hoja? ¡No es un <em>filósofo</em>! Es solo una hoja que el viento empuja. El agua la lleva de viaje”.<br>Rita, Guillermo, Laura y Pablo se miran. Luego, todos empiezan a reír. ¡Qué tontos han sido! Aprendieron que a veces, la imaginación es divertida, pero la realidad es mucho más simple.</p>
+                    <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                    <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                </div>
+                </div>
+
+                <!-- Moral of the Story -->
+                <footer class="mt-10 pt-6 border-t-2 border-emerald-100 text-center">
+                    
+                        <div class="translatable-block">
+                            <p class="story-title text-xl italic text-emerald-700 font-semibold" data-translation="Sometimes, the most mysterious things have the simplest explanation.">A veces, las cosas más misteriosas tienen la explicación más simple.</p>
+                            <button class="translate-btn mt-2 px-3 py-1 bg-emerald-500 text-white text-sm rounded-md hover:bg-emerald-600 transition-colors focus-outline-none focus:ring-2 focus:ring-emerald-400">Traducir</button>
+                            <p class="translation-text hidden mt-2 text-sky-700 italic bg-sky-50 p-3 rounded-md"></p>
+                        </div>
+                </footer>
+            </div>
+        </main>
+    </div>
+
+    <!-- Sticky Audio Player -->
+    <div class="fixed bottom-0 left-0 right-0 z-50 bg-white/90 backdrop-blur-sm border-t border-gray-200">
+        <div class="max-w-3xl mx-auto px-4 py-3">
+             <!-- Audio element (hidden from view, controlled by JS) -->
+            <audio id="audio-player" src="../../assets/stories/17/audio/story.mp3" preload="metadata"></audio>
+
+            <!-- Custom Player Controls -->
+            <div class="flex items-center gap-2 md:gap-4">
+                <!-- Play/Pause Button -->
+                <button id="play-pause-btn" class="flex-shrink-0 text-emerald-600 hover:text-emerald-800 transition-colors p-2 rounded-full hover:bg-emerald-100 focus:outline-none">
+                    <svg id="play-icon" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 20 20">
+                      <path d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8.006v3.988a1 1 0 001.555.836l3.492-1.994a1 1 0 000-1.672l-3.492-1.994z" />
+                    </svg>
+                    <svg id="pause-icon" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 hidden" fill="currentColor" viewBox="0 0 20 20">
+                      <path d="M10 18a8 8 0 100-16 8 8 0 000 16zM8 7a1 1 0 00-1 1v4a1 1 0 001 1h1a1 1 0 001-1V8a1 1 0 00-1-1H8zm4 0a1 1 0 00-1 1v4a1 1 0 001 1h1a1 1 0 001-1V8a1 1 0 00-1-1h-1z" />
+                    </svg>
+                </button>
+
+                <!-- Progress Bar and Time -->
+                <div class="flex items-center gap-2 w-full">
+                    <span id="current-time" class="text-xs text-gray-600 font-mono w-10 text-center">0:00</span>
+                    <input type="range" id="seek-slider" class="seek-slider w-full" value="0" step="1">
+                    <span id="duration" class="text-xs text-gray-600 font-mono w-10 text-center">0:00</span>
+                </div>
+                
+                <!-- Speed Controls -->
+                <div class="flex items-center space-x-1 flex-shrink-0">
+                     <button data-speed="0.75" class="speed-btn w-12 px-2 py-1 text-xs rounded-md bg-gray-100 hover:bg-emerald-100 transition-colors">0.75x</button>
+                     <button data-speed="1" class="speed-btn w-12 px-2 py-1 text-xs rounded-md bg-emerald-200 text-emerald-800 font-semibold transition-colors">1x</button>
+                     <button data-speed="1.5" class="speed-btn w-12 px-2 py-1 text-xs rounded-md bg-gray-100 hover:bg-emerald-100 transition-colors">1.5x</button>
+                     <button data-speed="2" class="speed-btn w-12 px-2 py-1 text-xs rounded-md bg-gray-100 hover:bg-emerald-100 transition-colors">2x</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // --- Translation Logic ---
+            const translateButtons = document.querySelectorAll('.translate-btn');
+            translateButtons.forEach(button => {
+                button.addEventListener('click', () => {
+                    const block = button.closest('.translatable-block');
+                    const originalTextElement = block.querySelector('[data-translation]');
+                    const translationTextElement = block.querySelector('.translation-text');
+                    const translation = originalTextElement.getAttribute('data-translation');
+
+                    if (translationTextElement.classList.contains('hidden')) {
+                        translationTextElement.innerHTML = translation;
+                        translationTextElement.classList.remove('hidden');
+                        button.textContent = 'Ocultar';
+                    } else {
+                        translationTextElement.classList.add('hidden');
+                        button.textContent = 'Traducir';
+                    }
+                });
+            });
+
+            // --- Modern Audio Player Logic ---
+            const audioPlayer = document.getElementById('audio-player');
+            const playPauseBtn = document.getElementById('play-pause-btn');
+            const playIcon = document.getElementById('play-icon');
+            const pauseIcon = document.getElementById('pause-icon');
+            const seekSlider = document.getElementById('seek-slider');
+            const currentTimeEl = document.getElementById('current-time');
+            const durationEl = document.getElementById('duration');
+            const speedButtons = document.querySelectorAll('.speed-btn');
+
+            const formatTime = (seconds) => {
+                if (isNaN(seconds)) return '0:00';
+                const minutes = Math.floor(seconds / 60);
+                const secs = Math.floor(seconds % 60);
+                return `${minutes}:${secs.toString().padStart(2, '0')}`;
+            };
+
+            // Update UI when audio metadata is loaded
+            audioPlayer.addEventListener('loadedmetadata', () => {
+                durationEl.textContent = formatTime(audioPlayer.duration);
+                seekSlider.max = audioPlayer.duration;
+            });
+
+            // Play/Pause functionality
+            playPauseBtn.addEventListener('click', () => {
+                if (audioPlayer.paused) {
+                    audioPlayer.play();
+                } else {
+                    audioPlayer.pause();
+                }
+            });
+
+            audioPlayer.addEventListener('play', () => {
+                playIcon.classList.add('hidden');
+                pauseIcon.classList.remove('hidden');
+            });
+
+            audioPlayer.addEventListener('pause', () => {
+                playIcon.classList.remove('hidden');
+                pauseIcon.classList.add('hidden');
+            });
+
+            // Update slider and time as audio plays
+            audioPlayer.addEventListener('timeupdate', () => {
+                seekSlider.value = audioPlayer.currentTime;
+                currentTimeEl.textContent = formatTime(audioPlayer.currentTime);
+            });
+
+            // Seek functionality
+            seekSlider.addEventListener('input', () => {
+                audioPlayer.currentTime = seekSlider.value;
+            });
+
+            // Speed control functionality
+            speedButtons.forEach(button => {
+                button.addEventListener('click', () => {
+                    const speed = parseFloat(button.dataset.speed);
+                    audioPlayer.playbackRate = speed;
+
+                    // Update button active styles
+                    speedButtons.forEach(btn => {
+                        btn.classList.remove('bg-emerald-200', 'text-emerald-800', 'font-semibold');
+                        btn.classList.add('bg-gray-100');
+                    });
+
+                    button.classList.add('bg-emerald-200', 'text-emerald-800', 'font-semibold');
+                    button.classList.remove('bg-gray-100');
+                });
+            });
+        });
+    </script>
+
+</body>
+</html>
+
+
