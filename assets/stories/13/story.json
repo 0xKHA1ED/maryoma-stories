@@ -1,0 +1,91 @@
+{
+  "title": "El Ratón Ramón y el Otro Ratón",
+  "seed_words": [
+    "mansion",
+    "fellow",
+    "breast",
+    "noon",
+    "basement"
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "translation": "Ramón the mouse lives in a very large house. For a little mouse, the house is a huge mansion. Ramón is happy in his mansion, but one day he sees something strange.",
+      "text": "El ratón Ramón vive en una casa muy grande. Para un ratón pequeño, la casa es una enorme mansión. Ramón es feliz en su mansión, pero un día, ve algo extraño."
+    },
+    {
+      "type": "paragraph",
+      "translation": "On a shiny silver plate, he sees another mouse! A fellow mouse is looking at him. When Ramón puffs out his little breast to look brave, the other mouse does the same! Ramón thinks, \"This mouse is a bully!\"",
+      "text": "En un plato de plata brillante, ¡ve a otro ratón! Un compañero ratón lo está mirando. Cuando Ramón infla su pequeño pecho para parecer valiente, ¡el otro ratón hace lo mismo! Ramón piensa: «¡Este ratón es un abusón!»"
+    },
+    {
+      "type": "image",
+      "id": "1",
+      "alt": "Un ratoncito mira su reflejo enojado en un plato de plata brillante.",
+      "prompt": "A cute, cartoon mouse named Ramón standing on a polished wooden dining table in a grand room. He is looking at his own reflection in a large, shiny silver platter. Ramón looks angry and is puffing out his chest, and his reflection perfectly mimics the pose. The style is a warm, classic children's storybook illustration with soft lighting. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Ramón decides he must confront the bully. \"I will fight him today at noon!\" he squeaks. But he is small, so he needs help. First, he finds Giga the ant.",
+      "text": "Ramón decide que debe enfrentarse al abusón. «¡Voy a pelear con él hoy a mediodía!», chilla. Pero es pequeño, así que necesita ayuda. Primero, encuentra a la hormiga Giga."
+    },
+    {
+      "type": "paragraph",
+      "translation": "\"Giga, help me! There's a bully mouse in the dining room,\" says Ramón. But Giga is very busy. \"I'm sorry, Ramón. I must carry this food for my family,\" says the ant, and she walks away.",
+      "text": "«¡Giga, ayúdame! Hay un ratón abusón en el comedor», dice Ramón. Pero Giga está muy ocupada. «Lo siento, Ramón. Debo llevar esta comida para mi familia», dice la hormiga, y se va."
+    },
+    {
+      "type": "image",
+      "id": "2",
+      "alt": "Ramón el ratón pidiendo ayuda a una hormiga muy ocupada que carga una miga grande.",
+      "prompt": "Children's book illustration of Ramón the mouse looking pleadingly at a tiny ant named Giga. Giga is struggling to carry a breadcrumb that is much bigger than her, looking very determined and focused. They are on the floor of a rustic kitchen. The style is charming and colorful, with a focus on the characters' expressions. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Next, Ramón finds Guillermo the cricket. \"Guillermo, help me fight a bully mouse!\" But Guillermo is busy making music. \"I can't, Ramón. I must practice my song for tonight,\" chirps the cricket.",
+      "text": "Luego, Ramón encuentra al grillo Guillermo. «¡Guillermo, ayúdame a pelear con un ratón abusón!» Pero Guillermo está ocupado haciendo música. «No puedo, Ramón. Debo practicar mi canción para esta noche», canta el grillo."
+    },
+    {
+      "type": "image",
+      "id": "3",
+      "alt": "Ramón el ratón hablando con un grillo que está tocando música con sus patas.",
+      "prompt": "A friendly cricket named Guillermo sits on a blade of grass, cheerfully rubbing his legs together to make music. Ramón the mouse stands before him, looking frustrated and trying to explain his problem. The scene is set in a sunny garden patch inside the house. The art style is gentle and whimsical. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Feeling sad, Ramón goes down to the dark basement. He is scared, but he is also determined. In the corner, he sees a big web.",
+      "text": "Sintiéndose triste, Ramón baja al sótano oscuro. Tiene miedo, pero también está decidido. En una esquina, ve una gran telaraña."
+    },
+    {
+      "type": "image",
+      "id": "4",
+      "alt": "Ramón el ratón entrando en un sótano oscuro y polvoriento, mirando una telaraña grande.",
+      "prompt": "Ramón the mouse stands at the top of wooden basement stairs, looking down into a dusty, dim basement. A single beam of light from a high window cuts through the darkness, illuminating a large, intricate spiderweb in the corner. Ramón looks small and a little scared but resolute. The atmosphere is slightly mysterious but not too scary for children. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "In the web is Ana the spider. She is old and very wise. \"Why are you so angry, little mouse?\" she asks in a soft voice. Ramón tells her about the bully in the silver plate.",
+      "text": "En la telaraña está la araña Ana. Es vieja y muy sabia. «¿Por qué estás tan enojado, ratoncito?», pregunta con una voz suave. Ramón le cuenta sobre el abusón en el plato de plata."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Ana smiles. \"That is not a bully, little fellow. That is a reflection. It is you!\" she explains. \"A reflection shows you what you look like. If you are angry, it is angry. If you smile, it smiles.\"",
+      "text": "Ana sonríe. «Ese no es un abusón, pequeño compañero. Es un reflejo. ¡Eres tú!», explica ella. «Un reflejo te muestra cómo te ves. Si estás enojado, él está enojado. Si sonríes, él sonríe»."
+    },
+    {
+      "type": "image",
+      "id": "5",
+      "alt": "Una araña sabia le explica a Ramón qué es un reflejo, y Ramón parece sorprendido y aliviado.",
+      "prompt": "In the dusty basement, a kind, elderly spider named Ana is in her web, speaking gently to Ramón the mouse who is looking up at her. Ramón has a wide-eyed expression of surprise and understanding. A single ray of light illuminates the two characters, creating a warm and magical moment of learning. The style is classic storybook, filled with emotion. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Ramón understands. It is almost noon, but he is not going to fight. He runs back to the dining room, looks at the plate, and smiles. The other mouse smiles back. Ramón has found a new friend.",
+      "text": "Ramón entiende. Es casi mediodía, pero ya no va a pelear. Corre de vuelta al comedor, mira el plato y sonríe. El otro ratón le devuelve la sonrisa. Ramón ha encontrado un nuevo amigo."
+    }
+  ],
+  "moral": {
+    "translation": "It is wiser to understand something before you decide to fight it.",
+    "text": "Es más sabio entender algo antes de decidirte a luchar contra ello."
+  }
+}

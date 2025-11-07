@@ -1,0 +1,96 @@
+{
+  "title": "Aníbal y el Misterio del Fin de Semana",
+  "seed_words": [
+    "organization",
+    "weekend",
+    "sight",
+    "event",
+    "grab"
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "translation": "Aníbal the ant is the most organized ant in the entire forest. He loves work. Every day, Aníbal makes lists and plans. \"Organization is the most important thing!\" he always says. For Aníbal, every minute of the day is for working.",
+      "text": "Aníbal la hormiga es la hormiga más organizada de todo el bosque. Le encanta el trabajo. Cada día, Aníbal hace listas y planes. \"¡La organización es lo más importante!\", dice siempre. Para Aníbal, cada minuto del día es para trabajar."
+    },
+    {
+      "type": "image",
+      "id": "1",
+      "alt": "Aníbal la hormiga, muy organizado, dirigiendo a otras hormigas en el bosque.",
+      "prompt": "A children's storybook illustration in a whimsical, colorful watercolor style. A tiny, serious-looking ant named Aníbal, wearing tiny spectacles, stands on a small rock. He is holding a leaf as a clipboard and pointing with a twig, directing a perfect line of other ants carrying green leaf fragments. The forest floor is detailed with moss and small flowers. The lighting is bright and cheerful. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "But one day, the weekend arrives. Aníbal wakes up and sees something very strange. The forest is silent. Nobody is working! He sees Lola the ladybug sleeping on a leaf. What a terrible sight! Aníbal thinks it's a very rare illness. \"Oh no! It's The Great Rest!\" he shouts, worried.",
+      "text": "Pero un día, llega el fin de semana. Aníbal se despierta y ve algo muy extraño. El bosque está en silencio. ¡Nadie está trabajando! Ve a Lola la mariquita durmiendo en una hoja. ¡Qué visión tan terrible! Aníbal piensa que es una enfermedad muy rara. \"¡Oh, no! ¡Es El Gran Descanso!\", grita preocupado."
+    },
+    {
+      "type": "image",
+      "id": "2",
+      "alt": "La hormiga Aníbal mira con horror a una mariquita que duerme tranquilamente.",
+      "prompt": "Whimsical children's book illustration. Aníbal the ant stands on a twig, his tiny antennae bent in alarm and his eyes wide with shock. He is looking down at a cute, red ladybug (Lola) who is sleeping peacefully on a large, dew-kissed green leaf. The background is a soft-focus, sunny forest. The mood is comical due to Aníbal's overreaction. The art style is gentle and warm."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Aníbal decides he needs to act. \"I must organize a big event!\" he thinks. \"An event to save everyone from laziness!\" His plan is the \"Great Work March.\" He runs to Lola the ladybug to wake her up.",
+      "text": "Aníbal decide que necesita actuar. \"¡Debo organizar un gran evento!\", piensa. \"¡Un evento para salvar a todos de la pereza!\". Su plan es la \"Gran Marcha del Trabajo\". Corre hacia Lola la mariquita para despertarla."
+    },
+    {
+      "type": "paragraph",
+      "translation": "\"Lola, wake up!\" says Aníbal. \"What's wrong, Aníbal? It's the weekend, I want to rest,\" Lola replies in a sleepy voice. \"There's no time to rest! The Great Rest is here! Join my event! We are going to march and work!\" insists Aníbal. Lola, still half-asleep, agrees to follow him.",
+      "text": "\"¡Lola, despierta!\", dice Aníbal. \"¿Qué pasa, Aníbal? Es el fin de semana, quiero descansar\", responde Lola con voz soñolienta. \"¡No hay tiempo para descansar! ¡El Gran Descanso está aquí! ¡Únete a mi evento! ¡Vamos a marchar y trabajar!\", insiste Aníbal. Lola, todavía medio dormida, acepta seguirlo."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Then they find Arturo the squirrel, who is yawning on a tree branch. \"Arturo! Quick! We need your help!\" says Aníbal. \"I'm very tired, Aníbal,\" says Arturo. Aníbal explains about the terrible \"Great Rest\" and his important event. Arturo sighs and comes down from the tree to join the march.",
+      "text": "Luego encuentran a Arturo la ardilla, que está bostezando en la rama de un árbol. \"¡Arturo! ¡Rápido! ¡Necesitamos tu ayuda!\", dice Aníbal. \"Estoy muy cansado, Aníbal\", dice Arturo. Aníbal le explica sobre el terrible \"Gran Descanso\" y su importante evento. Arturo suspira y baja del árbol para unirse a la marcha."
+    },
+    {
+      "type": "image",
+      "id": "3",
+      "alt": "Aníbal la hormiga lidera a una mariquita soñolienta y a una ardilla que bosteza.",
+      "prompt": "A humorous children's book scene in a soft, painterly style. Aníbal the ant marches with great determination at the front. Following him reluctantly are Lola the ladybug, who is rubbing her eyes, and Arturo the squirrel, who has a huge yawn on his face. They form a small, comical parade on a forest path. The lighting is golden afternoon sun."
+    },
+    {
+      "type": "paragraph",
+      "translation": "The small procession continues. Under a mushroom, they see Ernesto the beetle. He is also trying to sleep. Once again, Aníbal explains the danger and the need for his \"Great Work March.\" Ernesto complains, but Aníbal's energy is contagious. \"Alright, alright, I'll go!\" says Ernesto.",
+      "text": "La pequeña procesión continúa. Debajo de una seta, ven a Ernesto el escarabajo. Él también intenta dormir. Una vez más, Aníbal explica el peligro y la necesidad de su \"Gran Marcha del Trabajo\". Ernesto se queja, pero la energía de Aníbal es contagiosa. \"Está bien, está bien, ¡voy!\", dice Ernesto."
+    },
+    {
+      "type": "image",
+      "id": "4",
+      "alt": "El desfile de Aníbal ha crecido con un escarabajo gruñón.",
+      "prompt": "A funny and charming illustration for a kids' book. Aníbal the ant leads his tired army. Behind him are the sleepy ladybug, the yawning squirrel, and now a grumpy-looking black beetle (Ernesto) with his arms crossed. They are walking through a field of colorful wildflowers. The expressions on the followers' faces clearly show they would rather be sleeping. The style is cute and expressive."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Finally, the group arrives at a berry bush. There they see Benito the badger, an old and wise animal. Benito is very calm. With his paw, he is trying to grab the ripest berries from the top of the bush. He smiles as he works slowly.",
+      "text": "Finalmente, el grupo llega a un arbusto de bayas. Allí ven a Benito el tejón, un animal viejo y sabio. Benito está muy tranquilo. Con su pata, intenta agarrar las bayas más maduras de la parte superior del arbusto. Él sonríe mientras trabaja lentamente."
+    },
+    {
+      "type": "paragraph",
+      "translation": "\"Mr. Badger!\" exclaims Aníbal. \"You are infected too! You are not working fast! Join our event to fight The Great Rest!\" Benito the badger looks at the small, energetic group. He laughs softly.",
+      "text": "\"¡Señor Tejón!\", exclama Aníbal. \"¡Usted también está infectado! ¡No trabaja rápido! ¡Únase a nuestro evento para luchar contra El Gran Descanso!\". Benito el tejón mira al pequeño y energético grupo. Se ríe suavemente."
+    },
+    {
+      "type": "image",
+      "id": "5",
+      "alt": "El sabio tejón Benito le sonríe amablemente a la pequeña hormiga Aníbal y su grupo de seguidores cansados.",
+      "prompt": "A heartwarming storybook illustration. A large, friendly, and wise-looking badger (Benito) with kind eyes is sitting by a berry bush. He is looking down and smiling gently at the tiny ant, Aníbal, who is gesturing with excitement. Behind Aníbal, the ladybug, squirrel, and beetle look on with tired but hopeful expressions. The scene is set in a peaceful clearing with warm, soft lighting, conveying a moment of gentle teaching. Art style is warm and classic."
+    },
+    {
+      "type": "paragraph",
+      "translation": "\"Little Aníbal,\" says Benito in a calm voice. \"There is no illness. This is called the 'weekend.' It is a time to rest. Resting gives us energy for the new week of work. Working is important, but resting is important too.\"",
+      "text": "\"Pequeño Aníbal\", dice Benito con voz calmada. \"No hay ninguna enfermedad. Esto se llama 'fin de semana'. Es un tiempo para descansar. El descanso nos da energía para la nueva semana de trabajo. Trabajar es importante, pero descansar también lo es\"."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Aníbal is silent. He thinks about Benito's words. Suddenly, he understands. He feels a little silly. \"I'm sorry, friends,\" he says to the others. \"The event, the 'Great Work March,' is cancelled.\" Aníbal yawns for the first time. He decides that a nap is an excellent idea. And all the animals rested happily for the rest of the weekend.",
+      "text": "Aníbal se queda en silencio. Piensa en las palabras de Benito. De repente, entiende. Se siente un poco tonto. \"Lo siento, amigos\", dice a los demás. \"El evento, la 'Gran Marcha del Trabajo', está cancelado\". Aníbal bosteza por primera vez. Decide que una siesta es una excelente idea. Y todos los animales descansaron felices durante el resto del fin de semana."
+    }
+  ],
+  "moral": {
+    "translation": "Moral: To work is good, but to know when to rest is wise.",
+    "text": "Moraleja: Trabajar es bueno, pero saber cuándo descansar es de sabios."
+  }
+}

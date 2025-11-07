@@ -1,0 +1,78 @@
+**Role:** Act as an expert writer of educational fables for language learners.
+
+**Task:** Generate a single JSON object that contains a short, original fable in Spanish. This fable should be created using five **English** seed words that will be provided separately. The story's content must be designed for beginner-to-intermediate learners (CEFR level A2), strictly following the style of a classic folk tale. The story must be around 500-700 words. The final output **must** be only the JSON object, with no other text before or after it.
+
+**Output Format:**
+
+You must generate a single, valid JSON object that strictly adheres to the following structure. Pay close attention to every key and type.
+
+- **Root Object:** The main object must contain four keys: `title`, `seed_words`, `content`, and `moral`.
+- **`content` Array:** This array must contain a mix of "paragraph" and "image" objects that tell the story sequentially.
+    - It must contain **exactly 5 "image" objects** placed at logical points in the narrative.
+- **Paragraph Object:**
+    - `"type": "paragraph"`
+    - `"translation"`: A string with the English translation of the Spanish text.
+    - `"text"`: A string with the Spanish text. HTML tags like `<br>` and `<em>` are permitted.
+- **Image Object:**
+    - `"type": "image"`
+    - `"id"`: A unique string identifier for the image (e.g., "1", "2").
+    - `"alt"`: A descriptive string in Spanish for the image's alt attribute.
+    - `"prompt"`: A very descriptive English prompt for an image generation AI. The prompt should describe the characters' expressions, the setting, the lighting, and the overall mood in a style suitable for a children's storybook. NEVER allow text in the image. YOU MUST describe the artistic style, and it must be suitable for kids.
+- **`moral` Object:**
+    - `"translation"`: A string with the English translation of the moral.
+    - `"text"`: A string with the Spanish moral.
+
+**Example of the required JSON structure:**
+
+```
+{
+  "title": "El Sapo Simón y el Monstruo del Eco",
+  "seed_words": ["toad", "echo", "monster", "confront", "turtle"],
+  "content": [
+    {
+      "type": "paragraph",
+      "translation": "One day, Simon the toad is sitting near a large canyon. He is a happy toad who loves to sing.",
+      "text": "Un día, el sapo Simón está sentado cerca de un gran cañón. Es un sapo feliz que le gusta mucho cantar."
+    },
+    {
+      "type": "image",
+      "id": "1",
+      "alt": "Sapo Simón cantando cerca de un cañón",
+      "prompt": "A vibrant and colorful children's book illustration of a cute, stylized green frog (Simón) sitting happily on a smooth rock at the edge of a vast canyon. His mouth is wide open, joyfully singing. The style is simple, friendly, and warm."
+    }
+  ],
+  "moral": {
+    "translation": "Moral: It's better to understand the world before getting angry with it.",
+    "text": "Moraleja: Es mejor entender el mundo antes de enfadarse con él."
+  }
+}
+```
+
+**Seed Words:**
+You will be given five English seed words after these instructions. You must translate their concepts to create a story in simple Spanish based on the blueprint below.
+
+**Core Instructions for Story Content:**
+
+**1. Story Generation from Seed Words:**
+You must construct a coherent narrative by interpreting the five seed words according to the following blueprint.
+- **Protagonist:** The main character is an animal suggested by the **first seed word**.
+- **The Misunderstanding:** The protagonist interacts with an object or phenomenon related to the **second seed word** and completely misunderstands it as the **third seed word**. This forms the central false belief.
+- **The Misguided Quest:** In response, the protagonist decides to perform an action related to the **fourth seed word**. This action becomes the goal of their urgent quest.
+- **The Resolution:** The climax involves a wise (or cunning) character or a situation related to the **fifth seed word**, which reveals the truth and resolves the misunderstanding.
+- **Creative Interpretation Rule:** The seed words are your guide. If a literal interpretation creates a nonsensical story, you must substitute a word with a closely related concept to ensure the fable is logical and charming.
+
+**2. Language and Tone:**
+- **Vocabulary:** Use simple, high-frequency Spanish words.
+- **Tense:** Write the story predominantly in the present tense (`presente de indicativo`).
+- **Sentence Structure:** Use short, direct, and declarative sentences. Employ repetition of key phrases.
+- **Tone:** The story should be simple, naive, and slightly humorous.
+**3. Characters:**
+- The characters **must** be animals with memorable, alliterative, or rhyming Spanish names (e.g., *la Rana Rita*, *el Caballo Carlos*).
+**4. Plot and Dialogue Structure:**
+- **The Misguided Quest:** The protagonist meets 3 to 4 other animal characters, one by one, convincing each to join the mission.
+- **Repetitive Dialogue Formula:** Each encounter must follow a predictable conversational pattern.
+- **The Climax & Resolution:** The group encounters the final character or situation derived from the **fifth seed word**, who calmly explains the reality.
+- **The Moral:** Conclude with a single, clear moral.
+
+Here are the 5 seed words:
+{{seeds}}

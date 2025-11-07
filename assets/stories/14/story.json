@@ -1,0 +1,101 @@
+{
+  "title": "El Ratón Ramón y el Pirata Inmóvil",
+  "seed_words": [
+    "breath",
+    "pirate",
+    "protection",
+    "gravity",
+    "judge"
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "translation": "In a large field of golden corn lived a tiny mouse named Ramón. He was so small and quiet that his footsteps were like a soft breath of wind. Ramón was a very curious mouse who loved to explore.",
+      "text": "En un gran campo de maíz dorado vivía un ratón diminuto llamado Ramón. Era tan pequeño y silencioso que sus pasos eran como un suave soplo de viento. Ramón era un ratón muy curioso al que le encantaba explorar."
+    },
+    {
+      "type": "paragraph",
+      "translation": "One sunny morning, Ramón saw something new in the middle of the field. It was a tall figure on a wooden pole. The figure wore a big hat, raggedy clothes, and a black patch over one eye. \"Wow!\" whispered Ramón. \"It's a pirate!\"",
+      "text": "Una mañana de sol, Ramón vio algo nuevo en medio del campo. Era una figura alta sobre un palo de madera. La figura tenía un sombrero grande, ropa vieja y un parche negro en un ojo. «¡Guau!», susurró Ramón. «¡Es un pirata!»"
+    },
+    {
+      "type": "image",
+      "id": "1",
+      "alt": "El Ratón Ramón mirando sorprendido a un espantapájaros que parece un pirata.",
+      "prompt": "A children's storybook illustration in a whimsical, colorful watercolor style. A tiny, cute brown mouse named Ramón, with big ears, stands in a golden cornfield looking up in awe. In the center is a tall wooden pole with a funny-looking scarecrow on top. The scarecrow wears a floppy hat, an eye patch, and raggedy clothes, resembling a friendly pirate. The sun is shining brightly, casting a warm, gentle light. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Ramón was not afraid. He thought, \"A pirate in our field! He must be here for our protection! He will protect us from the big birds!\" Ramón decided to call him the Brave Pirate. But the Brave Pirate did not move. He just stood there, high on his pole.",
+      "text": "Ramón no tenía miedo. Él pensó: «¡Un pirata en nuestro campo! ¡Debe estar aquí para nuestra protección! ¡Nos protegerá de los pájaros grandes!». Ramón decidió llamarlo el Pirata Valiente. Pero el Pirata Valiente no se movía. Solo estaba allí, en lo alto de su palo."
+    },
+    {
+      "type": "paragraph",
+      "translation": "\"Oh, I understand!\" Ramón thought. \"He has a problem with gravity! Gravity isn't working for him, so he can't come down. I must help him! I will fix gravity!\" And with this very important mission, Ramón ran to find his friends.",
+      "text": "«¡Oh, ya entiendo!», pensó Ramón. «¡Tiene un problema con la gravedad! La gravedad no funciona para él, por eso no puede bajar. ¡Debo ayudarlo! ¡Voy a arreglar la gravedad!». Y con esta misión tan importante, Ramón corrió a buscar a sus amigos."
+    },
+    {
+      "type": "image",
+      "id": "2",
+      "alt": "Un primer plano del Ratón Ramón con una expresión decidida y una bombilla sobre su cabeza.",
+      "prompt": "A close-up illustration of the cute mouse Ramón, in a charming storybook art style. He has a determined expression, with a furrowed brow and a tiny fist clenched. A cartoonish, glowing lightbulb hovers above his head, indicating a brilliant idea. The background is a soft, out-of-focus view of the cornfield. The style is playful and expressive. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "First, he found Adela the squirrel. \"Adela! Come quick!\" said Ramón. \"There is a Brave Pirate to protect us, but gravity is broken for him! We must help him get down!\" Adela looked at the pirate. \"A pirate for protection? What a great idea! Let's help!\" she said.",
+      "text": "Primero, encontró a la ardilla Adela. «¡Adela! ¡Ven rápido!», dijo Ramón. «¡Hay un Pirata Valiente para protegernos, pero la gravedad está rota para él! ¡Debemos ayudarlo a bajar!». Adela miró al pirata. «¿Un pirata para la protección? ¡Qué buena idea! ¡Vamos a ayudar!», dijo ella."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Then, they found Carlos the rabbit. \"Carlos! We need your help!\" they shouted. \"We are fixing gravity for the Brave Pirate!\" Carlos wiggled his nose. \"Fixing gravity? That sounds very important! I will help!\" he said.",
+      "text": "Luego, encontraron al conejo Carlos. «¡Carlos! ¡Necesitamos tu ayuda!», gritaron. «¡Estamos arreglando la gravedad para el Pirata Valiente!». Carlos movió su nariz. «¿Arreglar la gravedad? ¡Eso suena muy importante! ¡Yo ayudaré!», dijo él."
+    },
+    {
+      "type": "image",
+      "id": "3",
+      "alt": "Ramón el ratón, Adela la ardilla y Carlos el conejo trabajando juntos en la base del poste del espantapájaros.",
+      "prompt": "A vibrant children's book illustration. At the base of a scarecrow pole, a team of three small, cute animal friends—a brown mouse (Ramón), a fluffy red squirrel (Adela), and a white rabbit (Carlos)—are looking up. They have determined and slightly puzzled expressions. The rabbit is starting to dig at the base of the pole. The scene is full of action and teamwork. The art style is bright, cheerful, and full of soft textures. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "The three friends worked hard. Adela climbed the pole and tried to pull the pirate. Carlos dug a hole around the pole to make it fall. But nothing happened. The pirate did not move. They were all very tired and sad.",
+      "text": "Los tres amigos trabajaron mucho. Adela subió por el palo e intentó tirar del pirata. Carlos cavó un hoyo alrededor del palo para que se cayera. Pero no pasó nada. El pirata no se movió. Estaban todos muy cansados y tristes."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Suddenly, a soft voice said, \"Hoo hoo... What are you little ones doing?\" It was Bruno the owl, the wise judge of the forest. He was perched on a branch, looking down at them with his big, round eyes.",
+      "text": "De repente, una voz suave dijo: «Hú hú... ¿Qué hacen ustedes, pequeños?». Era el búho Bruno, el sabio juez del bosque. Estaba posado en una rama, mirándolos con sus grandes ojos redondos."
+    },
+    {
+      "type": "image",
+      "id": "4",
+      "alt": "El Búho Bruno, un búho sabio con gafas, mirando desde una rama de árbol al atardecer.",
+      "prompt": "A beautiful storybook illustration set at twilight. A wise, scholarly owl named Bruno is perched on a thick tree branch. He wears small, round spectacles on his beak and looks down with a gentle, knowing smile. The background is a soft blend of deep blues and purples, with a few stars beginning to appear. The mood is calm and magical. The style is reminiscent of classic illustrated fables. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Ramón explained everything. \"We are trying to fix gravity to help the Brave Pirate come down and give us protection!\" Bruno the owl flew down. He looked at the pirate, and then at the tired friends, and he laughed a soft, kind laugh. \"Oh, little ones,\" he said gently.",
+      "text": "Ramón le explicó todo. «¡Estamos intentando arreglar la gravedad para ayudar al Pirata Valiente a bajar y darnos protección!». El búho Bruno bajó volando. Miró al pirata, y luego a los amigos cansados, y soltó una risa suave y amable. «Oh, pequeños», dijo con dulzura."
+    },
+    {
+      "type": "paragraph",
+      "translation": "\"That is not a pirate. That is a scarecrow. <em>Un espantapájaros.</em> It's made of straw and old clothes to scare birds away from the corn. It's not for protection, and it is not alive. And gravity,\" Bruno added, \"is working perfectly. It's what keeps you on the ground and what keeps that pole in the dirt.\"",
+      "text": "«Eso no es un pirata. Eso es un espantapájaros. <em>Un espantapájaros.</em> Está hecho de paja y ropa vieja para asustar a los pájaros y que no se coman el maíz. No es para dar protección, y no está vivo. Y la gravedad», añadió Bruno, «funciona perfectamente. Es lo que los mantiene a ustedes en el suelo y lo que mantiene ese palo en la tierra»."
+    },
+    {
+      "type": "image",
+      "id": "5",
+      "alt": "Los tres animalitos mirando con sorpresa al búho mientras este les explica la verdad sobre el espantapájaros.",
+      "prompt": "An expressive children's book illustration. The wise owl, Bruno, stands on the ground explaining something to the three small animals: Ramón the mouse, Adela the squirrel, and Carlos the rabbit. The three friends are sitting and listening with wide, surprised eyes, their mouths slightly open in a 'O' shape of realization. The scarecrow stands silently in the background. The lighting is soft and warm, highlighting the moment of learning. The art style is gentle and heartwarming. No text in the image."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Ramón, Adela, and Carlos looked at the scarecrow, then at each other. They felt a little bit silly, but they also felt smart. They had learned something new. They thanked the wise owl and went home, understanding the world a little bit better.",
+      "text": "Ramón, Adela y Carlos miraron al espantapájaros y luego se miraron entre ellos. Se sintieron un poco tontos, pero también se sintieron inteligentes. Habían aprendido algo nuevo. Dieron las gracias al búho sabio y se fueron a casa, entendiendo el mundo un poquito mejor."
+    }
+  ],
+  "moral": {
+    "translation": "It is better to ask and understand the world, than to invent a story and work in vain.",
+    "text": "Moraleja: Es mejor preguntar y entender el mundo, que inventar una historia y trabajar en vano."
+  }
+}

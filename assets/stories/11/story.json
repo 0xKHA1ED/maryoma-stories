@@ -1,0 +1,81 @@
+{
+  "title": "La Planta Patricia y la Puerta Misteriosa",
+  "seed_words": [
+    "plant",
+    "bottom",
+    "gate",
+    "gum",
+    "weapon"
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "translation": "Patricia is a small, happy plant. She lives in a beautiful clay pot on a sunny window sill. She loves to feel the sun on her leaves and drink fresh water. Every day is a good day for Patricia.",
+      "text": "Patricia es una planta pequeña y feliz. Vive en una bonita maceta de barro en el alféizar de una ventana soleada. A ella le encanta sentir el sol en sus hojas y beber agua fresca. Cada día es un buen día para Patricia."
+    },
+    {
+      "type": "image",
+      "id": "1",
+      "alt": "Una planta sonriente en una maceta en una ventana soleada.",
+      "prompt": "A cute, anthropomorphic houseplant with big, expressive green leaves and a cheerful smile, sitting in a terracotta pot on a sunny windowsill. The style is a gentle and warm children's book illustration, with soft watercolor textures and bright, friendly colors. The background shows a blurry, happy home interior. No text."
+    },
+    {
+      "type": "paragraph",
+      "translation": "But one day, Patricia discovers something new. At the bottom of her pot, there is a small, dark, round hole. \"What is this?\" she thinks. \"It looks like a gate! A secret gate to the world below!\" She touches it with a root. It feels a little sticky and wet. \"Oh no! It's gum! A monster has blocked the gate with sticky gum!\"",
+      "text": "Pero un día, Patricia descubre algo nuevo. En el <em>fondo</em> de su maceta, hay un pequeño agujero oscuro y redondo. «¿Qué es esto?», piensa. «¡Parece una <em>puerta</em>! ¡Una puerta secreta al mundo de abajo!». Lo toca con una raíz. Se siente un poco pegajoso y húmedo. «¡Oh, no! ¡Es <em>chicle</em>! ¡Un monstruo ha bloqueado la puerta con chicle pegajoso!»."
+    },
+    {
+      "type": "image",
+      "id": "2",
+      "alt": "La planta Patricia mira con miedo un pequeño agujero en el fondo de su maceta.",
+      "prompt": "A dramatic close-up from the plant's point of view, looking down into the dark soil of her pot. A small, perfectly round drainage hole is visible, appearing like a mysterious, dark gateway. One of the plant's roots tentatively reaches towards it. The mood is slightly fearful but curious, rendered in a colorful, soft-focus children's illustration style. No text."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Patricia is very worried. She believes she needs a weapon to break the gum and open the gate. \"Help! Help!\" she shouts. A fly, Marta the Fly, hears her. \"What's wrong, Patricia?\" asks Marta. \"A monster blocked the secret gate with gum! We need a weapon!\" says Patricia. \"How terrible! I will help you!\" says Marta.",
+      "text": "Patricia está muy preocupada. Ella cree que necesita un <em>arma</em> para romper el chicle y abrir la puerta. «¡Ayuda! ¡Ayuda!», grita. Una mosca, la Mosca Marta, la oye. «¿Qué pasa, Patricia?», pregunta Marta. «¡Un monstruo bloqueó la puerta secreta con chicle! ¡Necesitamos un arma!», dice Patricia. «¡Qué terrible! ¡Yo te ayudo!», dice Marta."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Patricia and Marta look for help. They see a snail, Carlos the Snail. \"Carlos! We need your help!\" says Marta. Patricia explains the problem: \"There's a gate at the bottom of my pot. It's blocked with gum. We need a weapon to open it!\" Carlos is a brave snail. \"A blocked gate? That is serious. I will join your quest!\" he says slowly.",
+      "text": "Patricia y Marta buscan ayuda. Ven a un caracol, el Caracol Carlos. «¡Carlos! ¡Necesitamos tu ayuda!», dice Marta. Patricia explica el problema: «Hay una puerta en el fondo de mi maceta. Está bloqueada con chicle. ¡Necesitamos un arma para abrirla!». Carlos es un caracol valiente. «¿Una puerta bloqueada? Eso es serio. ¡Me uniré a vuestra misión!», dice lentamente."
+    },
+    {
+      "type": "image",
+      "id": "3",
+      "alt": "La planta, una mosca y un caracol, juntos en una misión.",
+      "prompt": "The cute plant Patricia in her pot, alongside a tiny, buzzing fly with large eyes (Marta) and a slow but brave-looking snail (Carlos) with a colorful shell. They are all gathered together and have determined expressions, ready for a quest. The style is a whimsical, vibrant children's book illustration set against a soft, out-of-focus background. No text."
+    },
+    {
+      "type": "paragraph",
+      "translation": "The three friends continue. Soon, they find a spider, Ana the Spider, weaving a web. \"Ana! There is an emergency!\" they all shout. Ana stops her work. \"What is happening?\" she asks. \"A monster put gum on a secret gate!\" explains Carlos. \"We need a weapon, a tool, something strong to break it!\" adds Patricia. \"A monster! I will help you protect the gate!\" says Ana, and she joins the group.",
+      "text": "Los tres amigos continúan. Pronto, encuentran a una araña, la Araña Ana, tejiendo una telaraña. «¡Ana! ¡Hay una emergencia!», gritan todos. Ana detiene su trabajo. «¿Qué está pasando?», pregunta. «¡Un monstruo puso chicle en una puerta secreta!», explica Carlos. «¡Necesitamos un arma, una herramienta, algo fuerte para romperlo!», añade Patricia. «¡Un monstruo! ¡Yo os ayudaré a proteger la puerta!», dice Ana, y se une al grupo."
+    },
+    {
+      "type": "image",
+      "id": "4",
+      "alt": "El grupo completo de amigos —planta, mosca, caracol y araña— miran preocupados la maceta.",
+      "prompt": "The full team of heroes—Patricia the plant, Marta the fly, Carlos the snail, and Ana the spider hanging from a delicate web—are gathered at the base of the large terracotta pot. They are all peering intently at the bottom of the pot with expressions of deep concern and worry. The art style is a colorful, detailed storybook illustration that emphasizes their teamwork and shared anxiety. No text."
+    },
+    {
+      "type": "paragraph",
+      "translation": "The group does not know what to do. Suddenly, a small head appears from the soil inside the pot. It is Lorenzo the Earthworm. He is old and very wise. \"Why is everyone so worried?\" he asks calmly. They all explain the story of the monster, the gate, the gum, and the need for a weapon.",
+      "text": "El grupo no sabe qué hacer. De repente, una pequeña cabeza aparece de la tierra dentro de la maceta. Es el Lombriz Lorenzo. Es viejo y muy sabio. «¿Por qué están todos tan preocupados?», pregunta con calma. Todos le explican la historia del monstruo, la puerta, el chicle y la necesidad de un arma."
+    },
+    {
+      "type": "paragraph",
+      "translation": "Lorenzo laughs a soft, gentle laugh. \"My friends,\" he says, \"That is not a gate. It's just a hole for the water to escape. And that is not gum. It's just wet soil. There is no monster.\" He continues, \"You don't need a weapon. Watch.\" Lorenzo calmly burrows down through the soil and passes easily through the hole, waving from the other side. The friends look at each other and laugh, relieved.",
+      "text": "Lorenzo ríe una risa suave y gentil. «Mis amigos», dice, «eso no es una puerta. Es solo un agujero para que salga el agua. Y eso no es chicle. Es solo tierra mojada. No hay ningún monstruo». Continúa: «No necesitáis un arma. Mirad». Lorenzo se entierra tranquilamente en la tierra y pasa fácilmente por el agujero, saludando desde el otro lado. Los amigos se miran y ríen, aliviados."
+    },
+    {
+      "type": "image",
+      "id": "5",
+      "alt": "Un gusano sabio sonríe mientras sale por el agujero de la maceta, y los otros animales lo miran con alivio.",
+      "prompt": "A friendly, wise-looking earthworm (Lorenzo), perhaps wearing tiny spectacles, is cheerfully peeking out of the drainage hole at the bottom of the terracotta pot. He is waving one end of his body like a hand. Looking down from above are Patricia the plant, Marta the fly, Carlos the snail, and Ana the spider, all with expressions of immense surprise, understanding, and relief. The scene is bright, happy, and rendered in a warm, storybook watercolor style. No text."
+    }
+  ],
+  "moral": {
+    "translation": "Moral: Often, big problems are just small misunderstandings.",
+    "text": "Moraleja: A menudo, los grandes problemas son solo pequeños malentendidos."
+  }
+}
